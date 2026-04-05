@@ -3,14 +3,12 @@ using UnityEngine.InputSystem;
 
 public class NewMonoBehaviourScript : MonoBehaviour
 {
-    Rigidbody2D Player;
+    Rigidbody2D rb;
     const float MoveSpeed = 5f;
-    InputActionAsset action;
-    double VisionAngle = 90;
 
     private void Awake()
     {
-        Player = GetComponent<Rigidbody2D>();
+        rb = GetComponent<Rigidbody2D>();
     }
     void Start()
     {
@@ -21,17 +19,18 @@ public class NewMonoBehaviourScript : MonoBehaviour
     void FixedUpdate()
     {
         // Логика движения
-        var newPos = Player.position + GetMovementVector() * MoveSpeed;
+        var moveVector = GetMovementVector() * MoveSpeed;
+        var newPos = rb.position + moveVector;
 
         // Логика слежения модельки за курсором мыши
         var mousePos = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
         var lookVector = new Vector2(mousePos.x, mousePos.y) - newPos;
 
         // Передвижение 
-        Player.MovePositionAndRotation(newPos * Time.fixedDeltaTime, Mathf.Atan2(lookVector.y, lookVector.x) * Mathf.Rad2Deg);
+        rb.MovePositionAndRotation(newPos * Time.fixedDeltaTime, Mathf.Atan2(lookVector.y, lookVector.x) * Mathf.Rad2Deg);
         
         // Слежение камеры за игроком
-        Camera.main.transform.position = new Vector3(Player.position.x, Player.position.y, -10);
+        Camera.main.transform.position = new Vector3(rb.position.x, rb.position.y, -10);
     }
 
     /// <summary>
