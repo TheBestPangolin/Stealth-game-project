@@ -20,14 +20,14 @@ public class NewMonoBehaviourScript : MonoBehaviour
     {
         // Логика движения
         var moveVector = GetMovementVector() * MoveSpeed;
-        var newPos = rb.position + moveVector;
+        var newPos = rb.position + moveVector * Time.fixedDeltaTime;
 
         // Логика слежения модельки за курсором мыши
         var mousePos = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
         var lookVector = new Vector2(mousePos.x, mousePos.y) - newPos;
 
         // Передвижение 
-        rb.MovePositionAndRotation(newPos * Time.fixedDeltaTime, Mathf.Atan2(lookVector.y, lookVector.x) * Mathf.Rad2Deg);
+        rb.MovePositionAndRotation(newPos, Mathf.Atan2(lookVector.y, lookVector.x) * Mathf.Rad2Deg);
         
         // Слежение камеры за игроком
         Camera.main.transform.position = new Vector3(rb.position.x, rb.position.y, -10);
