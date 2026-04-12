@@ -1,37 +1,45 @@
-using System.Collections.Generic;
-using System.Threading;
 using UnityEngine;
 using UnityEngine.AI;
 
-public class EnemyLogic : MonoBehaviour
+public class DynamicEnemyLogic : MonoBehaviour
 {
-    List<Enemy> Enemies;
+    DynamicEnemy Entity;
+    public Transform[] MovePoints;
+    public Transform[] LookPoints;
+    private int CurPoint = 0;
+    private bool IsMovingBack = false;
+    private double epsilon = 0.01;
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        foreach (var enemy in GameObject.FindGameObjectsWithTag("Enemy"))
-        {
-            Debug.Log(enemy.name);
-            var name = enemy.name;
-            enemy.AddComponent<Rigidbody2D>();
-            enemy.AddComponent<NavMeshAgent>();
-            var enemyRigid = enemy.GetComponent<Rigidbody2D>();
-            enemyRigid.gravityScale = 0;
-            var agent = enemy.GetComponent<NavMeshAgent>();
-            agent.autoBraking = false;
-            if (name.StartsWith("melee"))
-                Enemies.Add(new MeleeEnemy(agent, enemy, enemyRigid));
-            else if (name.StartsWith("shoot"))
-                Enemies.Add(new ShootEnemy(agent, enemy, enemyRigid));
-            else if (name.StartsWith("camera"))
-                Enemies.Add(new CameraEnemy(agent, enemy, enemyRigid));
-            else if (name.StartsWith("laser"))
-                Enemies.Add(new LaserEnemy(agent, enemy, enemyRigid));
-
-        }
     }
 
+    private void Awake()
+    {
+        var agent = GetComponent<NavMeshAgent>();
+        var rb = GetComponent<Rigidbody2D>();
+        if (name.StartsWith("melee"))
+            Entity = new MeleeEnemy(agent, rb);
+        else if (name.StartsWith("shoot"))
+            Entity = new ShootEnemy(agent, rb);
+        agent.updateRotation = false;
+        agent.updateUpAxis = false;
+        Entity.GoNext(MovePoints[CurPoint].localPosition);
+    }
+
+    // Update is called once per frame
     void Update()
     {
-        Debug.Log("wha");
+        var curDest = MovePoints[CurPoint].localPosition;
+        if ((Entity.Rigidbody.position - new Vector2(curDest.x, curDest.y)).magnitude < epsilon)
+        {
+            CurPoint += IsMovingBack ? -1 : 1;
+            if (CurPoint == MovePoints.Length || CurPoint == -1)
+            {
+                CurPoint += IsMovingBack ? 1 : -1;
+                IsMovingBack = !IsMovingBack;
+            }
+            Entity.GoNext(MovePoints[CurPoint].localPosition);
+        }
     }
 }

@@ -4,36 +4,44 @@ using System.Diagnostics;
 using UnityEngine;
 using UnityEngine.AI;
 
-public abstract class Enemy
+public abstract class DynamicEnemy
 {
-    
     public double StunTime;
     public Stopwatch StunWatch;
     public PolygonCollider2D Vision;
     public NavMeshAgent Agent;
-    public GameObject GameObject;
     public Rigidbody2D Rigidbody;
-    public Transform[] MovePoints;
-    public float MoveSpeed;
-    public Enemy(NavMeshAgent agent, GameObject gameObject, Rigidbody2D rigidbody)
+    public DynamicEnemy(NavMeshAgent agent, Rigidbody2D rigidbody)
     {
         Agent = agent;
-        GameObject = gameObject;
         Rigidbody = rigidbody;
     }
     public abstract void OnDetect();
-    //public void GoNext()
-    //{
-    //    Agent.
-    //}
+    public void GoNext(Vector3 MovePoint)
+    {
+        Agent.SetDestination(MovePoint);
+    }
 }
 
-public class MeleeEnemy : Enemy
+public abstract class StaticEnemy
 {
-    public MeleeEnemy(NavMeshAgent agent, GameObject gameObject, Rigidbody2D rigidbody) : base(agent, gameObject, rigidbody)
+    public double StunTime;
+    public Stopwatch StunWatch;
+    public PolygonCollider2D Vision;
+    public Rigidbody2D Rigidbody;
+
+    public StaticEnemy(Rigidbody2D rigidbody)
     {
-        MoveSpeed = 2f;
+        Rigidbody = rigidbody;
+    }
+    public abstract void OnDetect();
+}
+public class MeleeEnemy : DynamicEnemy
+{
+    public MeleeEnemy(NavMeshAgent agent, Rigidbody2D rigidbody) : base(agent, rigidbody)
+    {
         StunTime = 2;
+        Agent.speed = 7f;
     }
 
     public override void OnDetect()
@@ -42,13 +50,13 @@ public class MeleeEnemy : Enemy
     }
 }
 
-public class ShootEnemy : Enemy
+public class ShootEnemy : DynamicEnemy
 {
 
-    public ShootEnemy(NavMeshAgent agent, GameObject gameObject, Rigidbody2D rigidbody) : base(agent, gameObject, rigidbody)
+    public ShootEnemy(NavMeshAgent agent, Rigidbody2D rigidbody) : base(agent, rigidbody)
     {
-        MoveSpeed = 1f;
         StunTime = 3;
+        Agent.speed = 1f;
     }
 
     public override void OnDetect()
@@ -57,12 +65,11 @@ public class ShootEnemy : Enemy
     }
 }
 
-public class CameraEnemy : Enemy
+public class CameraEnemy : StaticEnemy
 {
 
-    public CameraEnemy(NavMeshAgent agent, GameObject gameObject, Rigidbody2D rigidbody) : base(agent, gameObject, rigidbody)
+    public CameraEnemy(Rigidbody2D rigidbody) : base(rigidbody)
     {
-        MoveSpeed = 0f;
         StunTime = 3;
     }
 
@@ -71,12 +78,11 @@ public class CameraEnemy : Enemy
     }
 }
 
-public class LaserEnemy : Enemy
+public class LaserEnemy : StaticEnemy
 {
 
-    public LaserEnemy(NavMeshAgent agent, GameObject gameObject, Rigidbody2D rigidbody) : base(agent, gameObject, rigidbody)
+    public LaserEnemy(Rigidbody2D rigidbody) : base(rigidbody)
     {
-        MoveSpeed = 0f;
         StunTime = 3;
     }
 
