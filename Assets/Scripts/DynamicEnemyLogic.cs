@@ -12,8 +12,10 @@ public class DynamicEnemyLogic : MonoBehaviour
     private bool IsMovingBack = false;
     private double epsilon = 0.1;
     private FOV_Logic FOV_Checker;
-    public LayerMask Targets;
     public LayerMask Walls;
+    private Vector3 LookVector;
+
+    private GameObject Player;
 
     private void Awake()
     {
@@ -26,14 +28,18 @@ public class DynamicEnemyLogic : MonoBehaviour
             Entity = new ShootEnemy(agent, rb);
         agent.updateRotation = false;
         agent.updateUpAxis = false;
+        Player = GameObject.FindGameObjectWithTag("Player");
         Entity.GoNext(ConvertLocal3DToWorld2D(MovePoints[CurPoint].localPosition));
-        FOV_Checker = new FOV_Logic(10f, 45f, Targets, Walls, GameObject.FindGameObjectWithTag("Player"), () => transform, target => Entity.OnDetect(target));
+        FOV_Checker = new FOV_Logic(10f, 45f, Walls, Player, () => transform.position, () => LookVector, target => Entity.OnDetect(target));
         StartCoroutine(FOV_Checker.FOV_Coroutine());
     }
 
     void FixedUpdate()
     {
+        if (Entity.IsStunned)
+            return;
         Vector2 curDest = Entity.Agent.destination;
+        LookVector = (Entity.Rigidbody.position - curDest);
         if ((Entity.Rigidbody.position - curDest).magnitude < epsilon)
         {
             CurPoint += IsMovingBack ? -1 : 1;
@@ -50,7 +56,7 @@ public class DynamicEnemyLogic : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             Debug.Log("You Died!");
-            collision.transform.position = new Vector3(12, 20, 0);
+            Player.SendMessage("Respawn");
         }
     }
 

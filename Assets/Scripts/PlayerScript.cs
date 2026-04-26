@@ -5,10 +5,18 @@ public class NewMonoBehaviourScript : MonoBehaviour
 {
     Rigidbody2D rb;
     const float MoveSpeed = 5f;
+    Vector2 CurrentRespawnPoint;
+    /// <summary>
+    /// 0 = EMP;
+    /// 1 = Smoke;
+    /// 2 = Stone;
+    /// </summary>
+    [SerializeField] GameObject[] Instruments; 
 
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        CurrentRespawnPoint = rb.position;
     }
     void Start()
     {
@@ -49,5 +57,10 @@ public class NewMonoBehaviourScript : MonoBehaviour
         if (input.dKey.isPressed)
             movement += new Vector2(1, 0);
         return movement.normalized;
+    }
+
+    void Respawn()
+    {
+        transform.position = CurrentRespawnPoint;
     }
 }

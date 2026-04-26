@@ -6,7 +6,7 @@ using UnityEngine.AI;
 public abstract class DynamicEnemy
 {
     public double StunTime;
-    public PolygonCollider2D Vision;
+    public bool IsStunned;
     public NavMeshAgent Agent;
     public Rigidbody2D Rigidbody;
     public DynamicEnemy(NavMeshAgent agent, Rigidbody2D rigidbody)
@@ -17,10 +17,7 @@ public abstract class DynamicEnemy
     public abstract void OnDetect(Vector2 target);
     public void GoNext(Vector3 MovePoint)
     {
-        lock (Agent)
-        {
-            Agent.SetDestination(MovePoint);
-        }
+        Agent.SetDestination(MovePoint);
     }
 }
 
@@ -46,10 +43,8 @@ public class MeleeEnemy : DynamicEnemy
 
     public override void OnDetect(Vector2 target)
     {
-        lock (Agent)
-        {
+        if (!IsStunned)
             Agent.SetDestination(target);
-        }
     }
 }
 
@@ -64,7 +59,7 @@ public class ShootEnemy : DynamicEnemy
 
     public override void OnDetect(Vector2 target)
     {
-        
+
     }
 }
 
