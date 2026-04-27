@@ -43,14 +43,20 @@ TagManager:
   - name: floor
     uniqueID: 931880235
     locked: 0
-  - name: hous`s floor
+  - name: house`s floor
     uniqueID: 2972639763
     locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: NPC
+    uniqueID: 3409523325
+    locked: 0
   - name: walls
     uniqueID: 3848082433
+    locked: 0
+  - name: house`s walls
+    uniqueID: 2353740737
     locked: 0
   - name: furniture
     uniqueID: 4157508003
