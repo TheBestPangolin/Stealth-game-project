@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 62de9a963dd1a2d4ba7bc69ae3e7d4a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3294788082675926453
+    second: AssaultRifle_0
+  - first:
+      213: -8812079127812957877
+    second: AssaultRifle_1
+  - first:
+      213: 1655854484713343581
+    second: AssaultRifle_2
+  - first:
+      213: -306374491431844271
+    second: AssaultRifle_3
+  - first:
+      213: -3218956353477472638
+    second: AssaultRifle_4
+  - first:
+      213: -7799002456425045850
+    second: AssaultRifle_5
+  - first:
+      213: 936631998507962784
+    second: AssaultRifle_6
+  - first:
+      213: 738601890546060185
+    second: AssaultRifle_7
+  - first:
+      213: 8545524853153195037
+    second: AssaultRifle_8
+  - first:
+      213: -2663018641220562987
+    second: AssaultRifle_9
+  - first:
+      213: 489707415681492465
+    second: AssaultRifle_10
+  - first:
+      213: 874018380851904923
+    second: AssaultRifle_11
+  - first:
+      213: 2621842356114783000
+    second: AssaultRifle_12
+  - first:
+      213: 5149571268637315244
+    second: AssaultRifle_13
+  - first:
+      213: 5541536620714460397
+    second: AssaultRifle_14
+  - first:
+      213: -1012780031856694161
+    second: AssaultRifle_15
+  - first:
+      213: -2578017485563508177
+    second: AssaultRifle_16
+  - first:
+      213: -113087226937707509
+    second: AssaultRifle_17
+  - first:
+      213: -7094524201517864538
+    second: AssaultRifle_18
+  - first:
+      213: 7485482586994262848
+    second: AssaultRifle_19
+  - first:
+      213: 29010654121804666
+    second: AssaultRifle_20
+  - first:
+      213: 7053371736337415173
+    second: AssaultRifle_21
+  - first:
+      213: -6388065719814345005
+    second: AssaultRifle_22
+  - first:
+      213: 4924808522939147323
+    second: AssaultRifle_23
+  - first:
+      213: -7216658949974545849
+    second: AssaultRifle_24
+  - first:
+      213: -787810050080875292
+    second: AssaultRifle_25
+  - first:
+      213: 8096313492849236943
+    second: AssaultRifle_26
+  - first:
+      213: -7304844062441665901
+    second: AssaultRifle_27
+  - first:
+      213: -6440385641628859228
+    second: AssaultRifle_28
+  - first:
+      213: 5025882423921909268
+    second: AssaultRifle_29
+  - first:
+      213: -8958901432069580973
+    second: AssaultRifle_30
+  - first:
+      213: -1594627411454407851
+    second: AssaultRifle_31
+  - first:
+      213: 8916223215668808155
+    second: AssaultRifle_32
+  - first:
+      213: -7811493024065013690
+    second: AssaultRifle_33
+  - first:
+      213: -1601861909341080758
+    second: AssaultRifle_34
+  - first:
+      213: -3817338613367310834
+    second: AssaultRifle_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AssaultRifle_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 216
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a39e102bf8642d0800000000000000
+      internalID: -3294788082675926453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 216
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49131eb8b435b580800000000000000
+      internalID: -8812079127812957877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 216
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a831971e6caf610800000000000000
+      internalID: 1655854484713343581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 215
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156c6f5f50a8fbbf0800000000000000
+      internalID: -306374491431844271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_4
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 216
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e0d735048f353d0800000000000000
+      internalID: -3218956353477472638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_5
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 216
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0e266369064c390800000000000000
+      internalID: -7799002456425045850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_6
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 216
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1d45417d59ffc00800000000000000
+      internalID: 936631998507962784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_7
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 215
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b0e64918a004a00800000000000000
+      internalID: 738601890546060185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_8
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 216
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14e77be39dc79670800000000000000
+      internalID: 8545524853153195037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 144
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df0ec3b7ae0b0bd0800000000000000
+      internalID: -2663018641220562987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 143
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5e19bcc4acbc600800000000000000
+      internalID: 489707415681492465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 144
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9107dd2613212c00800000000000000
+      internalID: 874018380851904923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 144
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b7b455bb7a26420800000000000000
+      internalID: 2621842356114783000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 144
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca05fa409c3f67740800000000000000
+      internalID: 5149571268637315244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_14
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 143
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4018b323e77ec40800000000000000
+      internalID: 5541536620714460397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_15
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 144
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ca29d4de1e1f1f0800000000000000
+      internalID: -1012780031856694161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_16
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 144
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2acd3c71ca093cd0800000000000000
+      internalID: -2578017485563508177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_17
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 144
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b047eb924cb3e6ef0800000000000000
+      internalID: -113087226937707509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 65
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9ad1eb3df2b8d90800000000000000
+      internalID: -7094524201517864538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 65
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0434a2ac0c6c1e760800000000000000
+      internalID: 7485482586994262848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 64
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73c1a54901176000800000000000000
+      internalID: 29010654121804666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 63
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cfb2d493c92e160800000000000000
+      internalID: 7053371736337415173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 65
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dead90c2180957a0800000000000000
+      internalID: -6388065719814345005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 66
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34aa94424f685440800000000000000
+      internalID: 4924808522939147323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_24
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74aaf95abe649db90800000000000000
+      internalID: -7216658949974545849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_25
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 64
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec5276fee22115f0800000000000000
+      internalID: -787810050080875292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_26
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 65
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb1b73c932eb5070800000000000000
+      internalID: 8096313492849236943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_27
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a0b86270bff9a90800000000000000
+      internalID: -7304844062441665901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 15
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a48f2ea1672f96a0800000000000000
+      internalID: -6440385641628859228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 16
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e9eb0bf658fb540800000000000000
+      internalID: 5025882423921909268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_30
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 16
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35711c32d969ba380800000000000000
+      internalID: -8958901432069580973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_31
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 16
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bc82761debed9e0800000000000000
+      internalID: -1594627411454407851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_32
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 15
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9c70446c9ccbb70800000000000000
+      internalID: 8916223215668808155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_33
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 16
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648b92f4b70089390800000000000000
+      internalID: -7811493024065013690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_34
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 16
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43fe7a941b05c9e0800000000000000
+      internalID: -1601861909341080758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssaultRifle_35
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 16
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06fbda91c6160bc0800000000000000
+      internalID: -3817338613367310834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AssaultRifle_0: -3294788082675926453
+      AssaultRifle_1: -8812079127812957877
+      AssaultRifle_10: 489707415681492465
+      AssaultRifle_11: 874018380851904923
+      AssaultRifle_12: 2621842356114783000
+      AssaultRifle_13: 5149571268637315244
+      AssaultRifle_14: 5541536620714460397
+      AssaultRifle_15: -1012780031856694161
+      AssaultRifle_16: -2578017485563508177
+      AssaultRifle_17: -113087226937707509
+      AssaultRifle_18: -7094524201517864538
+      AssaultRifle_19: 7485482586994262848
+      AssaultRifle_2: 1655854484713343581
+      AssaultRifle_20: 29010654121804666
+      AssaultRifle_21: 7053371736337415173
+      AssaultRifle_22: -6388065719814345005
+      AssaultRifle_23: 4924808522939147323
+      AssaultRifle_24: -7216658949974545849
+      AssaultRifle_25: -787810050080875292
+      AssaultRifle_26: 8096313492849236943
+      AssaultRifle_27: -7304844062441665901
+      AssaultRifle_28: -6440385641628859228
+      AssaultRifle_29: 5025882423921909268
+      AssaultRifle_3: -306374491431844271
+      AssaultRifle_30: -8958901432069580973
+      AssaultRifle_31: -1594627411454407851
+      AssaultRifle_32: 8916223215668808155
+      AssaultRifle_33: -7811493024065013690
+      AssaultRifle_34: -1601861909341080758
+      AssaultRifle_35: -3817338613367310834
+      AssaultRifle_4: -3218956353477472638
+      AssaultRifle_5: -7799002456425045850
+      AssaultRifle_6: 936631998507962784
+      AssaultRifle_7: 738601890546060185
+      AssaultRifle_8: 8545524853153195037
+      AssaultRifle_9: -2663018641220562987
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 7fdb20dc952b10649bbc51a84a37664e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -324084562224508004
+    second: CarWeapons_0
+  - first:
+      213: 9193234786123893198
+    second: CarWeapons_1
+  - first:
+      213: -7300721279596619287
+    second: CarWeapons_2
+  - first:
+      213: 2422711623141363291
+    second: CarWeapons_3
+  - first:
+      213: -4166982875872815414
+    second: CarWeapons_4
+  - first:
+      213: 1825384821063826193
+    second: CarWeapons_5
+  - first:
+      213: 2915136746042270292
+    second: CarWeapons_6
+  - first:
+      213: 3386746509712257827
+    second: CarWeapons_7
+  - first:
+      213: 4068674794180249488
+    second: CarWeapons_8
+  - first:
+      213: 5624768443167977055
+    second: CarWeapons_9
+  - first:
+      213: -8345782738591652522
+    second: CarWeapons_10
+  - first:
+      213: -5968972291962887642
+    second: CarWeapons_11
+  - first:
+      213: -1887846528333423533
+    second: CarWeapons_12
+  - first:
+      213: -6021180941207440855
+    second: CarWeapons_13
+  - first:
+      213: -8621039658459692351
+    second: CarWeapons_14
+  - first:
+      213: 2328258473670192716
+    second: CarWeapons_15
+  - first:
+      213: 7861821469846583744
+    second: CarWeapons_16
+  - first:
+      213: 3571536892752634345
+    second: CarWeapons_17
+  - first:
+      213: 5125721636307326497
+    second: CarWeapons_18
+  - first:
+      213: 5624151770265498476
+    second: CarWeapons_19
+  - first:
+      213: 4470526734678290060
+    second: CarWeapons_20
+  - first:
+      213: 790944655001615205
+    second: CarWeapons_21
+  - first:
+      213: 187457969292610810
+    second: CarWeapons_22
+  - first:
+      213: 1382427265974465894
+    second: CarWeapons_23
+  - first:
+      213: -8435856868697472519
+    second: CarWeapons_24
+  - first:
+      213: -3046401806513662515
+    second: CarWeapons_25
+  - first:
+      213: -967678083920376499
+    second: CarWeapons_26
+  - first:
+      213: 5752676014564594623
+    second: CarWeapons_27
+  - first:
+      213: 8118990698356590131
+    second: CarWeapons_28
+  - first:
+      213: -6146183229896038450
+    second: CarWeapons_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CarWeapons_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 197
+        width: 17
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c939b67cece908bf0800000000000000
+      internalID: -324084562224508004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 197
+        width: 17
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9cda3845ee49f70800000000000000
+      internalID: 9193234786123893198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 226
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e912855da0aeaa90800000000000000
+      internalID: -7300721279596619287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 226
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e0d8a92633f9120800000000000000
+      internalID: 2422711623141363291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 228
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6177ae627eb26c0800000000000000
+      internalID: -4166982875872815414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 228
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b36edc2d1155910800000000000000
+      internalID: 1825384821063826193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 205
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452a98bec65a47820800000000000000
+      internalID: 2915136746042270292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 206
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32371bfb104200f20800000000000000
+      internalID: 3386746509712257827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 192
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09703b52b26d67830800000000000000
+      internalID: 4068674794180249488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 192
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5eaad609113f0e40800000000000000
+      internalID: 5624768443167977055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 191
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65568ad21d2dd2c80800000000000000
+      internalID: -8345782738591652522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 191
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622276f4353f92da0800000000000000
+      internalID: -5968972291962887642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c5b30b5950dc5e0800000000000000
+      internalID: -1887846528333423533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 168
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9227af6e5d7707ca0800000000000000
+      internalID: -6021180941207440855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 165
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c284fa5b1aeb5880800000000000000
+      internalID: -8621039658459692351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_15
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 165
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ea7640fb2af4020800000000000000
+      internalID: 2328258473670192716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 127
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9bebd19fcca1d60800000000000000
+      internalID: 7861821469846583744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 127
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e129b291e5a09130800000000000000
+      internalID: 3571536892752634345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 128
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126d1a5cba8322740800000000000000
+      internalID: 5125721636307326497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 128
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c633f8dac300d0e40800000000000000
+      internalID: 5624151770265498476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 134
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ee26b11608a0e30800000000000000
+      internalID: 4470526734678290060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 134
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b7d5e19fff9fa00800000000000000
+      internalID: 790944655001615205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 101
+        width: 17
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc8006a70cf99200800000000000000
+      internalID: 187457969292610810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_23
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 101
+        width: 17
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665f834264e5f2310800000000000000
+      internalID: 1382427265974465894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 107
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f18f3d7fd0ddea80800000000000000
+      internalID: -8435856868697472519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 107
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc515af82b109b5d0800000000000000
+      internalID: -3046401806513662515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_26
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 96
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dcefed8ed1292f0800000000000000
+      internalID: -967678083920376499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 96
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb358043b5c95df40800000000000000
+      internalID: 5752676014564594623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_28
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 97
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336ce3e16037ca070800000000000000
+      internalID: 8118990698356590131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarWeapons_29
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 97
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec765919aee54baa0800000000000000
+      internalID: -6146183229896038450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CarWeapons_0: -324084562224508004
+      CarWeapons_1: 9193234786123893198
+      CarWeapons_10: -8345782738591652522
+      CarWeapons_11: -5968972291962887642
+      CarWeapons_12: -1887846528333423533
+      CarWeapons_13: -6021180941207440855
+      CarWeapons_14: -8621039658459692351
+      CarWeapons_15: 2328258473670192716
+      CarWeapons_16: 7861821469846583744
+      CarWeapons_17: 3571536892752634345
+      CarWeapons_18: 5125721636307326497
+      CarWeapons_19: 5624151770265498476
+      CarWeapons_2: -7300721279596619287
+      CarWeapons_20: 4470526734678290060
+      CarWeapons_21: 790944655001615205
+      CarWeapons_22: 187457969292610810
+      CarWeapons_23: 1382427265974465894
+      CarWeapons_24: -8435856868697472519
+      CarWeapons_25: -3046401806513662515
+      CarWeapons_26: -967678083920376499
+      CarWeapons_27: 5752676014564594623
+      CarWeapons_28: 8118990698356590131
+      CarWeapons_29: -6146183229896038450
+      CarWeapons_3: 2422711623141363291
+      CarWeapons_4: -4166982875872815414
+      CarWeapons_5: 1825384821063826193
+      CarWeapons_6: 2915136746042270292
+      CarWeapons_7: 3386746509712257827
+      CarWeapons_8: 4068674794180249488
+      CarWeapons_9: 5624768443167977055
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 99052a692269b3f4ea8f78a7094f78e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2928345326256215222
+    second: MuzzleflashPistol_0
+  - first:
+      213: 7465159435340177299
+    second: MuzzleflashPistol_1
+  - first:
+      213: -6851058340866559056
+    second: MuzzleflashPistol_2
+  - first:
+      213: 8032056870630264835
+    second: MuzzleflashPistol_3
+  - first:
+      213: -9192097078269912962
+    second: MuzzleflashPistol_4
+  - first:
+      213: 1741754090394362430
+    second: MuzzleflashPistol_5
+  - first:
+      213: 4965693387522375922
+    second: MuzzleflashPistol_6
+  - first:
+      213: -6689713926466765052
+    second: MuzzleflashPistol_7
+  - first:
+      213: 1669499020500490708
+    second: MuzzleflashPistol_8
+  - first:
+      213: 4073696359129040731
+    second: MuzzleflashPistol_9
+  - first:
+      213: -7481283415873972539
+    second: MuzzleflashPistol_10
+  - first:
+      213: -4125489519145885231
+    second: MuzzleflashPistol_11
+  - first:
+      213: -7206072307210505261
+    second: MuzzleflashPistol_12
+  - first:
+      213: 2396009503967914815
+    second: MuzzleflashPistol_13
+  - first:
+      213: -1184549001108660967
+    second: MuzzleflashPistol_14
+  - first:
+      213: -5730788901868980016
+    second: MuzzleflashPistol_15
+  - first:
+      213: -3768080641133828562
+    second: MuzzleflashPistol_16
+  - first:
+      213: -4924151873594576696
+    second: MuzzleflashPistol_17
+  - first:
+      213: 5176930677790780962
+    second: MuzzleflashPistol_18
+  - first:
+      213: -4651190730526918169
+    second: MuzzleflashPistol_19
+  - first:
+      213: 5840171507175660247
+    second: MuzzleflashPistol_20
+  - first:
+      213: 6093271662884058429
+    second: MuzzleflashPistol_21
+  - first:
+      213: 2124359039759284705
+    second: MuzzleflashPistol_22
+  - first:
+      213: -6874694364571929504
+    second: MuzzleflashPistol_23
+  - first:
+      213: -3680939287980952420
+    second: MuzzleflashPistol_24
+  - first:
+      213: 4628493727572376513
+    second: MuzzleflashPistol_25
+  - first:
+      213: -4022793848717319413
+    second: MuzzleflashPistol_26
+  - first:
+      213: -6792997623383264100
+    second: MuzzleflashPistol_27
+  - first:
+      213: -3702815007450733518
+    second: MuzzleflashPistol_28
+  - first:
+      213: 5169242897718321109
+    second: MuzzleflashPistol_29
+  - first:
+      213: -2218329675369000885
+    second: MuzzleflashPistol_30
+  - first:
+      213: -3510941577267699770
+    second: MuzzleflashPistol_31
+  - first:
+      213: -2801700662129892777
+    second: MuzzleflashPistol_32
+  - first:
+      213: -1809235148219281146
+    second: MuzzleflashPistol_33
+  - first:
+      213: -7242490281417056412
+    second: MuzzleflashPistol_34
+  - first:
+      213: -5940227240348772940
+    second: MuzzleflashPistol_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MuzzleflashPistol_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 230
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ba2d8d07d6c57d0800000000000000
+      internalID: -2928345326256215222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 230
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f5b1f44f2999760800000000000000
+      internalID: 7465159435340177299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 230
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3fb29ccb62ce0a0800000000000000
+      internalID: -6851058340866559056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 229
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30017ad0b29977f60800000000000000
+      internalID: 8032056870630264835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 230
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78d0dcb86c1f6080800000000000000
+      internalID: -9192097078269912962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 230
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e322a04fd14fb2810800000000000000
+      internalID: 1741754090394362430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 230
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f007ca93dfa9e440800000000000000
+      internalID: 4965693387522375922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 229
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ff6f3a0ac5923a0800000000000000
+      internalID: -6689713926466765052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_8
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 230
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d95bc583804b2710800000000000000
+      internalID: 1669499020500490708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 146
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5740b8514da88830800000000000000
+      internalID: 4073696359129040731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_10
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 145
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c69fccee542d2890800000000000000
+      internalID: -7481283415873972539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_11
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 146
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d166bed3215fb6c0800000000000000
+      internalID: -4125489519145885231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 146
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d330fe7a63eefb90800000000000000
+      internalID: -7206072307210505261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_13
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 146
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ba77203f5504120800000000000000
+      internalID: 2396009503967914815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_14
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 145
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ddfd1a5f2af8fe0800000000000000
+      internalID: -1184549001108660967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_15
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 146
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d839555bd52870b0800000000000000
+      internalID: -5730788901868980016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_16
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 146
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26213cfe9615bbc0800000000000000
+      internalID: -3768080641133828562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_17
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 146
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c03252d5f5e9abb0800000000000000
+      internalID: -4924151873594576696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 63
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eaa8cd50728d740800000000000000
+      internalID: 5176930677790780962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 63
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e97a547ca6a37fb0800000000000000
+      internalID: -4651190730526918169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_20
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 64
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da10901b057c0150800000000000000
+      internalID: 5840171507175660247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_21
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 64
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35782a3b46af8450800000000000000
+      internalID: 6093271662884058429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_22
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 64
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9fd349a4d3b7d10800000000000000
+      internalID: 2124359039759284705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_23
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 63
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0647f4c26ed2890a0800000000000000
+      internalID: -6874694364571929504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_24
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 63
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94bd14583daaecc0800000000000000
+      internalID: -3680939287980952420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_25
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 63
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb331db586bb3040800000000000000
+      internalID: 4628493727572376513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_26
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 63
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03e39aee4a2c28c0800000000000000
+      internalID: -4022793848717319413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 18
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94fa2207ac6ab1a0800000000000000
+      internalID: -6792997623383264100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_28
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 17
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234e9eb7e55fc9cc0800000000000000
+      internalID: -3702815007450733518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_29
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 18
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df16341707dcb740800000000000000
+      internalID: 5169242897718321109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_30
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 18
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b405ce8d9e8e631e0800000000000000
+      internalID: -2218329675369000885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_31
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 18
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf1fcbbc31a64fc0800000000000000
+      internalID: -3510941577267699770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_32
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 17
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75265c2871c5e19d0800000000000000
+      internalID: -2801700662129892777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_33
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 18
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6011d3be73e44e6e0800000000000000
+      internalID: -1809235148219281146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_34
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 18
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fdaee16718d7b90800000000000000
+      internalID: -7242490281417056412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuzzleflashPistol_35
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 18
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b599ed2cc2109da0800000000000000
+      internalID: -5940227240348772940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MuzzleflashPistol_0: -2928345326256215222
+      MuzzleflashPistol_1: 7465159435340177299
+      MuzzleflashPistol_10: -7481283415873972539
+      MuzzleflashPistol_11: -4125489519145885231
+      MuzzleflashPistol_12: -7206072307210505261
+      MuzzleflashPistol_13: 2396009503967914815
+      MuzzleflashPistol_14: -1184549001108660967
+      MuzzleflashPistol_15: -5730788901868980016
+      MuzzleflashPistol_16: -3768080641133828562
+      MuzzleflashPistol_17: -4924151873594576696
+      MuzzleflashPistol_18: 5176930677790780962
+      MuzzleflashPistol_19: -4651190730526918169
+      MuzzleflashPistol_2: -6851058340866559056
+      MuzzleflashPistol_20: 5840171507175660247
+      MuzzleflashPistol_21: 6093271662884058429
+      MuzzleflashPistol_22: 2124359039759284705
+      MuzzleflashPistol_23: -6874694364571929504
+      MuzzleflashPistol_24: -3680939287980952420
+      MuzzleflashPistol_25: 4628493727572376513
+      MuzzleflashPistol_26: -4022793848717319413
+      MuzzleflashPistol_27: -6792997623383264100
+      MuzzleflashPistol_28: -3702815007450733518
+      MuzzleflashPistol_29: 5169242897718321109
+      MuzzleflashPistol_3: 8032056870630264835
+      MuzzleflashPistol_30: -2218329675369000885
+      MuzzleflashPistol_31: -3510941577267699770
+      MuzzleflashPistol_32: -2801700662129892777
+      MuzzleflashPistol_33: -1809235148219281146
+      MuzzleflashPistol_34: -7242490281417056412
+      MuzzleflashPistol_35: -5940227240348772940
+      MuzzleflashPistol_4: -9192097078269912962
+      MuzzleflashPistol_5: 1741754090394362430
+      MuzzleflashPistol_6: 4965693387522375922
+      MuzzleflashPistol_7: -6689713926466765052
+      MuzzleflashPistol_8: 1669499020500490708
+      MuzzleflashPistol_9: 4073696359129040731
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

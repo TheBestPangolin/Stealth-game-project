@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: dbac0c9dc1f79df47864227034150d38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6035335792160195492
+    second: MaleWalkShoot_0
+  - first:
+      213: 6862407898126863566
+    second: MaleWalkShoot_1
+  - first:
+      213: -345072445129965251
+    second: MaleWalkShoot_2
+  - first:
+      213: -1988436782670035776
+    second: MaleWalkShoot_3
+  - first:
+      213: -8840524214364288361
+    second: MaleWalkShoot_4
+  - first:
+      213: 7681767256088688660
+    second: MaleWalkShoot_5
+  - first:
+      213: 4765405366295069790
+    second: MaleWalkShoot_6
+  - first:
+      213: -2553647593122009619
+    second: MaleWalkShoot_7
+  - first:
+      213: 5628177493171682322
+    second: MaleWalkShoot_8
+  - first:
+      213: 1920679378493816005
+    second: MaleWalkShoot_9
+  - first:
+      213: -8728401741405194993
+    second: MaleWalkShoot_10
+  - first:
+      213: 2978187837004172165
+    second: MaleWalkShoot_11
+  - first:
+      213: -2569818269401429340
+    second: MaleWalkShoot_12
+  - first:
+      213: 803224465586308321
+    second: MaleWalkShoot_13
+  - first:
+      213: -7025162222851734682
+    second: MaleWalkShoot_14
+  - first:
+      213: 604155472522478642
+    second: MaleWalkShoot_15
+  - first:
+      213: -8678198449865946787
+    second: MaleWalkShoot_16
+  - first:
+      213: 4860744162981023425
+    second: MaleWalkShoot_17
+  - first:
+      213: 1160649397299035697
+    second: MaleWalkShoot_18
+  - first:
+      213: -5502710707723105838
+    second: MaleWalkShoot_19
+  - first:
+      213: -8346530831810668561
+    second: MaleWalkShoot_20
+  - first:
+      213: -509048395913140237
+    second: MaleWalkShoot_21
+  - first:
+      213: 3712997245430435820
+    second: MaleWalkShoot_22
+  - first:
+      213: 6999480864445669005
+    second: MaleWalkShoot_23
+  - first:
+      213: -6036990841496947372
+    second: MaleWalkShoot_24
+  - first:
+      213: 4737270878216963805
+    second: MaleWalkShoot_25
+  - first:
+      213: -8817884556942654936
+    second: MaleWalkShoot_26
+  - first:
+      213: -8136657317129561835
+    second: MaleWalkShoot_27
+  - first:
+      213: -5329474121833619432
+    second: MaleWalkShoot_28
+  - first:
+      213: -977084629269801606
+    second: MaleWalkShoot_29
+  - first:
+      213: 5598319643643301320
+    second: MaleWalkShoot_30
+  - first:
+      213: 8942893092742800659
+    second: MaleWalkShoot_31
+  - first:
+      213: -3259037886684155867
+    second: MaleWalkShoot_32
+  - first:
+      213: 8194057765649023473
+    second: MaleWalkShoot_33
+  - first:
+      213: 5787657918533668809
+    second: MaleWalkShoot_34
+  - first:
+      213: 1416699267179788173
+    second: MaleWalkShoot_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MaleWalkShoot_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 194
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c3718d21e2e3ca0800000000000000
+      internalID: -6035335792160195492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 194
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecccfafef9b2c3f50800000000000000
+      internalID: 6862407898126863566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 193
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31c04e707e063bf0800000000000000
+      internalID: -345072445129965251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4c1a60847a764e0800000000000000
+      internalID: -1988436782670035776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 193
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ac39ee016205580800000000000000
+      internalID: -8840524214364288361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 194
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418b462ae9e1b9a60800000000000000
+      internalID: 7681767256088688660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 193
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5402c4beee122240800000000000000
+      internalID: 4765405366295069790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 192
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded6e6a3b0f9f8cd0800000000000000
+      internalID: -2553647593122009619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 193
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cb8555c9d4b1e40800000000000000
+      internalID: 5628177493171682322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 129
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccba82f7bf97aa10800000000000000
+      internalID: 1920679378493816005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 129
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0574aa7cdc7ed680800000000000000
+      internalID: -8728401741405194993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_11
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 130
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bc5030f06a45920800000000000000
+      internalID: 2978187837004172165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 130
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aac40346eb265cd0800000000000000
+      internalID: -2569818269401429340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 129
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4cc225560a52b00800000000000000
+      internalID: 803224465586308321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 129
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663cd61ed2c918e90800000000000000
+      internalID: -7025162222851734682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 129
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2348fc88334626800800000000000000
+      internalID: 604155472522478642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_16
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 129
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5905692d78d09780800000000000000
+      internalID: -8678198449865946787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_17
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 129
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce898a1015d47340800000000000000
+      internalID: 4860744162981023425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13eb7ca3a747b1010800000000000000
+      internalID: 1160649397299035697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d90d6414c172a3b0800000000000000
+      internalID: -5502710707723105838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe754172e6a2b2c80800000000000000
+      internalID: -8346530831810668561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 64
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f76d145e2f7fe8f0800000000000000
+      internalID: -509048395913140237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef82e98257378330800000000000000
+      internalID: 3712997245430435820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e9d69e2c6232160800000000000000
+      internalID: 6999480864445669005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455b944a0dc483ca0800000000000000
+      internalID: -6036990841496947372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_25
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6ccecb3ca2eb140800000000000000
+      internalID: 4737270878216963805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_26
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 64
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822c701f6b490a580800000000000000
+      internalID: -8817884556942654936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519d869a749c41f80800000000000000
+      internalID: -8136657317129561835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8106870e587e906b0800000000000000
+      internalID: -5329474121833619432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7511ecd4b2b072f0800000000000000
+      internalID: -977084629269801606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_30
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd43720e0a31bd40800000000000000
+      internalID: 5598319643643301320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_31
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315aa39e2e98b1c70800000000000000
+      internalID: 8942893092742800659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_32
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520b6a62f4295c2d0800000000000000
+      internalID: -3259037886684155867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_33
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f18a86bf1427b170800000000000000
+      internalID: 8194057765649023473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_34
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf0dab6634e15050800000000000000
+      internalID: 5787657918533668809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaleWalkShoot_35
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87becd3a7029a310800000000000000
+      internalID: 1416699267179788173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MaleWalkShoot_0: -6035335792160195492
+      MaleWalkShoot_1: 6862407898126863566
+      MaleWalkShoot_10: -8728401741405194993
+      MaleWalkShoot_11: 2978187837004172165
+      MaleWalkShoot_12: -2569818269401429340
+      MaleWalkShoot_13: 803224465586308321
+      MaleWalkShoot_14: -7025162222851734682
+      MaleWalkShoot_15: 604155472522478642
+      MaleWalkShoot_16: -8678198449865946787
+      MaleWalkShoot_17: 4860744162981023425
+      MaleWalkShoot_18: 1160649397299035697
+      MaleWalkShoot_19: -5502710707723105838
+      MaleWalkShoot_2: -345072445129965251
+      MaleWalkShoot_20: -8346530831810668561
+      MaleWalkShoot_21: -509048395913140237
+      MaleWalkShoot_22: 3712997245430435820
+      MaleWalkShoot_23: 6999480864445669005
+      MaleWalkShoot_24: -6036990841496947372
+      MaleWalkShoot_25: 4737270878216963805
+      MaleWalkShoot_26: -8817884556942654936
+      MaleWalkShoot_27: -8136657317129561835
+      MaleWalkShoot_28: -5329474121833619432
+      MaleWalkShoot_29: -977084629269801606
+      MaleWalkShoot_3: -1988436782670035776
+      MaleWalkShoot_30: 5598319643643301320
+      MaleWalkShoot_31: 8942893092742800659
+      MaleWalkShoot_32: -3259037886684155867
+      MaleWalkShoot_33: 8194057765649023473
+      MaleWalkShoot_34: 5787657918533668809
+      MaleWalkShoot_35: 1416699267179788173
+      MaleWalkShoot_4: -8840524214364288361
+      MaleWalkShoot_5: 7681767256088688660
+      MaleWalkShoot_6: 4765405366295069790
+      MaleWalkShoot_7: -2553647593122009619
+      MaleWalkShoot_8: 5628177493171682322
+      MaleWalkShoot_9: 1920679378493816005
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

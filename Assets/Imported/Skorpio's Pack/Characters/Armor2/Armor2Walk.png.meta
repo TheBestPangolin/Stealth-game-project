@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: fe7d73f9e63b8d84ea4f0f836eb9a226
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 630690532942285183
+    second: Armor2Walk_0
+  - first:
+      213: -2188456939937787666
+    second: Armor2Walk_1
+  - first:
+      213: -2041675449830064522
+    second: Armor2Walk_2
+  - first:
+      213: 2489328258245013987
+    second: Armor2Walk_3
+  - first:
+      213: -5480124500887701625
+    second: Armor2Walk_4
+  - first:
+      213: -3001547599009051320
+    second: Armor2Walk_5
+  - first:
+      213: 6443245662249455645
+    second: Armor2Walk_6
+  - first:
+      213: 7636300372414283598
+    second: Armor2Walk_7
+  - first:
+      213: -3131027394427695059
+    second: Armor2Walk_8
+  - first:
+      213: -7987426693063694619
+    second: Armor2Walk_9
+  - first:
+      213: 8003716011634660298
+    second: Armor2Walk_10
+  - first:
+      213: 836268601920532497
+    second: Armor2Walk_11
+  - first:
+      213: -2449946637102819588
+    second: Armor2Walk_12
+  - first:
+      213: 1498284213393468428
+    second: Armor2Walk_13
+  - first:
+      213: -5158989465301085225
+    second: Armor2Walk_14
+  - first:
+      213: -3884895065209240171
+    second: Armor2Walk_15
+  - first:
+      213: -400032771682922992
+    second: Armor2Walk_16
+  - first:
+      213: -4744239929259953985
+    second: Armor2Walk_17
+  - first:
+      213: 9217751533998032519
+    second: Armor2Walk_18
+  - first:
+      213: -2280222749263927073
+    second: Armor2Walk_19
+  - first:
+      213: -3122522462083031289
+    second: Armor2Walk_20
+  - first:
+      213: 1396864041900064289
+    second: Armor2Walk_21
+  - first:
+      213: -4886647228109663346
+    second: Armor2Walk_22
+  - first:
+      213: -934415772921235443
+    second: Armor2Walk_23
+  - first:
+      213: 859261907575531260
+    second: Armor2Walk_24
+  - first:
+      213: 7204841672258795759
+    second: Armor2Walk_25
+  - first:
+      213: -7465333170355733819
+    second: Armor2Walk_26
+  - first:
+      213: 4208904993359477465
+    second: Armor2Walk_27
+  - first:
+      213: 4714276438335430205
+    second: Armor2Walk_28
+  - first:
+      213: 4982371393262608286
+    second: Armor2Walk_29
+  - first:
+      213: -2242611163727677967
+    second: Armor2Walk_30
+  - first:
+      213: -1226102817371537643
+    second: Armor2Walk_31
+  - first:
+      213: -7917617125834373891
+    second: Armor2Walk_32
+  - first:
+      213: 5290923463704017149
+    second: Armor2Walk_33
+  - first:
+      213: -3218517272546184206
+    second: Armor2Walk_34
+  - first:
+      213: 3792564286738392495
+    second: Armor2Walk_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Armor2Walk_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 194
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f790a3bb2b9a0c800800000000000000
+      internalID: 630690532942285183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 194
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee015c0120a01a1e0800000000000000
+      internalID: -2188456939937787666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 193
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e3e32eef28aa3e0800000000000000
+      internalID: -2041675449830064522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e13902acdedb8220800000000000000
+      internalID: 2489328258245013987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 193
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7877ca72dcfa2f3b0800000000000000
+      internalID: -5480124500887701625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 194
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d83a09c5c5856d0800000000000000
+      internalID: -3001547599009051320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 193
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1094f2cac10b6950800000000000000
+      internalID: 6443245662249455645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_7
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 192
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fbfe7dab699f960800000000000000
+      internalID: 7636300372414283598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 193
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20de157c2b5c84d0800000000000000
+      internalID: -3131027394427695059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 129
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6277aedb5f62190800000000000000
+      internalID: -7987426693063694619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 129
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3179c9e49e21f60800000000000000
+      internalID: 8003716011634660298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 130
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110394adcd50b9b00800000000000000
+      internalID: 836268601920532497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 130
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6d2d0938a000ed0800000000000000
+      internalID: -2449946637102819588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_13
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 129
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ca4e7cd89fac410800000000000000
+      internalID: 1498284213393468428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 129
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d31fb03a669768b0800000000000000
+      internalID: -5158989465301085225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_15
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 129
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59509807584161ac0800000000000000
+      internalID: -3884895065209240171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 129
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e0359405cc27af0800000000000000
+      internalID: -400032771682922992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_17
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 129
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb07c3f9be2192eb0800000000000000
+      internalID: -4744239929259953985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 65
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786c3c3be280cef70800000000000000
+      internalID: 9217751533998032519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 65
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8eb5d9d750b50e0800000000000000
+      internalID: -2280222749263927073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fdc545d529aa4d0800000000000000
+      internalID: -3122522462083031289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 64
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e38f8f178a26310800000000000000
+      internalID: 1396864041900064289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 65
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8350e19c342f2cb0800000000000000
+      internalID: -4886647228109663346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 65
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08f1862ec94803f0800000000000000
+      internalID: -934415772921235443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf660120726bceb00800000000000000
+      internalID: 859261907575531260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_25
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8bae9f35dbcf360800000000000000
+      internalID: 7204841672258795759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_26
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 65
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca710bd80fc56890800000000000000
+      internalID: -7465333170355733819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da3f8eaac8096a30800000000000000
+      internalID: 4208904993359477465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e1aff71797c6140800000000000000
+      internalID: 4714276438335430205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f5c7a6260f42540800000000000000
+      internalID: 4982371393262608286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5bfa84705a0e0e0800000000000000
+      internalID: -2242611163727677967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_31
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fb678dbf10cfee0800000000000000
+      internalID: -1226102817371537643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_32
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4c7136c29fe1290800000000000000
+      internalID: -7917617125834373891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_33
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df87bd39bd22d6940800000000000000
+      internalID: 5290923463704017149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_34
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3fc62d7978553d0800000000000000
+      internalID: -3218517272546184206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Walk_35
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5efdaff15e1a430800000000000000
+      internalID: 3792564286738392495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Armor2Walk_0: 630690532942285183
+      Armor2Walk_1: -2188456939937787666
+      Armor2Walk_10: 8003716011634660298
+      Armor2Walk_11: 836268601920532497
+      Armor2Walk_12: -2449946637102819588
+      Armor2Walk_13: 1498284213393468428
+      Armor2Walk_14: -5158989465301085225
+      Armor2Walk_15: -3884895065209240171
+      Armor2Walk_16: -400032771682922992
+      Armor2Walk_17: -4744239929259953985
+      Armor2Walk_18: 9217751533998032519
+      Armor2Walk_19: -2280222749263927073
+      Armor2Walk_2: -2041675449830064522
+      Armor2Walk_20: -3122522462083031289
+      Armor2Walk_21: 1396864041900064289
+      Armor2Walk_22: -4886647228109663346
+      Armor2Walk_23: -934415772921235443
+      Armor2Walk_24: 859261907575531260
+      Armor2Walk_25: 7204841672258795759
+      Armor2Walk_26: -7465333170355733819
+      Armor2Walk_27: 4208904993359477465
+      Armor2Walk_28: 4714276438335430205
+      Armor2Walk_29: 4982371393262608286
+      Armor2Walk_3: 2489328258245013987
+      Armor2Walk_30: -2242611163727677967
+      Armor2Walk_31: -1226102817371537643
+      Armor2Walk_32: -7917617125834373891
+      Armor2Walk_33: 5290923463704017149
+      Armor2Walk_34: -3218517272546184206
+      Armor2Walk_35: 3792564286738392495
+      Armor2Walk_4: -5480124500887701625
+      Armor2Walk_5: -3001547599009051320
+      Armor2Walk_6: 6443245662249455645
+      Armor2Walk_7: 7636300372414283598
+      Armor2Walk_8: -3131027394427695059
+      Armor2Walk_9: -7987426693063694619
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

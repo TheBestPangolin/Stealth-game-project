@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 8d3ed26dd20be364c8375c34b8c0eae1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2803691982329239558
+    second: Cybereyes2_0
+  - first:
+      213: 7322250915114714062
+    second: Cybereyes2_1
+  - first:
+      213: 7112136175252618502
+    second: Cybereyes2_2
+  - first:
+      213: -2342215874718571142
+    second: Cybereyes2_3
+  - first:
+      213: 825997165344525577
+    second: Cybereyes2_4
+  - first:
+      213: -4297524401287744251
+    second: Cybereyes2_5
+  - first:
+      213: -6733511353509029436
+    second: Cybereyes2_6
+  - first:
+      213: -1412676443833017786
+    second: Cybereyes2_7
+  - first:
+      213: -1448812459987930431
+    second: Cybereyes2_8
+  - first:
+      213: -6583881354017985306
+    second: Cybereyes2_9
+  - first:
+      213: -1674580226148707235
+    second: Cybereyes2_10
+  - first:
+      213: 7872510072732111198
+    second: Cybereyes2_11
+  - first:
+      213: 5826742390958656122
+    second: Cybereyes2_12
+  - first:
+      213: -1041815010915788080
+    second: Cybereyes2_13
+  - first:
+      213: 6825066124816981679
+    second: Cybereyes2_14
+  - first:
+      213: 7828237739156180779
+    second: Cybereyes2_15
+  - first:
+      213: 1455411995716006400
+    second: Cybereyes2_16
+  - first:
+      213: -615491775770252303
+    second: Cybereyes2_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cybereyes2_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 30
+        width: 76
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7a7a52ff84719d0800000000000000
+      internalID: -2803691982329239558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybereyes2_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec301bf896cdd9560800000000000000
+      internalID: 7322250915114714062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybereyes2_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d33207b2263b260800000000000000
+      internalID: 7112136175252618502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybereyes2_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 95
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a756e105217ce7fd0800000000000000
+      internalID: -2342215874718571142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybereyes2_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d07d9ab08867b00800000000000000
+      internalID: 825997165344525577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybereyes2_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 30
+        width: 198
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505bba783502c54c0800000000000000
+      internalID: -4297524401287744251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybereyes2_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9d8038913cd82a0800000000000000
+      internalID: -6733511353509029436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybereyes2_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 94
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a55ce424a256ce0800000000000000
+      internalID: -1412676443833017786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybereyes2_8
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 94
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c272486eb8c4ebe0800000000000000
+      internalID: -1448812459987930431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybereyes2_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eca07a9aca51a4a0800000000000000
+      internalID: -6583881354017985306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybereyes2_10
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5453881822b2c8e0800000000000000
+      internalID: -1674580226148707235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybereyes2_11
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 95
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51d1e76336c04d60800000000000000
+      internalID: 7872510072732111198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybereyes2_12
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a0dca455fbcd050800000000000000
+      internalID: 5826742390958656122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybereyes2_13
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 31
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dad1b074caba81f0800000000000000
+      internalID: -1041815010915788080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybereyes2_14
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae9442da7187be50800000000000000
+      internalID: 6825066124816981679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybereyes2_15
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 94
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f06bb7fbc73ac60800000000000000
+      internalID: 7828237739156180779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybereyes2_16
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 94
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002be7ebf79a23410800000000000000
+      internalID: 1455411995716006400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybereyes2_17
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb2a0fad755577f0800000000000000
+      internalID: -615491775770252303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cybereyes2_0: -2803691982329239558
+      Cybereyes2_1: 7322250915114714062
+      Cybereyes2_10: -1674580226148707235
+      Cybereyes2_11: 7872510072732111198
+      Cybereyes2_12: 5826742390958656122
+      Cybereyes2_13: -1041815010915788080
+      Cybereyes2_14: 6825066124816981679
+      Cybereyes2_15: 7828237739156180779
+      Cybereyes2_16: 1455411995716006400
+      Cybereyes2_17: -615491775770252303
+      Cybereyes2_2: 7112136175252618502
+      Cybereyes2_3: -2342215874718571142
+      Cybereyes2_4: 825997165344525577
+      Cybereyes2_5: -4297524401287744251
+      Cybereyes2_6: -6733511353509029436
+      Cybereyes2_7: -1412676443833017786
+      Cybereyes2_8: -1448812459987930431
+      Cybereyes2_9: -6583881354017985306
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 8e43d999c05f169469c3a94219098512
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8265867252006546419
+    second: Mech1Walk_0
+  - first:
+      213: -7329715705539866061
+    second: Mech1Walk_1
+  - first:
+      213: -2253601654060639653
+    second: Mech1Walk_2
+  - first:
+      213: -1908160754990709449
+    second: Mech1Walk_3
+  - first:
+      213: 2336574053138753356
+    second: Mech1Walk_4
+  - first:
+      213: -4304211669123072704
+    second: Mech1Walk_5
+  - first:
+      213: 4082493861290457972
+    second: Mech1Walk_6
+  - first:
+      213: 7328086443119636877
+    second: Mech1Walk_7
+  - first:
+      213: 2032944734642793820
+    second: Mech1Walk_8
+  - first:
+      213: 3423313697694136585
+    second: Mech1Walk_9
+  - first:
+      213: -5901615374018518710
+    second: Mech1Walk_10
+  - first:
+      213: 1073998257765805391
+    second: Mech1Walk_11
+  - first:
+      213: 8175285048614135427
+    second: Mech1Walk_12
+  - first:
+      213: -6045646963034719516
+    second: Mech1Walk_13
+  - first:
+      213: -7401723121595119454
+    second: Mech1Walk_14
+  - first:
+      213: -1206467521230382352
+    second: Mech1Walk_15
+  - first:
+      213: 7089094644715166014
+    second: Mech1Walk_16
+  - first:
+      213: -5075396656224558476
+    second: Mech1Walk_17
+  - first:
+      213: -8924555662995591902
+    second: Mech1Walk_18
+  - first:
+      213: -7029793108739994255
+    second: Mech1Walk_19
+  - first:
+      213: 7957950559183183865
+    second: Mech1Walk_20
+  - first:
+      213: -8569529326342194747
+    second: Mech1Walk_21
+  - first:
+      213: 3557529438610655620
+    second: Mech1Walk_22
+  - first:
+      213: -1733454965674496798
+    second: Mech1Walk_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mech1Walk_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 62
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d049d9b578db94d80800000000000000
+      internalID: -8265867252006546419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 191
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332d1ba766e974a90800000000000000
+      internalID: -7329715705539866061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 63
+        width: 62
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a9b785c3999b0e0800000000000000
+      internalID: -2253601654060639653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 191
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735007837e9d485e0800000000000000
+      internalID: -1908160754990709449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 127
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47eabcb8bd2d6020800000000000000
+      internalID: 2336574053138753356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 191
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04df3d7aa4e5444c0800000000000000
+      internalID: -4304211669123072704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 128
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b3eef698ee7a830800000000000000
+      internalID: 4082493861290457972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 62
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81708d4bc792b560800000000000000
+      internalID: 7328086443119636877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_8
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 191
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d62641778763c10800000000000000
+      internalID: 2032944734642793820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 129
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909b9c9abad028f20800000000000000
+      internalID: 3423313697694136585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 191
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4164aed510491ea0800000000000000
+      internalID: -5901615374018518710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_11
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 129
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4de483a9bb97ee00800000000000000
+      internalID: 1073998257765805391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_12
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 191
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386253cef62747170800000000000000
+      internalID: 8175285048614135427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_13
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 63
+        width: 62
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea75ea4e1c891ca0800000000000000
+      internalID: -6045646963034719516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a80783790cc74990800000000000000
+      internalID: -7401723121595119454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 63
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa540c7e24c14fe0800000000000000
+      internalID: -1206467521230382352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e391f5d0506816260800000000000000
+      internalID: 7089094644715166014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 63
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472a78bb1a19099b0800000000000000
+      internalID: -5075396656224558476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d62f8a8eb952480800000000000000
+      internalID: -8924555662995591902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 63
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d401db968217e90800000000000000
+      internalID: -7029793108739994255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_20
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff1c3cded1507e60800000000000000
+      internalID: 7957950559183183865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_21
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 63
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9b4132b7ae21980800000000000000
+      internalID: -8569529326342194747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_22
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48902620d22ee5130800000000000000
+      internalID: 3557529438610655620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mech1Walk_23
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eca5d894e781f7e0800000000000000
+      internalID: -1733454965674496798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mech1Walk_0: -8265867252006546419
+      Mech1Walk_1: -7329715705539866061
+      Mech1Walk_10: -5901615374018518710
+      Mech1Walk_11: 1073998257765805391
+      Mech1Walk_12: 8175285048614135427
+      Mech1Walk_13: -6045646963034719516
+      Mech1Walk_14: -7401723121595119454
+      Mech1Walk_15: -1206467521230382352
+      Mech1Walk_16: 7089094644715166014
+      Mech1Walk_17: -5075396656224558476
+      Mech1Walk_18: -8924555662995591902
+      Mech1Walk_19: -7029793108739994255
+      Mech1Walk_2: -2253601654060639653
+      Mech1Walk_20: 7957950559183183865
+      Mech1Walk_21: -8569529326342194747
+      Mech1Walk_22: 3557529438610655620
+      Mech1Walk_23: -1733454965674496798
+      Mech1Walk_3: -1908160754990709449
+      Mech1Walk_4: 2336574053138753356
+      Mech1Walk_5: -4304211669123072704
+      Mech1Walk_6: 4082493861290457972
+      Mech1Walk_7: 7328086443119636877
+      Mech1Walk_8: 2032944734642793820
+      Mech1Walk_9: 3423313697694136585
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

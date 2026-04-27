@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 62d0c7aeb77826041a59ad4f493cf298
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6911564215254333803
+    second: Armor2Shoot_0
+  - first:
+      213: 6917550133472608972
+    second: Armor2Shoot_1
+  - first:
+      213: -2260683025298407063
+    second: Armor2Shoot_2
+  - first:
+      213: 852648565533502100
+    second: Armor2Shoot_3
+  - first:
+      213: -8649550657260838860
+    second: Armor2Shoot_4
+  - first:
+      213: 8004336740278240213
+    second: Armor2Shoot_5
+  - first:
+      213: 4393567414327136182
+    second: Armor2Shoot_6
+  - first:
+      213: 6426221339424316192
+    second: Armor2Shoot_7
+  - first:
+      213: -5406210650358675930
+    second: Armor2Shoot_8
+  - first:
+      213: -4656868180489921835
+    second: Armor2Shoot_9
+  - first:
+      213: -8406786929452058690
+    second: Armor2Shoot_10
+  - first:
+      213: 3114863336705577014
+    second: Armor2Shoot_11
+  - first:
+      213: 6152827381418438491
+    second: Armor2Shoot_12
+  - first:
+      213: -7088940198994934590
+    second: Armor2Shoot_13
+  - first:
+      213: -6608010490765865617
+    second: Armor2Shoot_14
+  - first:
+      213: 3795136857647651755
+    second: Armor2Shoot_15
+  - first:
+      213: 7962299129818066586
+    second: Armor2Shoot_16
+  - first:
+      213: 2042799714885937759
+    second: Armor2Shoot_17
+  - first:
+      213: 9222019882719883689
+    second: Armor2Shoot_18
+  - first:
+      213: 4629670769967583609
+    second: Armor2Shoot_19
+  - first:
+      213: -3478139637164587922
+    second: Armor2Shoot_20
+  - first:
+      213: 2210710104390192564
+    second: Armor2Shoot_21
+  - first:
+      213: 8384796713093938259
+    second: Armor2Shoot_22
+  - first:
+      213: -5617926899528141340
+    second: Armor2Shoot_23
+  - first:
+      213: 8789017856108866921
+    second: Armor2Shoot_24
+  - first:
+      213: 457177229491208136
+    second: Armor2Shoot_25
+  - first:
+      213: 1848894815743467758
+    second: Armor2Shoot_26
+  - first:
+      213: -5824439819621803192
+    second: Armor2Shoot_27
+  - first:
+      213: -2885476643496081068
+    second: Armor2Shoot_28
+  - first:
+      213: -91317272275853941
+    second: Armor2Shoot_29
+  - first:
+      213: 3959568917756539662
+    second: Armor2Shoot_30
+  - first:
+      213: -4590725269997590806
+    second: Armor2Shoot_31
+  - first:
+      213: -8332139762463086845
+    second: Armor2Shoot_32
+  - first:
+      213: 8276839017749014462
+    second: Armor2Shoot_33
+  - first:
+      213: 4619012353666716988
+    second: Armor2Shoot_34
+  - first:
+      213: -2289290651664750819
+    second: Armor2Shoot_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Armor2Shoot_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 194
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596c67b17f03510a0800000000000000
+      internalID: -6911564215254333803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 194
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc247951233100060800000000000000
+      internalID: 6917550133472608972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 193
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961455f14c070a0e0800000000000000
+      internalID: -2260683025298407063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49aeed25a5735db00800000000000000
+      internalID: 852648565533502100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 193
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430a837218f96f780800000000000000
+      internalID: -8649550657260838860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 194
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d384e24bdd151f60800000000000000
+      internalID: 8004336740278240213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 193
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf43b3094619fc30800000000000000
+      internalID: 4393567414327136182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 192
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bdb68b2468e2950800000000000000
+      internalID: 6426221339424316192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 193
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626007c8e0849f4b0800000000000000
+      internalID: -5406210650358675930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 129
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da1410201b7f5fb0800000000000000
+      internalID: -4656868180489921835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 129
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7fc9724d7155b80800000000000000
+      internalID: -8406786929452058690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_11
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 130
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630593493b73a3b20800000000000000
+      internalID: 3114863336705577014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 130
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f2eb187eb336550800000000000000
+      internalID: 6152827381418438491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 129
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c48be4a2760f9d90800000000000000
+      internalID: -7088940198994934590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 129
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d88d92871ab44a0800000000000000
+      internalID: -6608010490765865617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 129
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab94125dd80ba430800000000000000
+      internalID: 3795136857647651755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_16
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 129
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e253c5fd4cf7e60800000000000000
+      internalID: 7962299129818066586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_17
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 129
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5aab09748b795c10800000000000000
+      internalID: 2042799714885937759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 65
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1bb1519323bff70800000000000000
+      internalID: 9222019882719883689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 65
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9715de64905ef3040800000000000000
+      internalID: 4629670769967583609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64499f8d6a2bbfc0800000000000000
+      internalID: -3478139637164587922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 64
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd4b8980250eae10800000000000000
+      internalID: 2210710104390192564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 65
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cb3dd9f28cc5470800000000000000
+      internalID: 8384796713093938259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 65
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5738bff3d1902b0800000000000000
+      internalID: -5617926899528141340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d2fe58c2dd8f970800000000000000
+      internalID: 8789017856108866921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_25
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf783b9448385600800000000000000
+      internalID: 457177229491208136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_26
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 65
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0637ff90898a910800000000000000
+      internalID: 1848894815743467758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b5dcfd7de6b2fa0800000000000000
+      internalID: -5824439819621803192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459cab8d74ab4f7d0800000000000000
+      internalID: -2885476643496081068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dd328bc639bbef0800000000000000
+      internalID: -91317272275853941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_30
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e037e86b3f633f630800000000000000
+      internalID: 3959568917756539662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_31
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6626c80b77a40c0800000000000000
+      internalID: -4590725269997590806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_32
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307ea77180b4e5c80800000000000000
+      internalID: -8332139762463086845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_33
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7e50ceb3d3dd270800000000000000
+      internalID: 8276839017749014462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_34
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35127953470a1040800000000000000
+      internalID: 4619012353666716988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor2Shoot_35
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1766ef084eca30e0800000000000000
+      internalID: -2289290651664750819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Armor2Shoot_0: -6911564215254333803
+      Armor2Shoot_1: 6917550133472608972
+      Armor2Shoot_10: -8406786929452058690
+      Armor2Shoot_11: 3114863336705577014
+      Armor2Shoot_12: 6152827381418438491
+      Armor2Shoot_13: -7088940198994934590
+      Armor2Shoot_14: -6608010490765865617
+      Armor2Shoot_15: 3795136857647651755
+      Armor2Shoot_16: 7962299129818066586
+      Armor2Shoot_17: 2042799714885937759
+      Armor2Shoot_18: 9222019882719883689
+      Armor2Shoot_19: 4629670769967583609
+      Armor2Shoot_2: -2260683025298407063
+      Armor2Shoot_20: -3478139637164587922
+      Armor2Shoot_21: 2210710104390192564
+      Armor2Shoot_22: 8384796713093938259
+      Armor2Shoot_23: -5617926899528141340
+      Armor2Shoot_24: 8789017856108866921
+      Armor2Shoot_25: 457177229491208136
+      Armor2Shoot_26: 1848894815743467758
+      Armor2Shoot_27: -5824439819621803192
+      Armor2Shoot_28: -2885476643496081068
+      Armor2Shoot_29: -91317272275853941
+      Armor2Shoot_3: 852648565533502100
+      Armor2Shoot_30: 3959568917756539662
+      Armor2Shoot_31: -4590725269997590806
+      Armor2Shoot_32: -8332139762463086845
+      Armor2Shoot_33: 8276839017749014462
+      Armor2Shoot_34: 4619012353666716988
+      Armor2Shoot_35: -2289290651664750819
+      Armor2Shoot_4: -8649550657260838860
+      Armor2Shoot_5: 8004336740278240213
+      Armor2Shoot_6: 4393567414327136182
+      Armor2Shoot_7: 6426221339424316192
+      Armor2Shoot_8: -5406210650358675930
+      Armor2Shoot_9: -4656868180489921835
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

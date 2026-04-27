@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: a03eed833dd66d64aba43aa58b0230bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4762220968875369129
+    second: ArmorShoot_0
+  - first:
+      213: -7436947101723632099
+    second: ArmorShoot_1
+  - first:
+      213: 160229147943446677
+    second: ArmorShoot_2
+  - first:
+      213: 5763695208942482275
+    second: ArmorShoot_3
+  - first:
+      213: -483298512338345266
+    second: ArmorShoot_4
+  - first:
+      213: -9046284370172092588
+    second: ArmorShoot_5
+  - first:
+      213: -8508038443225020670
+    second: ArmorShoot_6
+  - first:
+      213: 614235654410589369
+    second: ArmorShoot_7
+  - first:
+      213: 7146538832841556016
+    second: ArmorShoot_8
+  - first:
+      213: 5036859628219799497
+    second: ArmorShoot_9
+  - first:
+      213: -4476368682829311675
+    second: ArmorShoot_10
+  - first:
+      213: -5403827495139687592
+    second: ArmorShoot_11
+  - first:
+      213: 6366660159219937476
+    second: ArmorShoot_12
+  - first:
+      213: 3824038770621914093
+    second: ArmorShoot_13
+  - first:
+      213: -3536854992391153304
+    second: ArmorShoot_14
+  - first:
+      213: 5295718260084332653
+    second: ArmorShoot_15
+  - first:
+      213: -1452067933985750462
+    second: ArmorShoot_16
+  - first:
+      213: -7076615304926899462
+    second: ArmorShoot_17
+  - first:
+      213: -7334949731682465362
+    second: ArmorShoot_18
+  - first:
+      213: 5729199796102952977
+    second: ArmorShoot_19
+  - first:
+      213: -7782973233637805104
+    second: ArmorShoot_20
+  - first:
+      213: 796052437192847475
+    second: ArmorShoot_21
+  - first:
+      213: 8761184626109544516
+    second: ArmorShoot_22
+  - first:
+      213: 2977337998875241249
+    second: ArmorShoot_23
+  - first:
+      213: -1690144262462985858
+    second: ArmorShoot_24
+  - first:
+      213: -2217679603476889678
+    second: ArmorShoot_25
+  - first:
+      213: -3410077872371295240
+    second: ArmorShoot_26
+  - first:
+      213: 4070618996395428990
+    second: ArmorShoot_27
+  - first:
+      213: -1786363389810499441
+    second: ArmorShoot_28
+  - first:
+      213: 1465222794602794980
+    second: ArmorShoot_29
+  - first:
+      213: -8329853447681411036
+    second: ArmorShoot_30
+  - first:
+      213: -7331208644227446794
+    second: ArmorShoot_31
+  - first:
+      213: 3801493176498493549
+    second: ArmorShoot_32
+  - first:
+      213: -4529301997347968326
+    second: ArmorShoot_33
+  - first:
+      213: -4822271987168378894
+    second: ArmorShoot_34
+  - first:
+      213: 8992656907199745814
+    second: ArmorShoot_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArmorShoot_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 194
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2abb76dbec61240800000000000000
+      internalID: 4762220968875369129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 194
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e546c7308aac890800000000000000
+      internalID: -7436947101723632099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 194
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59825d5af8f393200800000000000000
+      internalID: 160229147943446677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 193
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36333a25142ccff40800000000000000
+      internalID: 5763695208942482275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 194
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2299b409afa49f0800000000000000
+      internalID: -483298512338345266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 194
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f59ba6b44257280800000000000000
+      internalID: -9046284370172092588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 194
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20784380d106de980800000000000000
+      internalID: -8508038443225020670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 193
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4d585c214368800800000000000000
+      internalID: 614235654410589369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 194
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0304e09543b9d2360800000000000000
+      internalID: 7146538832841556016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 129
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c71c8b352586e540800000000000000
+      internalID: 5036859628219799497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 129
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5419648566eb0e1c0800000000000000
+      internalID: -4476368682829311675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_11
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 130
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853c5bc168fb105b0800000000000000
+      internalID: -5403827495139687592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 130
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0bfebceabea5850800000000000000
+      internalID: 6366660159219937476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 130
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb9d325007b11530800000000000000
+      internalID: 3824038770621914093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 130
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869557c9f119aeec0800000000000000
+      internalID: -3536854992391153304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 130
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6850ea13bb2e7940800000000000000
+      internalID: 5295718260084332653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_16
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 130
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2424b0d48e739dbe0800000000000000
+      internalID: -1452067933985750462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_17
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 130
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af25db9afdfcacd90800000000000000
+      internalID: -7076615304926899462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 66
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea948bdc416053a90800000000000000
+      internalID: -7334949731682465362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 66
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118f4f52cd4328f40800000000000000
+      internalID: 5729199796102952977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 65
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d335a874135df390800000000000000
+      internalID: -7782973233637805104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 65
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370b67559752c0b00800000000000000
+      internalID: 796052437192847475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 65
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4487fdaaffaf59970800000000000000
+      internalID: 8761184626109544516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 66
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b2b37a221a15920800000000000000
+      internalID: 2977337998875241249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 66
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79aab08fb66b88e0800000000000000
+      internalID: -1690144262462985858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_25
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf712186283931e0800000000000000
+      internalID: -2217679603476889678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_26
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 66
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb93e01e38fca0d0800000000000000
+      internalID: -3410077872371295240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c4b10096ebd7830800000000000000
+      internalID: 4070618996395428990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80259626ff8537e0800000000000000
+      internalID: -1786363389810499441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_29
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efca1d5e54855410800000000000000
+      internalID: 1465222794602794980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_30
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428f2eb3c6a666c80800000000000000
+      internalID: -8329853447681411036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_31
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7cc8a9490524a90800000000000000
+      internalID: -7331208644227446794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_32
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68934127ed91c430800000000000000
+      internalID: 3801493176498493549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_33
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba6b97a4dfa421c0800000000000000
+      internalID: -4529301997347968326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_34
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fff28a5d29d31db0800000000000000
+      internalID: -4822271987168378894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorShoot_35
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f8a9cdfc55ccc70800000000000000
+      internalID: 8992656907199745814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ArmorShoot_0: 4762220968875369129
+      ArmorShoot_1: -7436947101723632099
+      ArmorShoot_10: -4476368682829311675
+      ArmorShoot_11: -5403827495139687592
+      ArmorShoot_12: 6366660159219937476
+      ArmorShoot_13: 3824038770621914093
+      ArmorShoot_14: -3536854992391153304
+      ArmorShoot_15: 5295718260084332653
+      ArmorShoot_16: -1452067933985750462
+      ArmorShoot_17: -7076615304926899462
+      ArmorShoot_18: -7334949731682465362
+      ArmorShoot_19: 5729199796102952977
+      ArmorShoot_2: 160229147943446677
+      ArmorShoot_20: -7782973233637805104
+      ArmorShoot_21: 796052437192847475
+      ArmorShoot_22: 8761184626109544516
+      ArmorShoot_23: 2977337998875241249
+      ArmorShoot_24: -1690144262462985858
+      ArmorShoot_25: -2217679603476889678
+      ArmorShoot_26: -3410077872371295240
+      ArmorShoot_27: 4070618996395428990
+      ArmorShoot_28: -1786363389810499441
+      ArmorShoot_29: 1465222794602794980
+      ArmorShoot_3: 5763695208942482275
+      ArmorShoot_30: -8329853447681411036
+      ArmorShoot_31: -7331208644227446794
+      ArmorShoot_32: 3801493176498493549
+      ArmorShoot_33: -4529301997347968326
+      ArmorShoot_34: -4822271987168378894
+      ArmorShoot_35: 8992656907199745814
+      ArmorShoot_4: -483298512338345266
+      ArmorShoot_5: -9046284370172092588
+      ArmorShoot_6: -8508038443225020670
+      ArmorShoot_7: 614235654410589369
+      ArmorShoot_8: 7146538832841556016
+      ArmorShoot_9: 5036859628219799497
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

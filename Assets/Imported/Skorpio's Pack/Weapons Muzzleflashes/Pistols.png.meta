@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: b8767589580304145aeb6ea120539349
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2370093575577000057
+    second: Pistols_0
+  - first:
+      213: -1799130756773912187
+    second: Pistols_1
+  - first:
+      213: -5854525811679369638
+    second: Pistols_2
+  - first:
+      213: 7309743133952355627
+    second: Pistols_3
+  - first:
+      213: -6023524651263714829
+    second: Pistols_4
+  - first:
+      213: 9150786084695471890
+    second: Pistols_5
+  - first:
+      213: 3980958837941360384
+    second: Pistols_6
+  - first:
+      213: 8830627022102476729
+    second: Pistols_7
+  - first:
+      213: -8003997608303560459
+    second: Pistols_8
+  - first:
+      213: 2726542109962017428
+    second: Pistols_9
+  - first:
+      213: 7389503829001122452
+    second: Pistols_10
+  - first:
+      213: 1025401182142859108
+    second: Pistols_11
+  - first:
+      213: 7854418837025149774
+    second: Pistols_12
+  - first:
+      213: 8766853629765378887
+    second: Pistols_13
+  - first:
+      213: -1885912481415744683
+    second: Pistols_14
+  - first:
+      213: -3067567749012003986
+    second: Pistols_15
+  - first:
+      213: -826613634545449189
+    second: Pistols_16
+  - first:
+      213: 3198432849671063709
+    second: Pistols_17
+  - first:
+      213: 983009167258106133
+    second: Pistols_18
+  - first:
+      213: 4819916629282448600
+    second: Pistols_19
+  - first:
+      213: 491727658619459769
+    second: Pistols_20
+  - first:
+      213: 7466262987715636659
+    second: Pistols_21
+  - first:
+      213: -1646021144581195147
+    second: Pistols_22
+  - first:
+      213: 815249775812901060
+    second: Pistols_23
+  - first:
+      213: 1876165957768130917
+    second: Pistols_24
+  - first:
+      213: -3042064683122962684
+    second: Pistols_25
+  - first:
+      213: 945773098744157142
+    second: Pistols_26
+  - first:
+      213: 4846936375305614073
+    second: Pistols_27
+  - first:
+      213: -1868487628134721159
+    second: Pistols_28
+  - first:
+      213: 2123774029766969315
+    second: Pistols_29
+  - first:
+      213: 4213275817712761483
+    second: Pistols_30
+  - first:
+      213: -2129070238846944393
+    second: Pistols_31
+  - first:
+      213: -7299557950218594689
+    second: Pistols_32
+  - first:
+      213: 6492028643484530359
+    second: Pistols_33
+  - first:
+      213: 1997471287547908642
+    second: Pistols_34
+  - first:
+      213: -4413338051165038057
+    second: Pistols_35
+  - first:
+      213: -3741695879312330973
+    second: Pistols_36
+  - first:
+      213: -4179900967620700947
+    second: Pistols_37
+  - first:
+      213: -4545727017028851183
+    second: Pistols_38
+  - first:
+      213: 6297198551180016497
+    second: Pistols_39
+  - first:
+      213: 2266595237138172209
+    second: Pistols_40
+  - first:
+      213: 6378347000332626916
+    second: Pistols_41
+  - first:
+      213: 2553471229568996324
+    second: Pistols_42
+  - first:
+      213: 2793863500262263013
+    second: Pistols_43
+  - first:
+      213: -6490881948026040082
+    second: Pistols_44
+  - first:
+      213: -3310134304803576850
+    second: Pistols_45
+  - first:
+      213: -20825924893343579
+    second: Pistols_46
+  - first:
+      213: 784624555763747113
+    second: Pistols_47
+  - first:
+      213: -8037524607230774027
+    second: Pistols_48
+  - first:
+      213: -8649191227343819470
+    second: Pistols_49
+  - first:
+      213: -5702746755487190670
+    second: Pistols_50
+  - first:
+      213: -6841000649088543965
+    second: Pistols_51
+  - first:
+      213: 9015544360218209858
+    second: Pistols_52
+  - first:
+      213: 7467873085790090269
+    second: Pistols_53
+  - first:
+      213: -3669353796559032143
+    second: Pistols_54
+  - first:
+      213: -5009681410491351823
+    second: Pistols_55
+  - first:
+      213: 580878938654861112
+    second: Pistols_56
+  - first:
+      213: -4224956758410583047
+    second: Pistols_57
+  - first:
+      213: 4916219953885741501
+    second: Pistols_58
+  - first:
+      213: -2395317747902313660
+    second: Pistols_59
+  - first:
+      213: -1742948024440331608
+    second: Pistols_60
+  - first:
+      213: 4667743949116209600
+    second: Pistols_61
+  - first:
+      213: -7331852500146441452
+    second: Pistols_62
+  - first:
+      213: 6819668283835832971
+    second: Pistols_63
+  - first:
+      213: -4364106586165049959
+    second: Pistols_64
+  - first:
+      213: -6576779623076950692
+    second: Pistols_65
+  - first:
+      213: -1951237698616569284
+    second: Pistols_66
+  - first:
+      213: -4963947697029111701
+    second: Pistols_67
+  - first:
+      213: 3872351508415380128
+    second: Pistols_68
+  - first:
+      213: 8782717184035376324
+    second: Pistols_69
+  - first:
+      213: -4525229773834622719
+    second: Pistols_70
+  - first:
+      213: 2045542710751276980
+    second: Pistols_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pistols_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 221
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7872c47437cbb1fd0800000000000000
+      internalID: -2370093575577000057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 221
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581e202eb143807e0800000000000000
+      internalID: -1799130756773912187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 221
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56ee7afacb80cea0800000000000000
+      internalID: -5854525811679369638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 221
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2da492d6ac617560800000000000000
+      internalID: 7309743133952355627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 221
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f91e916e34286ca0800000000000000
+      internalID: -6023524651263714829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 221
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2177cd9067f1efe70800000000000000
+      internalID: 9150786084695471890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 220
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00752f898f43f3730800000000000000
+      internalID: 3980958837941360384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 220
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7326c6d70bc8a70800000000000000
+      internalID: 8830627022102476729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 221
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f87dfd05961ce090800000000000000
+      internalID: -8003997608303560459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 221
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a1e696a9f96d520800000000000000
+      internalID: 2726542109962017428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 221
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492300ac49acc8660800000000000000
+      internalID: 7389503829001122452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 221
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46704ed31f4fa3e00800000000000000
+      internalID: 1025401182142859108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 221
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43550a5150800d60800000000000000
+      internalID: 7854418837025149774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 221
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74362007dee1aa970800000000000000
+      internalID: 8766853629765378887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_14
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 220
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5533db31794e3d5e0800000000000000
+      internalID: -1885912481415744683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 220
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63e1bb826fcd65d0800000000000000
+      internalID: -3067567749012003986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 221
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b178c6a67474784f0800000000000000
+      internalID: -826613634545449189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_17
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 221
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9885921bbd136c20800000000000000
+      internalID: 3198432849671063709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 146
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5193f5121a954ad00800000000000000
+      internalID: 983009167258106133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 143
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4e06723a8c3e240800000000000000
+      internalID: 4819916629282448600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 145
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b85f3243b7f2d600800000000000000
+      internalID: 491727658619459769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 142
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdef6e11ae7d9760800000000000000
+      internalID: 7466262987715636659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 146
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ab4707d782829e0800000000000000
+      internalID: -1646021144581195147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 143
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c87b8a0a59505b00800000000000000
+      internalID: 815249775812901060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_24
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 146
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561337c8ffa790a10800000000000000
+      internalID: 1876165957768130917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_25
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 143
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fc1bac94a68c5d0800000000000000
+      internalID: -3042064683122962684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_26
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 146
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d314c45f9f002d00800000000000000
+      internalID: 945773098744157142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_27
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 143
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2b20304f6c34340800000000000000
+      internalID: 4846936375305614073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_28
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 145
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97951d1e66cc116e0800000000000000
+      internalID: -1868487628134721159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_29
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 142
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7c5735a39297d10800000000000000
+      internalID: 2123774029766969315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_30
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 146
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a33878800987a30800000000000000
+      internalID: 4213275817712761483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_31
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 143
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bfba7e5e50472e0800000000000000
+      internalID: -2129070238846944393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_32
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 146
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7697df08b2c2ba90800000000000000
+      internalID: -7299557950218594689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_33
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 143
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b67e8ea7a1581a50800000000000000
+      internalID: 6492028643484530359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_34
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 146
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222d55f8d8178bb10800000000000000
+      internalID: 1997471287547908642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_35
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 143
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ad792ec6ca0c2c0800000000000000
+      internalID: -4413338051165038057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 71
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fab001c63d21cc0800000000000000
+      internalID: -3741695879312330973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 71
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de418ac47320ef5c0800000000000000
+      internalID: -4179900967620700947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_38
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 71
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a6910cc555ae0c0800000000000000
+      internalID: -4545727017028851183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 71
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b7033e7b4246750800000000000000
+      internalID: 6297198551180016497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_40
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 70
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1398637fb50947f10800000000000000
+      internalID: 2266595237138172209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_41
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb21098dc0748850800000000000000
+      internalID: 6378347000332626916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_42
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 69
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3d3aeed80cf6320800000000000000
+      internalID: 2553471229568996324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_43
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 72
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8cf0c0d0cc5c620800000000000000
+      internalID: 2793863500262263013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_44
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 71
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee099e82241cbe5a0800000000000000
+      internalID: -6490881948026040082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_45
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 72
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3295b336a0012d0800000000000000
+      internalID: -3310134304803576850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_46
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 72
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a00d908ee206bff0800000000000000
+      internalID: -20825924893343579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_47
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 70
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929c85850eb83ea00800000000000000
+      internalID: 784624555763747113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_48
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 72
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f47c8054f9f47090800000000000000
+      internalID: -8037524607230774027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_49
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 69
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d2fb37766e7f780800000000000000
+      internalID: -8649191227343819470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_50
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 73
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271bc235a06cbd0b0800000000000000
+      internalID: -5702746755487190670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_51
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 69
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3235cd2a722ef01a0800000000000000
+      internalID: -6841000649088543965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_52
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 72
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e259744d5ad1d70800000000000000
+      internalID: 9015544360218209858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_53
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 71
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14f73a410733a760800000000000000
+      internalID: 7467873085790090269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_54
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 15
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b03ed0c926d31dc0800000000000000
+      internalID: -3669353796559032143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_55
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 18
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcf8c1bc490a7ab0800000000000000
+      internalID: -5009681410491351823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_56
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 14
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837670c2152bf0800800000000000000
+      internalID: 580878938654861112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_57
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 17
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f32d878630fd55c0800000000000000
+      internalID: -4224956758410583047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_58
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 15
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db10c05300ce93440800000000000000
+      internalID: 4916219953885741501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_59
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 18
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b0810033f12ced0800000000000000
+      internalID: -2395317747902313660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_60
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 15
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2e34d910ecfc7e0800000000000000
+      internalID: -1742948024440331608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_61
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 18
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9fc85146827c040800000000000000
+      internalID: 4667743949116209600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_62
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 15
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41336373ff6004a90800000000000000
+      internalID: -7331852500146441452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 18
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a58080c2454ae50800000000000000
+      internalID: 6819668283835832971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_64
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 14
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99580b19e249f63c0800000000000000
+      internalID: -4364106586165049959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_65
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 17
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d887037c59ab4a0800000000000000
+      internalID: -6576779623076950692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_66
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 15
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32db95b6afcbe4e0800000000000000
+      internalID: -1951237698616569284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_67
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 18
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6026f2aed38c1bb0800000000000000
+      internalID: -4963947697029111701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_68
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 15
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aafb882e2b5db530800000000000000
+      internalID: 3872351508415380128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_69
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 18
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccc52dfeba72e970800000000000000
+      internalID: 8782717184035376324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_70
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 15
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109e0931f772331c0800000000000000
+      internalID: -4525229773834622719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistols_71
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 18
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf2837f14a336c10800000000000000
+      internalID: 2045542710751276980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pistols_0: -2370093575577000057
+      Pistols_1: -1799130756773912187
+      Pistols_10: 7389503829001122452
+      Pistols_11: 1025401182142859108
+      Pistols_12: 7854418837025149774
+      Pistols_13: 8766853629765378887
+      Pistols_14: -1885912481415744683
+      Pistols_15: -3067567749012003986
+      Pistols_16: -826613634545449189
+      Pistols_17: 3198432849671063709
+      Pistols_18: 983009167258106133
+      Pistols_19: 4819916629282448600
+      Pistols_2: -5854525811679369638
+      Pistols_20: 491727658619459769
+      Pistols_21: 7466262987715636659
+      Pistols_22: -1646021144581195147
+      Pistols_23: 815249775812901060
+      Pistols_24: 1876165957768130917
+      Pistols_25: -3042064683122962684
+      Pistols_26: 945773098744157142
+      Pistols_27: 4846936375305614073
+      Pistols_28: -1868487628134721159
+      Pistols_29: 2123774029766969315
+      Pistols_3: 7309743133952355627
+      Pistols_30: 4213275817712761483
+      Pistols_31: -2129070238846944393
+      Pistols_32: -7299557950218594689
+      Pistols_33: 6492028643484530359
+      Pistols_34: 1997471287547908642
+      Pistols_35: -4413338051165038057
+      Pistols_36: -3741695879312330973
+      Pistols_37: -4179900967620700947
+      Pistols_38: -4545727017028851183
+      Pistols_39: 6297198551180016497
+      Pistols_4: -6023524651263714829
+      Pistols_40: 2266595237138172209
+      Pistols_41: 6378347000332626916
+      Pistols_42: 2553471229568996324
+      Pistols_43: 2793863500262263013
+      Pistols_44: -6490881948026040082
+      Pistols_45: -3310134304803576850
+      Pistols_46: -20825924893343579
+      Pistols_47: 784624555763747113
+      Pistols_48: -8037524607230774027
+      Pistols_49: -8649191227343819470
+      Pistols_5: 9150786084695471890
+      Pistols_50: -5702746755487190670
+      Pistols_51: -6841000649088543965
+      Pistols_52: 9015544360218209858
+      Pistols_53: 7467873085790090269
+      Pistols_54: -3669353796559032143
+      Pistols_55: -5009681410491351823
+      Pistols_56: 580878938654861112
+      Pistols_57: -4224956758410583047
+      Pistols_58: 4916219953885741501
+      Pistols_59: -2395317747902313660
+      Pistols_6: 3980958837941360384
+      Pistols_60: -1742948024440331608
+      Pistols_61: 4667743949116209600
+      Pistols_62: -7331852500146441452
+      Pistols_63: 6819668283835832971
+      Pistols_64: -4364106586165049959
+      Pistols_65: -6576779623076950692
+      Pistols_66: -1951237698616569284
+      Pistols_67: -4963947697029111701
+      Pistols_68: 3872351508415380128
+      Pistols_69: 8782717184035376324
+      Pistols_7: 8830627022102476729
+      Pistols_70: -4525229773834622719
+      Pistols_71: 2045542710751276980
+      Pistols_8: -8003997608303560459
+      Pistols_9: 2726542109962017428
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
