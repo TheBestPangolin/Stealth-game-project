@@ -40,8 +40,11 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: floor
+  - name: land
     uniqueID: 931880235
+    locked: 0
+  - name: Top land
+    uniqueID: 102970215
     locked: 0
   - name: house`s floor
     uniqueID: 2972639763
@@ -55,11 +58,17 @@ TagManager:
   - name: walls
     uniqueID: 3848082433
     locked: 0
-  - name: house`s walls
-    uniqueID: 2353740737
-    locked: 0
   - name: furniture
     uniqueID: 4157508003
+    locked: 0
+  - name: groundObj
+    uniqueID: 3460363063
+    locked: 0
+  - name: street furniture
+    uniqueID: 348651591
+    locked: 0
+  - name: roof
+    uniqueID: 3972565847
     locked: 0
   - name: above all
     uniqueID: 1737175793
