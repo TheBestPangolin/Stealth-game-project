@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: 1d8ce0f0f23264f4289ec830563fbbef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3817037066129435366
+    second: Wristband_0
+  - first:
+      213: -7220971892747958855
+    second: Wristband_1
+  - first:
+      213: 2725031691363929800
+    second: Wristband_2
+  - first:
+      213: 6523054903050146758
+    second: Wristband_3
+  - first:
+      213: 5773765215858216842
+    second: Wristband_4
+  - first:
+      213: 7724164259942829515
+    second: Wristband_5
+  - first:
+      213: -391802682061261730
+    second: Wristband_6
+  - first:
+      213: 3035909240818420064
+    second: Wristband_7
+  - first:
+      213: 5727432815179116980
+    second: Wristband_8
+  - first:
+      213: -1101107798398119287
+    second: Wristband_9
+  - first:
+      213: 4841018031323430210
+    second: Wristband_10
+  - first:
+      213: 6827426896654450905
+    second: Wristband_11
+  - first:
+      213: -3763713859003171568
+    second: Wristband_12
+  - first:
+      213: 5100003961170404281
+    second: Wristband_13
+  - first:
+      213: 5666836668225152202
+    second: Wristband_14
+  - first:
+      213: -3313647988020770391
+    second: Wristband_15
+  - first:
+      213: 6297861316440932887
+    second: Wristband_16
+  - first:
+      213: 5454553911858729876
+    second: Wristband_17
+  - first:
+      213: -7157422713733252809
+    second: Wristband_18
+  - first:
+      213: -4922214856461944460
+    second: Wristband_19
+  - first:
+      213: -6860965806542555803
+    second: Wristband_20
+  - first:
+      213: 1645890984911296733
+    second: Wristband_21
+  - first:
+      213: 4024606578232535914
+    second: Wristband_22
+  - first:
+      213: 7253046193691628853
+    second: Wristband_23
+  - first:
+      213: -924265937676020827
+    second: Wristband_24
+  - first:
+      213: 7813607891800438714
+    second: Wristband_25
+  - first:
+      213: 786864484982230535
+    second: Wristband_26
+  - first:
+      213: 8176384338493895658
+    second: Wristband_27
+  - first:
+      213: 354778241088169533
+    second: Wristband_28
+  - first:
+      213: 7785292986032094395
+    second: Wristband_29
+  - first:
+      213: -8207268539739140342
+    second: Wristband_30
+  - first:
+      213: -6918932159290170937
+    second: Wristband_31
+  - first:
+      213: 518049460632041512
+    second: Wristband_32
+  - first:
+      213: -3453534088203618479
+    second: Wristband_33
+  - first:
+      213: 5353015980806843611
+    second: Wristband_34
+  - first:
+      213: 2184666788411291274
+    second: Wristband_35
+  - first:
+      213: -825525036201825576
+    second: Wristband_36
+  - first:
+      213: -580065320786073785
+    second: Wristband_37
+  - first:
+      213: -7955857215368745306
+    second: Wristband_38
+  - first:
+      213: -5173086644466672054
+    second: Wristband_39
+  - first:
+      213: 6009144867934975595
+    second: Wristband_40
+  - first:
+      213: 4262816350568491805
+    second: Wristband_41
+  - first:
+      213: -4225076388192604149
+    second: Wristband_42
+  - first:
+      213: -7783258803478735671
+    second: Wristband_43
+  - first:
+      213: -4781314944001715282
+    second: Wristband_44
+  - first:
+      213: -6669062253770636460
+    second: Wristband_45
+  - first:
+      213: 8713337608786732358
+    second: Wristband_46
+  - first:
+      213: -6947898681291460948
+    second: Wristband_47
+  - first:
+      213: -2462580403711177213
+    second: Wristband_48
+  - first:
+      213: 5610610291154148077
+    second: Wristband_49
+  - first:
+      213: 366834339475192731
+    second: Wristband_50
+  - first:
+      213: -9175049332510176933
+    second: Wristband_51
+  - first:
+      213: 7191349599891901205
+    second: Wristband_52
+  - first:
+      213: -5981918570618724198
+    second: Wristband_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wristband_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 148
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eae425fcf6d8f430800000000000000
+      internalID: 3817037066129435366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b58da76254f9cb90800000000000000
+      internalID: -7220971892747958855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 147
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cecd6da2e141d520800000000000000
+      internalID: 2725031691363929800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 143
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c39caaafdb868a50800000000000000
+      internalID: 6523054903050146758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 148
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f4cb38fd8802050800000000000000
+      internalID: 5773765215858216842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd09a4587eb13b60800000000000000
+      internalID: 7724164259942829515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 148
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5471b95989009af0800000000000000
+      internalID: -391802682061261730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069ce4d9e57b12a20800000000000000
+      internalID: 3035909240818420064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 148
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1baa7dccdeb7f40800000000000000
+      internalID: 5727432815179116980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98251119a4418b0f0800000000000000
+      internalID: -1101107798398119287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 147
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d3b4c2040ce2340800000000000000
+      internalID: 4841018031323430210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 143
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d04909d694efbe50800000000000000
+      internalID: 6827426896654450905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_12
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 148
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01db6edaf2a94cbc0800000000000000
+      internalID: -3763713859003171568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 144
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3a5aae49ad6c640800000000000000
+      internalID: 5100003961170404281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_14
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 148
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4e7b1fce5a4ae40800000000000000
+      internalID: 5666836668225152202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9855b16be8302d0800000000000000
+      internalID: -3313647988020770391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_16
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 148
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712c223ff7f766750800000000000000
+      internalID: 6297861316440932887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 144
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4939e8422e772bb40800000000000000
+      internalID: 5454553911858729876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739fd98a6f9bbac90800000000000000
+      internalID: -7157422713733252809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 82
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4797f64caa7c0bbb0800000000000000
+      internalID: -4922214856461944460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565fdec23f3f8c0a0800000000000000
+      internalID: -6860965806542555803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 82
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8d7a6612167d610800000000000000
+      internalID: 1645890984911296733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b20401c564ad730800000000000000
+      internalID: 4024606578232535914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 84
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5351d7ab51ff7a460800000000000000
+      internalID: 7253046193691628853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3d3d2d6095c23f0800000000000000
+      internalID: -924265937676020827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_25
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 83
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab734f4baf28f6c60800000000000000
+      internalID: 7813607891800438714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e8cb184118bea00800000000000000
+      internalID: 786864484982230535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_27
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 84
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3fefa4c3a587170800000000000000
+      internalID: 8176384338493895658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_28
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36291a3eec6ce400800000000000000
+      internalID: 354778241088169533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_29
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 82
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc78c8f8baea0c60800000000000000
+      internalID: 7785292986032094395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_30
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f0c904fbce91e80800000000000000
+      internalID: -8207268539739140342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_31
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 81
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1ab74fbd30bff90800000000000000
+      internalID: -6918932159290170937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_32
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8283e0d5d3b703700800000000000000
+      internalID: 518049460632041512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_33
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 79
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157bbec5b059210d0800000000000000
+      internalID: -3453534088203618479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_34
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc2bfc4cabb94a40800000000000000
+      internalID: 5353015980806843611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_35
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 81
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8639d38ede715e10800000000000000
+      internalID: 2184666788411291274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8daaff77a552b84f0800000000000000
+      internalID: -825525036201825576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_37
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 20
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747e5000aa133f7f0800000000000000
+      internalID: -580065320786073785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_38
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 15
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aea73ab30e179190800000000000000
+      internalID: -7955857215368745306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_39
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 19
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e1f34ea118538b0800000000000000
+      internalID: -5173086644466672054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_40
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 16
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6630296b65c46350800000000000000
+      internalID: 6009144867934975595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_41
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 20
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bac5ea2e0982b30800000000000000
+      internalID: 4262816350568491805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_42
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 16
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00b3ec09638d55c0800000000000000
+      internalID: -4225076388192604149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 20
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4d7bf0b5f4cf390800000000000000
+      internalID: -7783258803478735671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_44
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 16
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3d283146b55adb0800000000000000
+      internalID: -4781314944001715282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_45
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 20
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4530903e63bb273a0800000000000000
+      internalID: -6669062253770636460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_46
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 15
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645e8c3d36efbe870800000000000000
+      internalID: 8713337608786732358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_47
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 19
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caea73ef5fa149f90800000000000000
+      internalID: -6947898681291460948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_48
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 16
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e05fd8b2823ddd0800000000000000
+      internalID: -2462580403711177213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_49
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 20
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dead4616554ecdd40800000000000000
+      internalID: 5610610291154148077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_50
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 16
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b75df53e1471500800000000000000
+      internalID: 366834339475192731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_51
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 20
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59cb0b5e3daba080800000000000000
+      internalID: -9175049332510176933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_52
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 16
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b44351c5eccc360800000000000000
+      internalID: 7191349599891901205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wristband_53
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 20
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9065fae0c4fbfca0800000000000000
+      internalID: -5981918570618724198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wristband_0: 3817037066129435366
+      Wristband_1: -7220971892747958855
+      Wristband_10: 4841018031323430210
+      Wristband_11: 6827426896654450905
+      Wristband_12: -3763713859003171568
+      Wristband_13: 5100003961170404281
+      Wristband_14: 5666836668225152202
+      Wristband_15: -3313647988020770391
+      Wristband_16: 6297861316440932887
+      Wristband_17: 5454553911858729876
+      Wristband_18: -7157422713733252809
+      Wristband_19: -4922214856461944460
+      Wristband_2: 2725031691363929800
+      Wristband_20: -6860965806542555803
+      Wristband_21: 1645890984911296733
+      Wristband_22: 4024606578232535914
+      Wristband_23: 7253046193691628853
+      Wristband_24: -924265937676020827
+      Wristband_25: 7813607891800438714
+      Wristband_26: 786864484982230535
+      Wristband_27: 8176384338493895658
+      Wristband_28: 354778241088169533
+      Wristband_29: 7785292986032094395
+      Wristband_3: 6523054903050146758
+      Wristband_30: -8207268539739140342
+      Wristband_31: -6918932159290170937
+      Wristband_32: 518049460632041512
+      Wristband_33: -3453534088203618479
+      Wristband_34: 5353015980806843611
+      Wristband_35: 2184666788411291274
+      Wristband_36: -825525036201825576
+      Wristband_37: -580065320786073785
+      Wristband_38: -7955857215368745306
+      Wristband_39: -5173086644466672054
+      Wristband_4: 5773765215858216842
+      Wristband_40: 6009144867934975595
+      Wristband_41: 4262816350568491805
+      Wristband_42: -4225076388192604149
+      Wristband_43: -7783258803478735671
+      Wristband_44: -4781314944001715282
+      Wristband_45: -6669062253770636460
+      Wristband_46: 8713337608786732358
+      Wristband_47: -6947898681291460948
+      Wristband_48: -2462580403711177213
+      Wristband_49: 5610610291154148077
+      Wristband_5: 7724164259942829515
+      Wristband_50: 366834339475192731
+      Wristband_51: -9175049332510176933
+      Wristband_52: 7191349599891901205
+      Wristband_53: -5981918570618724198
+      Wristband_6: -391802682061261730
+      Wristband_7: 3035909240818420064
+      Wristband_8: 5727432815179116980
+      Wristband_9: -1101107798398119287
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -4,7 +4,7 @@ using UnityEngine.AI;
 
 public class DynamicEnemyLogic : MonoBehaviour
 {
-    [SerializeField] Animator Animator;
+    Animator Animator;
     DynamicEnemy Entity;
     public Vector2 StartPoint;
     public Transform[] MovePoints;
@@ -20,7 +20,7 @@ public class DynamicEnemyLogic : MonoBehaviour
 
     private void Awake()
     {
-        var a = GetComponent<Animator>();
+        Animator = GetComponentInChildren<Animator>();
         StartPoint = new Vector2(transform.position.x, transform.position.y);
         var agent = GetComponent<NavMeshAgent>();
         var rb = GetComponent<Rigidbody2D>();
@@ -42,6 +42,7 @@ public class DynamicEnemyLogic : MonoBehaviour
             return;
         Vector2 curDest = Entity.Agent.destination;
         LookVector = (Entity.Rigidbody.position - curDest);
+        //AnimationMethods.ChangeAnimation(Animator, true, LookVector);
         if ((Entity.Rigidbody.position - curDest).magnitude < epsilon)
         {
             CurPoint += IsMovingBack ? -1 : 1;
