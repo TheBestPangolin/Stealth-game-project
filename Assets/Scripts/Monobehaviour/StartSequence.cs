@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class StartSequence : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    //Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         foreach (var obj in GameObject.FindGameObjectsWithTag("DynamicEnemy"))

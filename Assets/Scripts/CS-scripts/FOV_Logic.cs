@@ -52,6 +52,6 @@ public class FOV_Logic
         var direction = (myPos - playerPos).normalized;
         return distance <= ViewDistance
                     && Vector2.Angle(up, direction) < ViewAngle / 2
-                    && !Physics2D.Raycast(myPos, -direction, distance, Walls);
+                    && !Physics2D.Raycast(myPos, direction, distance, Walls);
     }
 }

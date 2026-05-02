@@ -94,7 +94,7 @@ public class PlayerScript : MonoBehaviour
         if (InstrumentCount[CurrentInstrument] > 0)
         {
             InstrumentCount[CurrentInstrument]--;
-            var instrumentObject = Instantiate(Instrument, rb.position, Quaternion.LookRotation(transform.up));
+            var instrumentObject = Instantiate(Instrument, rb.position, Quaternion.LookRotation(Vector3.zero));
             var instrument = instrumentObject.GetComponent<Instrument>();
             
             instrument.EndPosition = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
