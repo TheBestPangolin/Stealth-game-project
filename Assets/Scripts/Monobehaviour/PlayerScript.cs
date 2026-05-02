@@ -13,14 +13,15 @@ public class PlayerScript : MonoBehaviour
     /// 1 = Smoke;
     /// 2 = EMP;
     /// </summary>
-    [SerializeField] GameObject[] Instruments;
+    string[] InstrumentNames = new[] { "Stone", "Smoke", "EMP" };
+    [SerializeField] GameObject Instrument;
     int CurrentInstrument = 0;
     int[] InstrumentCount;
 
     private void Awake()
     {
-        InstrumentCount = new int[Instruments.Length];
-        InstrumentCount[0] = 1;
+        InstrumentCount = new int[3];
+        InstrumentCount[0] = 10;
         Animator = GetComponentInChildren<Animator>();
         
         rb = GetComponent<Rigidbody2D>();
@@ -40,7 +41,6 @@ public class PlayerScript : MonoBehaviour
         var lookVector = new Vector2(mousePos.x, mousePos.y) - newPos;
 
         AnimationMethods.ChangeAnimation(Animator, moveVector != Vector2.zero, lookVector, moveVector);
-
         // Передвижение 
         rb.MovePosition(newPos);
 
@@ -49,7 +49,7 @@ public class PlayerScript : MonoBehaviour
 
         ChangeEquipment();
 
-        if (Mouse.current.leftButton.IsPressed())
+        if (Mouse.current.leftButton)
             CheckThrow();
     }
 
@@ -94,9 +94,11 @@ public class PlayerScript : MonoBehaviour
         if (InstrumentCount[CurrentInstrument] > 0)
         {
             InstrumentCount[CurrentInstrument]--;
-            var instrumentObject = Instantiate(Instruments[CurrentInstrument], rb.position, Quaternion.LookRotation(transform.up));
+            var instrumentObject = Instantiate(Instrument, rb.position, Quaternion.LookRotation(transform.up));
             var instrument = instrumentObject.GetComponent<Instrument>();
+            
             instrument.EndPosition = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
+            instrument.InstrumentName = InstrumentNames[CurrentInstrument];
         }
     }
 
@@ -104,6 +106,4 @@ public class PlayerScript : MonoBehaviour
     {
         transform.position = CurrentRespawnPoint;
     }
-
-
 }

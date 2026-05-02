@@ -1,3 +1,4 @@
+using System.Linq;
 using System.Threading;
 using UnityEngine;
 using UnityEngine.AI;
@@ -7,7 +8,7 @@ public class DynamicEnemyLogic : MonoBehaviour
     Animator Animator;
     DynamicEnemy Entity;
     public Vector2 StartPoint;
-    public Transform[] MovePoints;
+    public Transform[] MovePointsTransform;
     public Transform[] LookPoints;
     private int CurPoint = 0;
     private bool IsMovingBack = false;
@@ -31,8 +32,9 @@ public class DynamicEnemyLogic : MonoBehaviour
         agent.updateRotation = false;
         agent.updateUpAxis = false;
         Player = GameObject.FindGameObjectWithTag("Player");
-        Entity.GoNext(ConvertLocal3DToWorld2D(MovePoints[CurPoint].localPosition));
-        FOV_Checker = new FOV_Logic(10f, 45f, Walls, Player, () => transform.position, () => LookVector, target => Entity.OnDetect(target));
+
+        Entity.GoNext(ConvertLocal3DToWorld2D(MovePointsTransform[CurPoint].localPosition));
+        FOV_Checker = new FOV_Logic(15f, 45f, Walls, Player, () => transform.position, () => LookVector, target => Entity.OnDetect(target));
         StartCoroutine(FOV_Checker.FOV_Coroutine());
     }
 
@@ -46,12 +48,12 @@ public class DynamicEnemyLogic : MonoBehaviour
         if ((Entity.Rigidbody.position - curDest).magnitude < epsilon)
         {
             CurPoint += IsMovingBack ? -1 : 1;
-            if (CurPoint == MovePoints.Length || CurPoint == -1)
+            if (CurPoint == MovePointsTransform.Length || CurPoint == -1)
             {
                 CurPoint += IsMovingBack ? 1 : -1;
                 IsMovingBack = !IsMovingBack;
             }
-            Entity.GoNext(ConvertLocal3DToWorld2D(MovePoints[CurPoint].localPosition));
+            Entity.GoNext(ConvertLocal3DToWorld2D(MovePointsTransform[CurPoint].localPosition));
         }
     }
     private void OnTriggerEnter2D(Collider2D collision)
