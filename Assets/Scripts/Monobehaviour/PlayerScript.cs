@@ -49,7 +49,7 @@ public class PlayerScript : MonoBehaviour
 
         ChangeEquipment();
 
-        if (Mouse.current.leftButton)
+        if (Mouse.current.leftButton.isPressed)
             CheckThrow();
     }
 
