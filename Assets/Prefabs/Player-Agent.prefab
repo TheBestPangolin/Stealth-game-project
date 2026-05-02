@@ -162,9 +162,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
   Instruments:
-  - {fileID: 4501713781028169965, guid: d753adbddae24b946a7f8adfb3f94f21, type: 3}
-  - {fileID: 5516136309485317443, guid: dfff0ac007d5bd943a303113018439d8, type: 3}
   - {fileID: 2080137353796009438, guid: ccaa1aa6b3ab71544b7dcfd863111cc6, type: 3}
+  - {fileID: 5516136309485317443, guid: dfff0ac007d5bd943a303113018439d8, type: 3}
+  - {fileID: 4501713781028169965, guid: d753adbddae24b946a7f8adfb3f94f21, type: 3}
 --- !u!50 &3923500618866832895
 Rigidbody2D:
   serializedVersion: 5

@@ -3,12 +3,21 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-public abstract class DynamicEnemy
+public interface IEnemy
 {
-    public double StunTime;
-    public bool IsStunned;
+    double StunTime { get; set; }
+    bool IsStunned { get; set; }
+    Rigidbody2D Rigidbody { get;}
+
+    void OnDetect(Vector2 target);
+}
+
+public abstract class DynamicEnemy : IEnemy
+{
+    public double StunTime { get; set; }
+    public bool IsStunned { get; set; }
     public NavMeshAgent Agent;
-    public Rigidbody2D Rigidbody;
+    public Rigidbody2D Rigidbody { get;}
     public DynamicEnemy(NavMeshAgent agent, Rigidbody2D rigidbody)
     {
         Agent = agent;
@@ -21,11 +30,11 @@ public abstract class DynamicEnemy
     }
 }
 
-public abstract class StaticEnemy
+public abstract class StaticEnemy : IEnemy
 {
-    public double StunTime;
-    public PolygonCollider2D Vision;
-    public Rigidbody2D Rigidbody;
+    public double StunTime { get; set; }
+    public bool IsStunned { get; set; }
+    public Rigidbody2D Rigidbody { get; }
 
     public StaticEnemy(Rigidbody2D rigidbody)
     {
