@@ -14,7 +14,7 @@ public class DynamicEnemyLogic : MonoBehaviour
     private bool IsMovingBack = false;
     private double epsilon = 0.1;
     private FOV_Logic FOV_Checker;
-    public LayerMask Walls;
+    public LayerMask Walls = 7;
     private Vector3 LookVector;
 
     private GameObject Player;
@@ -43,7 +43,7 @@ public class DynamicEnemyLogic : MonoBehaviour
         if (Entity.IsStunned)
             return;
         Vector2 curDest = Entity.Agent.destination;
-        LookVector = (Entity.Rigidbody.position - curDest);
+        LookVector = Entity.Agent.desiredVelocity;
         //AnimationMethods.ChangeAnimation(Animator, true, LookVector);
         if ((Entity.Rigidbody.position - curDest).magnitude < epsilon)
         {

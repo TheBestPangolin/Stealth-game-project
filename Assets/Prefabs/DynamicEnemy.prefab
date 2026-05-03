@@ -258,7 +258,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DynamicEnemyLogic
   StartPoint: {x: 0, y: 0}
-  MovePoints: []
+  MovePointsTransform: []
   LookPoints: []
   Walls:
     serializedVersion: 2

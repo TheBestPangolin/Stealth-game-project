@@ -49,9 +49,11 @@ public class FOV_Logic
     private bool FOV_Check(Vector2 playerPos, Vector2 myPos, Vector2 up)
     {
         var distance = Vector2.Distance(playerPos, myPos);
-        var direction = (myPos - playerPos).normalized;
+        var direction = (playerPos - myPos).normalized;
+        var hit = Physics2D.Raycast(myPos, direction, distance, Walls, -10, 50);
         return distance <= ViewDistance
-                    && Vector2.Angle(up, direction) < ViewAngle / 2
-                    && !Physics2D.Raycast(myPos, direction, distance, Walls);
+                    && Vector2.Angle(up, direction) < ViewAngle
+                    && hit.collider == null;
     }
+
 }

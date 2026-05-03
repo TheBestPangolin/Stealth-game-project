@@ -6,7 +6,7 @@ public class PlayerScript : MonoBehaviour
 {
     Animator Animator;
     Rigidbody2D rb;
-    const float MoveSpeed = 5f;
+    const float MoveSpeed = 10f;
     Vector2 CurrentRespawnPoint;
     /// <summary>
     /// 0 = Stone;
@@ -48,8 +48,11 @@ public class PlayerScript : MonoBehaviour
         Camera.main.transform.position = new Vector3(rb.position.x, rb.position.y, -10);
 
         ChangeEquipment();
+    }
 
-        if (Mouse.current.leftButton.isPressed)
+    private void Update()
+    {
+        if (Mouse.current.leftButton.wasPressedThisFrame)
             CheckThrow();
     }
 
