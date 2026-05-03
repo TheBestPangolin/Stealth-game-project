@@ -1,4 +1,5 @@
 using System;
+using System.Linq;
 using UnityEngine;
 
 public enum Directions
@@ -65,5 +66,19 @@ public static class AnimationMethods
         var animationName = isMoving ? "Walk" : "Idle";
         animationName += Enum.GetName(typeof(Directions), lookDirection);
         animator.Play(animationName);
+    }
+}
+
+public static class SoundMethods
+{
+    public static void MakeAlarmSound(Vector2 from, float radius)
+    {
+        var alarmedEnemies = Physics2D.OverlapCircleAll(from, radius);
+        foreach (var enemy in alarmedEnemies
+                                .Select(enemy => enemy.gameObject)
+                                .Where(enemy => enemy.CompareTag("Enemy")))
+        {
+            enemy.gameObject.GetComponent<DynamicEnemyLogic>().OnDetect(from);
+        }
     }
 }
