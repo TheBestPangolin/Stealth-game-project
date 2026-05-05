@@ -20,7 +20,10 @@ public class Instrument : MonoBehaviour
 
         var hit = Physics2D.Raycast(rb.position, move, move.magnitude, Walls);
         if (hit)
+        {
             EndPosition = hit.point;
+            epsilon = 0.75;
+        }
         Movement = (EndPosition - rb.position) * Time.fixedDeltaTime * 2;
     }
 
@@ -31,6 +34,13 @@ public class Instrument : MonoBehaviour
         if (Vector2.Distance(EndPosition, rb.position) < epsilon)
         {
             Movement = Vector2.zero;
+            switch (InstrumentName)
+            {
+                case "Stone":
+                    SoundMethods.MakeAlarmSound(rb.position, 20f);
+                    break;
+            }
+            Destroy(gameObject, 0.5f);
         }
     }
 }

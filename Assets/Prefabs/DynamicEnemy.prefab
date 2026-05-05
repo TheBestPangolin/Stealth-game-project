@@ -129,7 +129,7 @@ GameObject:
   - component: {fileID: 4912113721253820077}
   m_Layer: 0
   m_Name: DynamicEnemy
-  m_TagString: DynamicEnemy
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -4,8 +4,7 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - DynamicEnemy
-  - StaticEnemy
+  - Enemy
   layers:
   - Default
   - TransparentFX
