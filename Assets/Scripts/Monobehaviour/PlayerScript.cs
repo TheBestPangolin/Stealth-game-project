@@ -20,8 +20,10 @@ public class PlayerScript : MonoBehaviour
 
     private void Awake()
     {
-        InstrumentCount = new int[3];
+        InstrumentCount = new int[InstrumentNames.Length];
         InstrumentCount[0] = 10;
+        InstrumentCount[1] = 10;
+        InstrumentCount[2] = 10;
         Animator = GetComponentInChildren<Animator>();
         
         rb = GetComponent<Rigidbody2D>();

@@ -19,7 +19,9 @@ public class FOV_Logic
 
     private Action<Vector2> OnDetect;
 
-    public FOV_Logic(float viewDistance, float viewAngle, LayerMask walls, GameObject player, Func<Vector3> position, Func<Vector3> up, Action<Vector2> onDetect)
+    private Action StartChase;
+
+    public FOV_Logic(float viewDistance, float viewAngle, LayerMask walls, GameObject player, Func<Vector3> position, Func<Vector3> up, Action<Vector2> onDetect, Action startChase)
     {
         ViewDistance = viewDistance;
         ViewAngle = viewAngle;
@@ -28,6 +30,7 @@ public class FOV_Logic
         Position = position;
         Up = up;
         OnDetect = onDetect;
+        StartChase = startChase;
     }
 
     public IEnumerator FOV_Coroutine()
@@ -42,7 +45,10 @@ public class FOV_Logic
             var myPos = Position();
             var up = Up();
             if (FOV_Check(playerPos, myPos, up))
+            {
+                StartChase();
                 OnDetect(playerPos);
+            }
         }
     }
 
