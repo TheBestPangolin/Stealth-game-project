@@ -78,6 +78,9 @@ TagManager:
   - name: above all 1
     uniqueID: 1921735841
     locked: 0
+  - name: shadows
+    uniqueID: 3043731615
+    locked: 0
   m_RenderingLayers:
   - Default
   m_MigratedRenderPipelines: []
