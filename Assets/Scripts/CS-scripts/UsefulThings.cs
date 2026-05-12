@@ -78,7 +78,7 @@ public static class SoundMethods
                                 .Select(enemy => enemy.gameObject)
                                 .Where(enemy => enemy.CompareTag("Enemy")))
         {
-            enemy.gameObject.GetComponent<DynamicEnemyLogic>().OnDetect(from);
+            enemy.gameObject.GetComponent<EnemyLogic>().OnDetect(from);
         }
     }
 }

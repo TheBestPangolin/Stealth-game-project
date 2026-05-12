@@ -137,6 +137,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23208bc730c45f74b82965d7420825fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Instrument
+  Smoke: {fileID: 2878873235088966682, guid: 518dbc65b3c5da8409aafa563e2a5fca, type: 3}
   InstrumentName: 
   EndPosition: {x: 0, y: 0}
   Walls:

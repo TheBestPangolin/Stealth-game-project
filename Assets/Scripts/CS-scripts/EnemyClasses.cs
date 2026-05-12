@@ -5,7 +5,7 @@ using UnityEngine.AI;
 
 public interface IEnemy
 {
-    double StunTime { get; set; }
+    int StunTime { get; set; }
     bool IsStunned { get; set; }
     Rigidbody2D Rigidbody { get;}
 
@@ -14,7 +14,7 @@ public interface IEnemy
 
 public abstract class DynamicEnemy : IEnemy
 {
-    public double StunTime { get; set; }
+    public int StunTime { get; set; }
     public bool IsStunned { get; set; }
     public NavMeshAgent Agent;
     public Rigidbody2D Rigidbody { get;}
@@ -32,7 +32,7 @@ public abstract class DynamicEnemy : IEnemy
 
 public abstract class StaticEnemy : IEnemy
 {
-    public double StunTime { get; set; }
+    public int StunTime { get; set; }
     public bool IsStunned { get; set; }
     public Rigidbody2D Rigidbody { get; }
 
