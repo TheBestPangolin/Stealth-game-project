@@ -2,6 +2,7 @@ using System.Linq;
 using System.Threading;
 using UnityEngine;
 using UnityEngine.AI;
+using UnityEditor.Animations;
 
 public class EnemyLogic : MonoBehaviour
 {
@@ -72,7 +73,7 @@ public class EnemyLogic : MonoBehaviour
             var dynamic = Entity as DynamicEnemy;
             Vector2 curDest = dynamic.Agent.destination;
             LookVector = dynamic.Agent.desiredVelocity;
-            //AnimationMethods.ChangeAnimation(Animator, true, LookVector);
+            AnimationMethods.ChangeAnimation(Animator, true, LookVector);
             if ((dynamic.Rigidbody.position - curDest).magnitude < epsilon)
             {
                 if (IsChasing)

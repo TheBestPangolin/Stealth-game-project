@@ -63,7 +63,7 @@ public class ShootEnemy : DynamicEnemy
     public ShootEnemy(NavMeshAgent agent, Rigidbody2D rigidbody) : base(agent, rigidbody)
     {
         StunTime = 3;
-        Agent.speed = 1f;
+        Agent.speed = 7f;
     }
 
     public override void OnDetect(Vector2 target)
