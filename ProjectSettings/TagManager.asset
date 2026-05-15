@@ -60,11 +60,14 @@ TagManager:
   - name: NPC
     uniqueID: 3409523325
     locked: 0
-  - name: walls
-    uniqueID: 3848082433
-    locked: 0
   - name: groundObj
     uniqueID: 3460363063
+    locked: 0
+  - name: shadows
+    uniqueID: 3043731615
+    locked: 0
+  - name: walls
+    uniqueID: 3848082433
     locked: 0
   - name: furniture
     uniqueID: 4157508003
@@ -80,9 +83,6 @@ TagManager:
     locked: 0
   - name: above all 1
     uniqueID: 1921735841
-    locked: 0
-  - name: shadows
-    uniqueID: 3043731615
     locked: 0
   m_RenderingLayers:
   - Default
