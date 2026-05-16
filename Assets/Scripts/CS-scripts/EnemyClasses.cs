@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
+using static UnityEngine.EventSystems.EventTrigger;
 
 public interface IEnemy
 {
@@ -68,7 +69,11 @@ public class ShootEnemy : DynamicEnemy
 
     public override void OnDetect(Vector2 target)
     {
-
+        if (!IsStunned)
+        {
+            var bulletObj = UnityEngine.Object.Instantiate(Resources.Load<GameObject>("Bullet"), Rigidbody.position, Quaternion.LookRotation(Vector3.zero));
+            bulletObj.GetComponent<Bullet>().EndPosition = target;
+        }
     }
 }
 
@@ -82,6 +87,7 @@ public class CameraEnemy : StaticEnemy
 
     public override void OnDetect(Vector2 target)
     {
+        SoundMethods.MakeAlarmSound(Rigidbody.position, 30f);
     }
 }
 

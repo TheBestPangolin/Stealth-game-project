@@ -109,6 +109,7 @@ public class PlayerScript : MonoBehaviour
 
     void Respawn()
     {
+        Debug.Log("You Died!");
         transform.position = CurrentRespawnPoint;
     }
 }

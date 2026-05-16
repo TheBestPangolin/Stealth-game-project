@@ -43,7 +43,11 @@ public static class VectorExtensions
 {
     public static float GetAngle(this Vector2 vector)
     {
-        return Mathf.Atan2(vector.y, vector.x) * Mathf.Rad2Deg;
+        return ConvertAngle(Mathf.Atan2(vector.y, vector.x)) * Mathf.Rad2Deg;
+    }
+    private static float ConvertAngle(float angle)
+    {
+        return angle < 0 ? 2 * Mathf.PI + angle : angle;
     }
 }
 

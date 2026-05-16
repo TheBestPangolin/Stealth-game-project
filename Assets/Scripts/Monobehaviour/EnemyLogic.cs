@@ -1,14 +1,15 @@
 using System.Linq;
 using System.Threading;
+using UnityEditor.Animations;
 using UnityEngine;
 using UnityEngine.AI;
-using UnityEditor.Animations;
+using static UnityEngine.GraphicsBuffer;
 
 public class EnemyLogic : MonoBehaviour
 {
     Animator Animator;
     IEnemy Entity;
-    bool IsDynamic;
+    [SerializeField] bool IsDynamic;
     public Vector2 StartPoint;
     public Transform[] MovePointsTransform;
     public Transform[] LookPoints;
@@ -18,7 +19,7 @@ public class EnemyLogic : MonoBehaviour
     private FOV_Logic FOV_Checker;
     public LayerMask Walls = 7;
     private Vector3 LookVector;
-    float MoveSpeed = 0;
+    [SerializeField] float MoveSpeed = 0;
     double StunTime = 0;
     bool IsChasing = false;
 
@@ -64,7 +65,9 @@ public class EnemyLogic : MonoBehaviour
         if (StunTime > 0)
         {
             StunTime -= Time.fixedDeltaTime;
-            if (StunTime <= 0)
+            if (StunTime <= 0.5 && StunTime > 0 && !Animator.GetCurrentAnimatorStateInfo(0).IsName("Rise"))
+                Animator.Play("Rise");
+            else if (StunTime <= 0)
                 ResetAfterStun();
             return;
         }
@@ -91,10 +94,7 @@ public class EnemyLogic : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
-        {
-            Debug.Log("You Died!");
             Player.SendMessage("Respawn");
-        }
     }
 
     private Vector2 ConvertLocal3DToWorld2D(Vector3 localPosition)
@@ -110,6 +110,7 @@ public class EnemyLogic : MonoBehaviour
 
     public void Stun()
     {
+        Animator.Play("Death");
         if (IsDynamic)
         {
             var dynamic = Entity as DynamicEnemy;
