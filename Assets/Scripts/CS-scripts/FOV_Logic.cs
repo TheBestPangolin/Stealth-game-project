@@ -21,7 +21,10 @@ public class FOV_Logic
 
     private Action StartChase;
 
-    public FOV_Logic(float viewDistance, float viewAngle, LayerMask walls, GameObject player, Func<Vector3> position, Func<Vector3> up, Action<Vector2> onDetect, Action startChase)
+    public bool SawLastIteration;
+    public Action<Vector2> SetTarget;
+
+    public FOV_Logic(float viewDistance, float viewAngle, LayerMask walls, GameObject player, Func<Vector3> position, Func<Vector3> up, Action<Vector2> onDetect, Action startChase, Action<Vector2> setTarget)
     {
         ViewDistance = viewDistance;
         ViewAngle = viewAngle;
@@ -31,6 +34,7 @@ public class FOV_Logic
         Up = up;
         OnDetect = onDetect;
         StartChase = startChase;
+        SetTarget = setTarget;
     }
 
     public IEnumerator FOV_Coroutine()
@@ -46,8 +50,14 @@ public class FOV_Logic
             var up = Up();
             if (FOV_Check(playerPos, myPos, up))
             {
+                SawLastIteration = true;
                 StartChase();
                 OnDetect(playerPos);
+                SetTarget(playerPos);
+            }
+            else
+            {
+                SawLastIteration = false;
             }
         }
     }
@@ -57,9 +67,10 @@ public class FOV_Logic
         var distance = Vector2.Distance(playerPos, myPos);
         var direction = (playerPos - myPos).normalized;
         var hit = Physics2D.Raycast(myPos, direction, distance, Walls, -10, 50);
-        return distance <= ViewDistance
+        return (distance <= ViewDistance
                     && Vector2.Angle(up, direction) < ViewAngle
-                    && hit.collider == null;
+                    && hit.collider == null)
+                    || distance <= 3f;
     }
 
 }

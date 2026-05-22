@@ -71,6 +71,14 @@ public static class AnimationMethods
         animationName += Enum.GetName(typeof(Directions), lookDirection);
         animator.Play(animationName);
     }
+
+    public static void PlayShootAnimation(Animator animator, Vector2 directionVector)
+    {
+        VectorWork.GetFourSidedDirection(directionVector, out var lookDirection);
+        var animationName = "Shoot";
+        animationName += Enum.GetName(typeof(Directions), lookDirection);
+        animator.Play(animationName);
+    }
 }
 
 public static class SoundMethods

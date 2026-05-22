@@ -9,6 +9,7 @@ public interface IEnemy
     int StunTime { get; set; }
     bool IsStunned { get; set; }
     Rigidbody2D Rigidbody { get;}
+    Animator Animator { get; set; }
 
     void OnDetect(Vector2 target);
 }
@@ -19,10 +20,13 @@ public abstract class DynamicEnemy : IEnemy
     public bool IsStunned { get; set; }
     public NavMeshAgent Agent;
     public Rigidbody2D Rigidbody { get;}
-    public DynamicEnemy(NavMeshAgent agent, Rigidbody2D rigidbody)
+    public Animator Animator { get; set; }
+
+    public DynamicEnemy(NavMeshAgent agent, Rigidbody2D rigidbody, Animator animator)
     {
         Agent = agent;
         Rigidbody = rigidbody;
+        Animator = animator;
     }
     public abstract void OnDetect(Vector2 target);
     public void GoNext(Vector3 MovePoint)
@@ -36,16 +40,18 @@ public abstract class StaticEnemy : IEnemy
     public int StunTime { get; set; }
     public bool IsStunned { get; set; }
     public Rigidbody2D Rigidbody { get; }
+    public Animator Animator { get; set; }
 
-    public StaticEnemy(Rigidbody2D rigidbody)
+    public StaticEnemy(Rigidbody2D rigidbody, Animator animator)
     {
         Rigidbody = rigidbody;
+        Animator = animator;
     }
     public abstract void OnDetect(Vector2 target);
 }
 public class MeleeEnemy : DynamicEnemy
 {
-    public MeleeEnemy(NavMeshAgent agent, Rigidbody2D rigidbody) : base(agent, rigidbody)
+    public MeleeEnemy(NavMeshAgent agent, Rigidbody2D rigidbody, Animator animator) : base(agent, rigidbody, animator)
     {
         StunTime = 2;
         Agent.speed = 7f;
@@ -61,7 +67,7 @@ public class MeleeEnemy : DynamicEnemy
 public class ShootEnemy : DynamicEnemy
 {
 
-    public ShootEnemy(NavMeshAgent agent, Rigidbody2D rigidbody) : base(agent, rigidbody)
+    public ShootEnemy(NavMeshAgent agent, Rigidbody2D rigidbody, Animator animator) : base(agent, rigidbody, animator)
     {
         StunTime = 3;
         Agent.speed = 7f;
@@ -69,10 +75,12 @@ public class ShootEnemy : DynamicEnemy
 
     public override void OnDetect(Vector2 target)
     {
-        if (!IsStunned)
+        if (!IsStunned && !Agent.isStopped)
         {
-            var bulletObj = UnityEngine.Object.Instantiate(Resources.Load<GameObject>("Bullet"), Rigidbody.position, Quaternion.LookRotation(Vector3.zero));
-            bulletObj.GetComponent<Bullet>().EndPosition = target;
+            Agent.SetDestination(target);
+            AnimationMethods.PlayShootAnimation(Animator, Agent.desiredVelocity);
+            Agent.isStopped = true;
+            
         }
     }
 }
@@ -80,7 +88,7 @@ public class ShootEnemy : DynamicEnemy
 public class CameraEnemy : StaticEnemy
 {
 
-    public CameraEnemy(Rigidbody2D rigidbody) : base(rigidbody)
+    public CameraEnemy(Rigidbody2D rigidbody, Animator animator) : base(rigidbody, animator)
     {
         StunTime = 3;
     }
@@ -94,7 +102,7 @@ public class CameraEnemy : StaticEnemy
 public class LaserEnemy : StaticEnemy
 {
 
-    public LaserEnemy(Rigidbody2D rigidbody) : base(rigidbody)
+    public LaserEnemy(Rigidbody2D rigidbody, Animator animator) : base(rigidbody, animator)
     {
         StunTime = 3;
     }

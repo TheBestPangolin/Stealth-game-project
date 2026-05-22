@@ -8,8 +8,8 @@ using static UnityEngine.GraphicsBuffer;
 public class EnemyLogic : MonoBehaviour
 {
     Animator Animator;
-    IEnemy Entity;
-    [SerializeField] bool IsDynamic;
+    public IEnemy Entity;
+    bool IsDynamic => Entity is DynamicEnemy;
     public Vector2 StartPoint;
     public Transform[] MovePointsTransform;
     public Transform[] LookPoints;
@@ -22,6 +22,7 @@ public class EnemyLogic : MonoBehaviour
     [SerializeField] float MoveSpeed = 0;
     double StunTime = 0;
     bool IsChasing = false;
+    public Vector2 Target;
 
     private GameObject Player;
 
@@ -33,22 +34,21 @@ public class EnemyLogic : MonoBehaviour
         var rb = GetComponent<Rigidbody2D>();
         if (name.StartsWith("melee"))
         {
-            IsDynamic = true;
-            Entity = new MeleeEnemy(agent, rb);
+            Entity = new MeleeEnemy(agent, rb, Animator);
             MoveSpeed = (Entity as DynamicEnemy).Agent.speed;
         }
         else if (name.StartsWith("shoot"))
         {
-            IsDynamic = true;
-            Entity = new ShootEnemy(agent, rb);
+            Entity = new ShootEnemy(agent, rb, Animator);
             MoveSpeed = (Entity as DynamicEnemy).Agent.speed;
         }
         else if (name.StartsWith("camera"))
-            Entity = new CameraEnemy(rb);
+            Entity = new CameraEnemy(rb, Animator);
         else if (name.StartsWith("laser"))
-            Entity = new LaserEnemy(rb);
+            Entity = new LaserEnemy(rb, Animator);
         agent.updateRotation = false;
         agent.updateUpAxis = false;
+        agent.acceleration = MoveSpeed * 30;
         Player = GameObject.FindGameObjectWithTag("Player");
 
         if (IsDynamic)
@@ -56,7 +56,7 @@ public class EnemyLogic : MonoBehaviour
             var dynamic = Entity as DynamicEnemy;
             dynamic.GoNext(ConvertLocal3DToWorld2D(MovePointsTransform[CurPoint].localPosition));
         }
-        FOV_Checker = new FOV_Logic(15f, 45f, Walls, Player, () => transform.position, () => LookVector, target => Entity.OnDetect(target), StartChase);
+        FOV_Checker = new FOV_Logic(15f, 45f, Walls, Player, () => transform.position, () => LookVector, target => Entity.OnDetect(target), StartChase, SetTarget);
         StartCoroutine(FOV_Checker.FOV_Coroutine());
     }
 
@@ -67,8 +67,6 @@ public class EnemyLogic : MonoBehaviour
             StunTime -= Time.fixedDeltaTime;
             if (StunTime <= 0.5 && StunTime > 0 && !Animator.GetCurrentAnimatorStateInfo(0).IsName("Rise"))
                 Animator.Play("Rise");
-            else if (StunTime <= 0)
-                ResetAfterStun();
             return;
         }
         if (IsDynamic)
@@ -80,7 +78,10 @@ public class EnemyLogic : MonoBehaviour
             if ((dynamic.Rigidbody.position - curDest).magnitude < epsilon)
             {
                 if (IsChasing)
+                {
                     IsChasing = false;
+                    dynamic.Agent.speed = MoveSpeed;
+                }
                 CurPoint += IsMovingBack ? -1 : 1;
                 if (CurPoint == MovePointsTransform.Length || CurPoint == -1)
                 {
@@ -114,19 +115,19 @@ public class EnemyLogic : MonoBehaviour
         if (IsDynamic)
         {
             var dynamic = Entity as DynamicEnemy;
-            dynamic.Agent.speed = 0;
+            dynamic.Agent.isStopped = true;
         }
         Entity.IsStunned = true;
         StunTime = Entity.StunTime;
     }
 
-    private void ResetAfterStun()
+    public void ResetAfterStun()
     {
         Entity.IsStunned = false;
         if (IsDynamic)
         {
             var dynamic = Entity as DynamicEnemy;
-            dynamic.Agent.speed = MoveSpeed;
+            dynamic.Agent.isStopped = false;
             Debug.Log("passed");
         }
         StunTime = 0;
@@ -135,5 +136,15 @@ public class EnemyLogic : MonoBehaviour
     private void StartChase()
     {
         IsChasing = true;
+        if (Entity is MeleeEnemy)
+        {
+            var temp = Entity as MeleeEnemy;
+            temp.Agent.speed = MoveSpeed * 1.75f;
+        }
+    }
+
+    public void SetTarget(Vector2 target)
+    {
+        Target = target;
     }
 }
