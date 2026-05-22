@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 5e17e03ea0a64fd4db6704d798fa8c1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3585386987723813280
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_0
+  - first:
+      213: -4876494318031414290
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_1
+  - first:
+      213: 9052887817664896358
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_2
+  - first:
+      213: -2044055054024063315
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_3
+  - first:
+      213: 7261313579494716431
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_4
+  - first:
+      213: 391913960941746696
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_5
+  - first:
+      213: 5758877801160095253
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_6
+  - first:
+      213: -2221256327081813833
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_7
+  - first:
+      213: 7741457274688290286
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_8
+  - first:
+      213: 8237466668059473683
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_9
+  - first:
+      213: -2467549505157817781
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_10
+  - first:
+      213: 7207924097217925128
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_11
+  - first:
+      213: 4921645972424650173
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_12
+  - first:
+      213: -6895174734142546164
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_13
+  - first:
+      213: 8748749389294764810
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_14
+  - first:
+      213: -8037247212397891731
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_15
+  - first:
+      213: 3256435895125612729
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_16
+  - first:
+      213: 6574944010377308328
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_17
+  - first:
+      213: -6589031658286226887
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_18
+  - first:
+      213: 3573216929557408694
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_19
+  - first:
+      213: 3555250437708735220
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_20
+  - first:
+      213: -9018616752916891377
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_21
+  - first:
+      213: -3949244037325059756
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_22
+  - first:
+      213: -7508981319929749453
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_23
+  - first:
+      213: 4036244508330550297
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_24
+  - first:
+      213: -4254291503044808177
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_25
+  - first:
+      213: 1167152239042749285
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_26
+  - first:
+      213: 4309409591249360110
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_27
+  - first:
+      213: -4907326723531870032
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_28
+  - first:
+      213: -8078380476075247391
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_29
+  - first:
+      213: 4446895592066461602
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_30
+  - first:
+      213: -1288076971733963065
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_31
+  - first:
+      213: 593787827792623628
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_32
+  - first:
+      213: -9151383019172530523
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_33
+  - first:
+      213: 9183768193153122086
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_34
+  - first:
+      213: 2948744813768913257
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_35
+  - first:
+      213: 6301304856472205323
+    second: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1727
+        width: 486
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1f599187ad1c130800000000000000
+      internalID: 3585386987723813280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_1
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1727
+        width: 486
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebd6882146335cb0800000000000000
+      internalID: -4876494318031414290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_2
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1727
+        width: 486
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d9063818152ad70800000000000000
+      internalID: 9052887817664896358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_3
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1727
+        width: 486
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6cd8b12ce02a3e0800000000000000
+      internalID: -2044055054024063315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_4
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1727
+        width: 486
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04b08c7a3e55c460800000000000000
+      internalID: 7261313579494716431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_5
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 1726
+        width: 487
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80af278cbab507500800000000000000
+      internalID: 391913960941746696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1381
+        width: 473
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516b70b29d4abef40800000000000000
+      internalID: 5758877801160095253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_7
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1382
+        width: 461
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b81335a3238c21e0800000000000000
+      internalID: -2221256327081813833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_8
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1382
+        width: 463
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedb8a5106e2f6b60800000000000000
+      internalID: 7741457274688290286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_9
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1383
+        width: 465
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3173ec66a4c515270800000000000000
+      internalID: 8237466668059473683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_10
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 1384
+        width: 481
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a90677cc081cdd0800000000000000
+      internalID: -2467549505157817781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_11
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 1384
+        width: 487
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80017a6f6c0b70460800000000000000
+      internalID: 7207924097217925128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1042
+        width: 487
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd6a989fe23d4440800000000000000
+      internalID: 4921645972424650173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_13
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1043
+        width: 486
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f5f2b8c1b6f40a0800000000000000
+      internalID: -6895174734142546164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_14
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1043
+        width: 486
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0384d9773dc96970800000000000000
+      internalID: 8748749389294764810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_15
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1043
+        width: 486
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f66055e36f57090800000000000000
+      internalID: -8037247212397891731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_16
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1043
+        width: 486
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b81bca713f213d20800000000000000
+      internalID: 3256435895125612729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_17
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 1042
+        width: 486
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a82f9cedb4ee3b50800000000000000
+      internalID: 6574944010377308328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 701
+        width: 486
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932eb02fd9e0f84a0800000000000000
+      internalID: -6589031658286226887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_19
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 700
+        width: 487
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb6eaf9ddd969130800000000000000
+      internalID: 3573216929557408694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_20
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 697
+        width: 469
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f26e23cf69c65130800000000000000
+      internalID: 3555250437708735220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_21
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 923
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09700d88df67d280800000000000000
+      internalID: -9018616752916891377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_22
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 697
+        width: 466
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45909e7d8777139c0800000000000000
+      internalID: -3949244037325059756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_23
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 698
+        width: 463
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3302b88164dbac790800000000000000
+      internalID: -7508981319929749453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_24
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 698
+        width: 462
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914e9a1defe930830800000000000000
+      internalID: 4036244508330550297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 356
+        width: 464
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f023d0e0b68b5f4c0800000000000000
+      internalID: -4254291503044808177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_26
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 357
+        width: 465
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563e1fe07ce823010800000000000000
+      internalID: 1167152239042749285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_27
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 358
+        width: 478
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee45416e0391ecb30800000000000000
+      internalID: 4309409591249360110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_28
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 358
+        width: 487
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0f917585ca5ebb0800000000000000
+      internalID: -4907326723531870032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_29
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 358
+        width: 490
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8751312c3d3ef80800000000000000
+      internalID: -8078380476075247391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_30
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 358
+        width: 490
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af2f56fafb86bd30800000000000000
+      internalID: 4446895592066461602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_31
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 14
+        width: 464
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ceaf6891d4df1ee0800000000000000
+      internalID: -1288076971733963065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_32
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 15
+        width: 466
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08b78322ee8d3800800000000000000
+      internalID: 593787827792623628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_33
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 15
+        width: 467
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6fda251a1cff080800000000000000
+      internalID: -9151383019172530523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_34
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 15
+        width: 472
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f3c64938c437f70800000000000000
+      internalID: 9183768193153122086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_35
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 15
+        width: 479
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961b8f5f8cb0ce820800000000000000
+      internalID: 2948744813768913257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_36
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 16
+        width: 487
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b083877916bb27750800000000000000
+      internalID: 6301304856472205323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_0: 3585386987723813280
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_1: -4876494318031414290
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_10: -2467549505157817781
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_11: 7207924097217925128
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_12: 4921645972424650173
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_13: -6895174734142546164
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_14: 8748749389294764810
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_15: -8037247212397891731
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_16: 3256435895125612729
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_17: 6574944010377308328
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_18: -6589031658286226887
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_19: 3573216929557408694
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_2: 9052887817664896358
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_20: 3555250437708735220
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_21: -9018616752916891377
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_22: -3949244037325059756
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_23: -7508981319929749453
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_24: 4036244508330550297
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_25: -4254291503044808177
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_26: 1167152239042749285
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_27: 4309409591249360110
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_28: -4907326723531870032
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_29: -8078380476075247391
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_3: -2044055054024063315
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_30: 4446895592066461602
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_31: -1288076971733963065
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_32: 593787827792623628
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_33: -9151383019172530523
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_34: 9183768193153122086
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_35: 2948744813768913257
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_36: 6301304856472205323
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_4: 7261313579494716431
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_5: 391913960941746696
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_6: 5758877801160095253
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_7: -2221256327081813833
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_8: 7741457274688290286
+      Side-profile-pixel-art-sprite-of-a-smoke-grenade-l-max-px-frames-36-rows-6-cols-6_9: 8237466668059473683
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

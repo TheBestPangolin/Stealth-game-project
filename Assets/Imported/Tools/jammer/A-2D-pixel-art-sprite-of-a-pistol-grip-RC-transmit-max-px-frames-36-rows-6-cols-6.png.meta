@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: e3df62be298f5d54f80fee75af669a6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1505787882045378033
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_0
+  - first:
+      213: -2014222286477164958
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_1
+  - first:
+      213: 3466353632355892927
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_2
+  - first:
+      213: -7974681143041347198
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_3
+  - first:
+      213: 1401622755127645595
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_4
+  - first:
+      213: -8060615169334674114
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_5
+  - first:
+      213: -687106019198207262
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_6
+  - first:
+      213: 2086275383418645211
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_7
+  - first:
+      213: 5784356956400211324
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_8
+  - first:
+      213: 4914116836763551789
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_9
+  - first:
+      213: 3226733740790885308
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_10
+  - first:
+      213: 2746907453175668185
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_11
+  - first:
+      213: 319487618477233237
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_12
+  - first:
+      213: -5427531705363403509
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_13
+  - first:
+      213: 9054803134583091628
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_14
+  - first:
+      213: 9125264327327807198
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_15
+  - first:
+      213: 7944716566846524552
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_16
+  - first:
+      213: -5864240263270145508
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_17
+  - first:
+      213: -5170593110097255021
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_18
+  - first:
+      213: 3675007595658668896
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_19
+  - first:
+      213: 7415142323507100855
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_20
+  - first:
+      213: 7348571878983852992
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_21
+  - first:
+      213: -505336660208413592
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_22
+  - first:
+      213: 5281965955815633596
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_23
+  - first:
+      213: 4021534485435638731
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_24
+  - first:
+      213: 37230241641964733
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_25
+  - first:
+      213: 152036314885192136
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_26
+  - first:
+      213: 7133660901409356788
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_27
+  - first:
+      213: 2613983423523341332
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_28
+  - first:
+      213: 1565742471958570143
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_29
+  - first:
+      213: 7770199542073935109
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_30
+  - first:
+      213: 4754363837864088653
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_31
+  - first:
+      213: -4667132624431590019
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_32
+  - first:
+      213: -8857354948514299350
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_33
+  - first:
+      213: 2432014396131419132
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_34
+  - first:
+      213: 4986027118424883928
+    second: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2541
+        width: 496
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd0768c912a5e410800000000000000
+      internalID: 1505787882045378033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_1
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2541
+        width: 496
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e7ad3908b0c04e0800000000000000
+      internalID: -2014222286477164958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_2
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2541
+        width: 496
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe357a5346fa1030800000000000000
+      internalID: 3466353632355892927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_3
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 2541
+        width: 497
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281b30880cd345190800000000000000
+      internalID: -7974681143041347198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_4
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 2541
+        width: 497
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95dc7c3870937310800000000000000
+      internalID: 1401622755127645595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_5
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 2541
+        width: 498
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d7ea0e531f22090800000000000000
+      internalID: -8060615169334674114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2035
+        width: 497
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea78aa47b8e676f0800000000000000
+      internalID: -687106019198207262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_7
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2035
+        width: 497
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda6f4c5860f3fc10800000000000000
+      internalID: 2086275383418645211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_8
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2036
+        width: 497
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c755b48410a264050800000000000000
+      internalID: 5784356956400211324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_9
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2037
+        width: 497
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28ce081a33723440800000000000000
+      internalID: 4914116836763551789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_10
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 2037
+        width: 497
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbab94cd39a7cc20800000000000000
+      internalID: 3226733740790885308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_11
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 2037
+        width: 497
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd986166c9fe1620800000000000000
+      internalID: 2746907453175668185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1531
+        width: 497
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5549879db4c0f6400800000000000000
+      internalID: 319487618477233237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_13
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1531
+        width: 496
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0de4a69ba88da4b0800000000000000
+      internalID: -5427531705363403509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_14
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1531
+        width: 496
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca13bebf97f19ad70800000000000000
+      internalID: 9054803134583091628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_15
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1531
+        width: 496
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6fae7de8373ae70800000000000000
+      internalID: 9125264327327807198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_16
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1530
+        width: 496
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c4c08ef9d414e60800000000000000
+      internalID: 7944716566846524552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_17
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 1530
+        width: 497
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c126d36fc880e9ea0800000000000000
+      internalID: -5864240263270145508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1023
+        width: 497
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395229a16fc5e38b0800000000000000
+      internalID: -5170593110097255021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_19
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1022
+        width: 497
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06be81eefef300330800000000000000
+      internalID: 3675007595658668896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_20
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1021
+        width: 498
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcfa97f7a0e7e660800000000000000
+      internalID: 7415142323507100855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_21
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1020
+        width: 505
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3e145803f5bf560800000000000000
+      internalID: 7348571878983852992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_22
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 1024
+        width: 489
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8649b442cfeacf8f0800000000000000
+      internalID: -505336660208413592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_23
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 1028
+        width: 461
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2f8104d005d4940800000000000000
+      internalID: 5281965955815633596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_24
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 524
+        width: 369
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3ef58be4c5fc730800000000000000
+      internalID: 4021534485435638731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_25
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 525
+        width: 298
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4a8ff15b4448000800000000000000
+      internalID: 37230241641964733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_26
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 520
+        width: 221
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9f0bd09342c1200800000000000000
+      internalID: 152036314885192136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_27
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 512
+        width: 157
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbf8984bcadff260800000000000000
+      internalID: 7133660901409356788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_28
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 510
+        width: 164
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4144edff21cb64420800000000000000
+      internalID: 2613983423523341332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_29
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 510
+        width: 307
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9425da8b72aab510800000000000000
+      internalID: 1565742471958570143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 4
+        width: 346
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5054833b05b45db60800000000000000
+      internalID: 7770199542073935109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_31
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 4
+        width: 377
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d441ad888b4eaf140800000000000000
+      internalID: 4754363837864088653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_32
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 6
+        width: 434
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d755e190b930b3fb0800000000000000
+      internalID: -4667132624431590019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_33
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 9
+        width: 456
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22c1444a9a541580800000000000000
+      internalID: -8857354948514299350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_34
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 10
+        width: 474
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3ac0a353040c120800000000000000
+      internalID: 2432014396131419132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_35
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 13
+        width: 492
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d20e224f3de13540800000000000000
+      internalID: 4986027118424883928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_0: 1505787882045378033
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_1: -2014222286477164958
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_10: 3226733740790885308
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_11: 2746907453175668185
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_12: 319487618477233237
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_13: -5427531705363403509
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_14: 9054803134583091628
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_15: 9125264327327807198
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_16: 7944716566846524552
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_17: -5864240263270145508
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_18: -5170593110097255021
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_19: 3675007595658668896
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_2: 3466353632355892927
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_20: 7415142323507100855
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_21: 7348571878983852992
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_22: -505336660208413592
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_23: 5281965955815633596
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_24: 4021534485435638731
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_25: 37230241641964733
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_26: 152036314885192136
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_27: 7133660901409356788
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_28: 2613983423523341332
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_29: 1565742471958570143
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_3: -7974681143041347198
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_30: 7770199542073935109
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_31: 4754363837864088653
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_32: -4667132624431590019
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_33: -8857354948514299350
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_34: 2432014396131419132
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_35: 4986027118424883928
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_4: 1401622755127645595
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_5: -8060615169334674114
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_6: -687106019198207262
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_7: 2086275383418645211
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_8: 5784356956400211324
+      A-2D-pixel-art-sprite-of-a-pistol-grip-RC-transmit-max-px-frames-36-rows-6-cols-6_9: 4914116836763551789
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

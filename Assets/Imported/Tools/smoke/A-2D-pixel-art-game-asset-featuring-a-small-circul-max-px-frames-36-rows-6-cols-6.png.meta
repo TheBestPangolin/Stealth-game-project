@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 852219c53287b5e4e9a046896bd9cd7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4144298058341164013
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_0
+  - first:
+      213: -1005553593787923671
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_1
+  - first:
+      213: -8227410278066693380
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_2
+  - first:
+      213: -3168966593018802453
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_3
+  - first:
+      213: -7883560286561583273
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_4
+  - first:
+      213: -210086972643376944
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_5
+  - first:
+      213: -8239812916857701039
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_6
+  - first:
+      213: 4904950291187814651
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_7
+  - first:
+      213: -1305891099537399313
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_8
+  - first:
+      213: 2531058711115648925
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_9
+  - first:
+      213: -5276002686193416315
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_10
+  - first:
+      213: -5888015778182305961
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_11
+  - first:
+      213: 1329424062075691567
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_12
+  - first:
+      213: 2917524784420299132
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_13
+  - first:
+      213: 9088079288479187377
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_14
+  - first:
+      213: 7910257228255305450
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_15
+  - first:
+      213: 1874391072892713160
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_16
+  - first:
+      213: 5678862328350898680
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_17
+  - first:
+      213: 2288309772801917352
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_18
+  - first:
+      213: 2220263522891152212
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_19
+  - first:
+      213: -570540854672667688
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_20
+  - first:
+      213: 2443116203028278427
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_21
+  - first:
+      213: 4928881352074281940
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_22
+  - first:
+      213: -7273602394265418258
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_23
+  - first:
+      213: -8579207892028621285
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_24
+  - first:
+      213: 4319921571018388552
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_25
+  - first:
+      213: 3911817034911280613
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_26
+  - first:
+      213: -4758558861283989099
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_27
+  - first:
+      213: 8565348472427680812
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_28
+  - first:
+      213: 6150459415554844096
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_29
+  - first:
+      213: 8691908469278387972
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_30
+  - first:
+      213: 6151266061257436743
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_31
+  - first:
+      213: -847518890506964117
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_32
+  - first:
+      213: 5238316083033114369
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_33
+  - first:
+      213: 1567354315864051581
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_34
+  - first:
+      213: 5234962428661375230
+    second: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 3139
+        width: 458
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de324ca6021838930800000000000000
+      internalID: 4144298058341164013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_1
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 3139
+        width: 455
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92347a7855e8b02f0800000000000000
+      internalID: -1005553593787923671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_2
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 3138
+        width: 455
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfadf6a51fd52dd80800000000000000
+      internalID: -8227410278066693380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_3
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 3140
+        width: 456
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beec80e6ca19504d0800000000000000
+      internalID: -3168966593018802453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_4
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 3140
+        width: 456
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fbe1230b7f79290800000000000000
+      internalID: -7883560286561583273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_5
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 3140
+        width: 470
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d087afe20f951df0800000000000000
+      internalID: -210086972643376944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2528
+        width: 469
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d750bfecd46ad80800000000000000
+      internalID: -8239812916857701039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_7
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 2524
+        width: 479
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0d2336d42e11440800000000000000
+      internalID: 4904950291187814651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_8
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 2523
+        width: 481
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1aab0c6fa80ede0800000000000000
+      internalID: -1305891099537399313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_9
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2523
+        width: 489
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fc4b5dc70202320800000000000000
+      internalID: 2531058711115648925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_10
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 2523
+        width: 498
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5874f67a28fd7c6b0800000000000000
+      internalID: -5276002686193416315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_11
+      rect:
+        serializedVersion: 2
+        x: 3027
+        y: 2522
+        width: 498
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7576c8588d0994ea0800000000000000
+      internalID: -5888015778182305961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1907
+        width: 518
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22e0ef0420137210800000000000000
+      internalID: 1329424062075691567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1904
+        width: 523
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7125ce65512d7820800000000000000
+      internalID: 2917524784420299132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_14
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1904
+        width: 525
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1036056f75f1e70800000000000000
+      internalID: 9088079288479187377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_15
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1905
+        width: 540
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee9f1ce901e6cd60800000000000000
+      internalID: 7910257228255305450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_16
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 1905
+        width: 539
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8fee5ffbc230a10800000000000000
+      internalID: 1874391072892713160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_17
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 1896
+        width: 549
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9f3b1233f5fce40800000000000000
+      internalID: 5678862328350898680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1284
+        width: 550
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1c9e74d95b1cf10800000000000000
+      internalID: 2288309772801917352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_19
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1277
+        width: 564
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b3fad19e5ffce10800000000000000
+      internalID: 2220263522891152212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_20
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1269
+        width: 570
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db43639d180518f0800000000000000
+      internalID: -570540854672667688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_21
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1267
+        width: 572
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c60821e31b7e120800000000000000
+      internalID: 2443116203028278427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_22
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 1267
+        width: 571
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d34f62b977e66440800000000000000
+      internalID: 4928881352074281940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_23
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 1253
+        width: 589
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5016cd829fe0b90800000000000000
+      internalID: -7273602394265418258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 640
+        width: 589
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ef76570e780f880800000000000000
+      internalID: -8579207892028621285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 636
+        width: 588
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844391ae7c173fb30800000000000000
+      internalID: 4319921571018388552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_26
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 634
+        width: 588
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed65381ed0994630800000000000000
+      internalID: 3911817034911280613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_27
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 627
+        width: 589
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59961667de336fdb0800000000000000
+      internalID: -4758558861283989099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_28
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 626
+        width: 588
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c249c74fd0b3ed670800000000000000
+      internalID: 8565348472427680812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_29
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 625
+        width: 587
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c56a9d7042da5550800000000000000
+      internalID: 6150459415554844096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 12
+        width: 587
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f2c8b73bcdf9870800000000000000
+      internalID: 8691908469278387972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_31
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 12
+        width: 587
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e6a2454efad5550800000000000000
+      internalID: 6151266061257436743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_32
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 8
+        width: 585
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6336e63f020d34f0800000000000000
+      internalID: -847518890506964117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_33
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 7
+        width: 585
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107876649bc32b840800000000000000
+      internalID: 5238316083033114369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_34
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 3
+        width: 583
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f8042327c50c510800000000000000
+      internalID: 1567354315864051581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_35
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 2
+        width: 585
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0a0e4c79256a840800000000000000
+      internalID: 5234962428661375230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_0: 4144298058341164013
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_1: -1005553593787923671
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_10: -5276002686193416315
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_11: -5888015778182305961
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_12: 1329424062075691567
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_13: 2917524784420299132
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_14: 9088079288479187377
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_15: 7910257228255305450
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_16: 1874391072892713160
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_17: 5678862328350898680
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_18: 2288309772801917352
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_19: 2220263522891152212
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_2: -8227410278066693380
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_20: -570540854672667688
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_21: 2443116203028278427
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_22: 4928881352074281940
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_23: -7273602394265418258
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_24: -8579207892028621285
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_25: 4319921571018388552
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_26: 3911817034911280613
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_27: -4758558861283989099
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_28: 8565348472427680812
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_29: 6150459415554844096
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_3: -3168966593018802453
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_30: 8691908469278387972
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_31: 6151266061257436743
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_32: -847518890506964117
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_33: 5238316083033114369
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_34: 1567354315864051581
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_35: 5234962428661375230
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_4: -7883560286561583273
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_5: -210086972643376944
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_6: -8239812916857701039
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_7: 4904950291187814651
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_8: -1305891099537399313
+      A-2D-pixel-art-game-asset-featuring-a-small-circul-max-px-frames-36-rows-6-cols-6_9: 2531058711115648925
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
