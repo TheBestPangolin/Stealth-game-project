@@ -70,7 +70,7 @@ public class FOV_Logic
         return (distance <= ViewDistance
                     && Vector2.Angle(up, direction) < ViewAngle
                     && hit.collider == null)
-                    || distance <= 3f;
+                    || distance <= 5f;
     }
 
 }
