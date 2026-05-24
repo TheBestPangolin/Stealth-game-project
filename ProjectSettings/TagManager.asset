@@ -64,6 +64,9 @@ TagManager:
   - name: walls
     uniqueID: 3848082433
     locked: 0
+  - name: wall in foreground
+    uniqueID: 451622747
+    locked: 0
   - name: groundObj
     uniqueID: 3460363063
     locked: 0
@@ -84,9 +87,6 @@ TagManager:
     locked: 0
   - name: shadows
     uniqueID: 3043731615
-    locked: 0
-  - name: 
-    uniqueID: 451622747
     locked: 0
   m_RenderingLayers:
   - Default

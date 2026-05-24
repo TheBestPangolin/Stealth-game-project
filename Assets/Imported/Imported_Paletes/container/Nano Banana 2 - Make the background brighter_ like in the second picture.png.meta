@@ -1,0 +1,5655 @@
+fileFormatVersion: 2
+guid: 9c8662eeb97f4f94c9887c5c00998df9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1003912498914847126
+    second: Nano Banana 2 - Make the background brighter_ like in the second picture_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699e46b491d9eed00800000000000000
+      internalID: 1003912498914847126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7028a569660d4747b9db0a34d23eaf9
+      internalID: -1038760447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f33585a5e275f40aa86e7f3574b904
+      internalID: 594105188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b93441c067b03241a8912d6d1b0369e
+      internalID: 51393323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c53524b68664d4bb61d325f855e0ed
+      internalID: -1440060111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eec7c674c2e28947b1abcfc31210690
+      internalID: 715782313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df23d6d1f823db447b76ccd952006167
+      internalID: 1702543088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f22f968856655b48b025b1dd48685cb
+      internalID: -787318167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9330c85a16b7157428912077cc6247e5
+      internalID: 645449714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291dc94896c5eaf47aab9f7849bfc604
+      internalID: -1434270060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f9dec0ec57f884db101c4e98f1bdd7
+      internalID: -415368162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb723607cdd67914cba8f1fa15112e94
+      internalID: -1081984190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd880ad78e54b949a8b30538bacf391
+      internalID: -2041221809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f8cc3355412614f9fa577f318c85cf
+      internalID: 467572022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127fa0c07588a62439450985bdd3deaa
+      internalID: 1924686198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1258891ec4262a46baf7df6941965f3
+      internalID: 1625828902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b958f73aa8a2db4a9fde9ab72165e3b
+      internalID: -793621210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37cfd3f961bef344975d16cd10916a4
+      internalID: -892716846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fa97a65a20f1c41b92b9513c1cf0db
+      internalID: -737770184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_19
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4cffb6ad21f3e48815a0d39212e016
+      internalID: 1137723063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6002c94f04dc2bb4f9308d5dea2f41c5
+      internalID: -1472490693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4605431943a8d734db672b3edb31bbe5
+      internalID: -734058684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bda521dac3003446821533d5e7d22aa
+      internalID: 78909185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6521af279aa57e847b4ba4f51af73cb8
+      internalID: -981325779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa2e202ef6808e44b9b61195634d95a
+      internalID: -1520367678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545cfe84eca05c04899a60918ec806eb
+      internalID: -922619209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3619ee821459e94a95c169385abf8f7
+      internalID: 1636143486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f05197bf0968a4c95716f1e5d59d54
+      internalID: 508094881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc7e215864c9e94cb71ae4396e2a2af
+      internalID: 1641376202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133cc34a8e23d4b4583bd9e4bd928594
+      internalID: -987643937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_30
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130747aa04f5c444c99967e31355412e
+      internalID: -775521424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_31
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455f34c992089cf449932fd8523b8350
+      internalID: 1296853852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_32
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e3f8a8fa69b3e4ba5b203535c88cc3
+      internalID: -604941898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_33
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a5467b4bf5d5e46863a93f59f88feb
+      internalID: -2063822819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_34
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689902b62c2c2044189692fff7612e0c
+      internalID: -318675066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ccc76c799a015439558a3227db82e1
+      internalID: -947761321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_36
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53504ee86b45cd14db146cc523f92af2
+      internalID: -1258868068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_37
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dc4a99a8ea34944b673dfe2da33ae6
+      internalID: -962564108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_38
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3233d7d47d1b942814ad238dad5b67
+      internalID: 1142058593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_39
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a926d3d4064ef8a44b9b608179682187
+      internalID: 1481678129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe87551309b37c4e822219d22fa204f
+      internalID: -716670450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94abd107adb9ea443afba98a584124fe
+      internalID: 1459365253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42cca09785cccf4196557736362e839
+      internalID: -718039337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebef262ea8c47a4b85939eddd966ed5
+      internalID: 713983608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f00eac0e1aeeb4091c48a463defa1e
+      internalID: 404507538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e2d3ff24f065b43a6dcfc4d2c53c29
+      internalID: -1125311047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50522f003c9b1042859cd870b2e6b63
+      internalID: -2076363205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d29668a8d1e8324e963718e463d5e0e
+      internalID: -62848736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc5317485762574fa5f5703a197dc92
+      internalID: -177577293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_49
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90deaef69fe3be84cb99444255198ee6
+      internalID: 1801865717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29db9efec4cd526449df98d806c2352f
+      internalID: -554874542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_51
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238ffa3e659a38d45adf4fadad99581e
+      internalID: -1233016401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_52
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91636d6b6a368804695de73e6665a333
+      internalID: -480177861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_53
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60a9a6ad0c003e4e8a4c8241e2ff54c
+      internalID: -1870471000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_54
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c50efc97ed98d479395520da6e1459
+      internalID: 1513274676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_55
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c0db963d959024fbcbdf8c0664f0b1
+      internalID: -678552800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_56
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18a12d43cad2c948b70bc1313c710ff
+      internalID: 1194844560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_57
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaffefa7aa6afd4ba2864ce99eee8ac
+      internalID: -1520936422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_58
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da667b92ddbe8c9488911fa589770d04
+      internalID: 311395844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_59
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bb3483d7fd3e146a668d9d3cd5d9ad
+      internalID: -17522917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67796c714379dfb4995eddf0b8203348
+      internalID: -1716912364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909ea64fa5188c846b85b60d9dae6e89
+      internalID: -639128952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344a70156c498e4429ba06a8f8b9690d
+      internalID: -964502852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e34a7a5db46854da39bfaf5a1768d7
+      internalID: -1191785008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f492f35e9924b2f42b2b4c0efb41a712
+      internalID: 538752735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec9445d4fbfd91458a3315aa0643c17
+      internalID: 1727687590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45d592b091186a459c06a149cce6ea1
+      internalID: -1716616708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84c7750d6e36aa499dc7eb67a2c9095
+      internalID: -1789024407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdc8674af2e1fc45bdd944fcbc17abd
+      internalID: 2026468149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_69
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383b4e679d949624795f7807c70676d7
+      internalID: -2145519551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_70
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017d6f437190de745867dd73a2447bd3
+      internalID: -1456723284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_71
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c183cd2b6835bce44a0a7ff99713d741
+      internalID: 1686196215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_72
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd25ed99c5a2ef144a3e3a2f651c6775
+      internalID: 1000153393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_73
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d83ce8d92584c54aac0c401a8477822
+      internalID: 1509988045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_74
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251a8ade43bb7d242a1952087afe5e87
+      internalID: -1361465229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_75
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cbf9ff20f17fa4d9b00f4f92e9846d
+      internalID: 1464077998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_76
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b18a89e5fbe184ca11d450da5082c2
+      internalID: -929208931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_77
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751e6183a5832b242bddcc573763d883
+      internalID: -1788871824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_78
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce3fa3afdbc20b4c98f95542b8bfd5e
+      internalID: -1468027751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_79
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41411115b620b6444948442f87e63f63
+      internalID: 1636842163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0a868581e5084489aa9f077b257308
+      internalID: -2056139393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cc83931c22fba4194af09ff1635934
+      internalID: -235355827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4ecf7c0572e1f40b04ac4a4c0c40a8
+      internalID: -1067112741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad668ac0c854ad4ab1a78ccb90b231f
+      internalID: -1684359055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050ffd9be70b9074b9101ebdf96fd5df
+      internalID: 215435702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba0171c3d233aa4ca86879c946d3d4b
+      internalID: -1702902094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b66311d5390c24f90a2b996ceb2c12
+      internalID: 384064892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e46d6515225ff44a8faf5f007c5195
+      internalID: 1001452060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538df52ee2243e04db43e285a7c80f45
+      internalID: -823769684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_89
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eaf0b8333f5384389c35c3f908dfe8
+      internalID: -1719720545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_90
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3100724196a9084c9b60274355c1422
+      internalID: -1890291086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_91
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7586a2b666ecc41b5e3817727f0045
+      internalID: 1988028821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_92
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f90fb7cd969fe4c995e00bc269eb8d
+      internalID: -877894154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_93
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1dbf46c81446442931d84c6630418c
+      internalID: 1641419777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_94
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4b249ca07bc9e48a289fee649d8099
+      internalID: 1454577826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_95
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc0f9c4bcbc3d04da53b02e2dd91275
+      internalID: 1100345172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_96
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2e2da5008f20c4f9da2441af8ec8e6
+      internalID: 2013635028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_97
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310c072bf770b344ab44179f909cef31
+      internalID: -598008157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_98
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b0461bf7786fd449d41622062d2b50
+      internalID: -971090013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_99
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e7539b77ebefc4ea842547eaca83f0
+      internalID: 1748842896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6f1d29536b67f4e98a76a8cfa6fe25
+      internalID: -2033745410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc29e5e9a7f029468c18cda4acfcf0d
+      internalID: -1781679554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae65180111a5c24ebeb349ba81b28ac
+      internalID: -765766727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253896c2c5d72864eb1508b087dca4c9
+      internalID: 276191800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ad87d0d1f9b8e4ab3776cf72893680
+      internalID: 407471134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_105
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2786cfc717fb00f408d80ecb8f925c1e
+      internalID: 1611556875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_106
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80b60666add88643adb392fd3021e6f
+      internalID: 537231158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_107
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16dca5c100b1c04aae6e9da6a290b48
+      internalID: 347000417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_108
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4441aa69983fd284ba6c007b3e0d8852
+      internalID: -1842098263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_109
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709546f3977fce34ab7957f498bd67bc
+      internalID: 794435849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_110
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdcd13705aa76e419c1db06cf940989
+      internalID: 158858252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_111
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c58124281162084a86f374c5476afe7
+      internalID: 278187078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_112
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42a74e1b42a3924d99da3ddbb10609c
+      internalID: -1071445745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_113
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac4310150baa314ba257a68ffa0dc5e
+      internalID: 153089430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_114
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9597d9bc084bd42a04be952d3453ce
+      internalID: 1705154219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_115
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abdf1f8b575576498403d7bda1cc98b
+      internalID: 2141086610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_116
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a7cb900cddae54d8177f6a9d882bd5
+      internalID: -1157660856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_117
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519b87d883e9de045aaa815ee02c60ae
+      internalID: -282603010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_118
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f99e5747f4d7a5489bbbd58d5df1527
+      internalID: 2020270031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_119
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f20d9655adfec459d8f44b6ec3dceb
+      internalID: -652837008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c13ba88c81d294ebd7fdf6b6c0984e
+      internalID: -528076276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbfba4d03d21084ba5fbff90d11bbbf
+      internalID: -687373161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4674d96ef7f61e04ab61c5973148d85d
+      internalID: -1320612926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed93cd2cace05254cbe4f799e85dd237
+      internalID: 951831470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bb28bf15a068f4f996539ccc77321b
+      internalID: -1952107629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5da908f02ab5d408a0ca85c765ba94
+      internalID: 430665665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd89f18aa2c4b3b4bba358ba50440b32
+      internalID: 1982673908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604657d14e76f274eb68b30b65f52b5b
+      internalID: 1375469882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cc8de319c3a2c4b98031e1c8dc33b0
+      internalID: 779146160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8cd1656dcc00d4bbbe89fb08e56d67
+      internalID: -1120591121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072616f6d5cdc884f957aba3ea3bfa73
+      internalID: 150991536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3123a926807d182448492d8243339aaf
+      internalID: -1054659649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b967fd9ef7898d24e9f05ff15fce0355
+      internalID: -1626936109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_133
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb195eb8354fdc4c821f15b6770908e
+      internalID: 2119345150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_134
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3422bd847c2c6ed47af6c6a0343bbc79
+      internalID: 161433240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_135
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a18aa582646664788196b320100d58
+      internalID: -1681256726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_136
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bc9f4c019ef1540a6f0b475ad7b35b
+      internalID: 1609180858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_137
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d81ea32278bec4ba41dc3e3b028e3e
+      internalID: 1390532209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_138
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b772232b93a3034a96d0041a3fb4441
+      internalID: -1615903842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_139
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecc74ebd6a0def47bd791965559fdf8
+      internalID: -352949248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a229442d365066240835ac720716188e
+      internalID: -1522127591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_141
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a890b36e441d5ae4299b15c3949fdc93
+      internalID: 246808357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_142
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc43f3d7beb1c4448a49c6a5bfc474a
+      internalID: 1261948898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_143
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9b7a192481b8849835d15eb4c73d62
+      internalID: 952829363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_144
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885061b9a33d2b24eb8512970c31cc36
+      internalID: 164088772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_145
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d8a625619ab4242ba435d924f15bee
+      internalID: -2078829320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_146
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78ef661b7107c249b3f0040914f5ff6
+      internalID: -798256764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_147
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794cf914a83673845a39697c09212e54
+      internalID: 2044070904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_148
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955764b679021e34ebc11c412250cead
+      internalID: -2137275162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_149
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc1aa5f796c48b489c7eb3f1be9333c
+      internalID: -1025165303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_150
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721d7027a4f7df64d99d1a0b25ed9742
+      internalID: -2111427918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_151
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d865d3e95cb73c34e8b6e37acc18b8fa
+      internalID: 848107910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_152
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19f1705a137e0b429e06e3fa7b78f02
+      internalID: -1512412659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_153
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c6f25442ceb3c43b2f4741876b2b0c
+      internalID: 1912976295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_154
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f572c4a92e00cee4aacc00fddf7a8aef
+      internalID: 1699358358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_155
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978c910cef7f7564ca73039f705e274d
+      internalID: -1224513904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_156
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508c1b96aa940b945a2241d7b4254904
+      internalID: -1031307895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_157
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0084a46ee8ca2d049ba318a2a08b8d94
+      internalID: 1356613577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_158
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637002bf557283141b3376ac08ac3642
+      internalID: 1636714694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_159
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e3e89b7a8361140b772fd29028049a
+      internalID: 1960737679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e64138c2860184babd27f81bc1d658
+      internalID: -1183428758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_161
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcd6190ff053e44c885e6f3af3cc1cb
+      internalID: 194820855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d56640aa1bbc24eba95d246efca5cc
+      internalID: 1745287085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_163
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45803a7a1c813b04ea563677f60787ea
+      internalID: -734381108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9b80aa977e7a2449934eb14bd8cb88
+      internalID: -1348583130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_165
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603c84f5a1f3de34c8367645489325f0
+      internalID: -1203085908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_166
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72073b98b01537944802f82b1165342c
+      internalID: -460019531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_167
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad5fbcf7ee84e746a5f116cdfaa9a03
+      internalID: 244666369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_168
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75208ce8db110774a8cf7d552ff8f741
+      internalID: -1194090186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_169
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e17b45a2c95a7a4f9e329b5d5f3813a
+      internalID: -768425284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_170
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8964d79e45b38974191bff31ff6bd6e7
+      internalID: 1082921462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_171
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a5e15cdcfe88840b85f484174b5ec8
+      internalID: -432924251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_172
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9c8a0fcc73ba04fbfae5bdc8a6442e
+      internalID: -48738073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_173
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8279f4580459f5a45aa69bbe8dd07047
+      internalID: -2029863695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_174
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154a24471579c824885a076c7dd15f23
+      internalID: -812681709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_175
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0284d061cba48a34691e38ef6d1e472f
+      internalID: -1091695772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_176
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377ee76279f524241abbde32e6cacfb4
+      internalID: 331207171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_177
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cad74399daad949aec32daa7a62bb4
+      internalID: -2112002001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_178
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f351e0186ac924b903ffeb69f1c40a
+      internalID: -240993010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_179
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e5fb04a22f3584180989294af4469a
+      internalID: -1582328658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b1d988ef5da4d4c8043c4ab38f895b
+      internalID: -545019998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_181
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88242f4a97fcc74e800fafccb863aec
+      internalID: 1806271740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_182
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2463fe55a943a408c355953a74d1bd
+      internalID: 1595525554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_183
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52497f2bb4c07f4e99d6867f5af9a23
+      internalID: -1586029567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b229eda508c31124da66d16c73e63c0c
+      internalID: -749981503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_185
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cde647b0b4518a49b4a22de42176fcb
+      internalID: 1047938628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_186
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f164768726b444eaad95210ff204a1
+      internalID: -814538851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_187
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210b3597b758e444989c0c2e432f26da
+      internalID: 36415344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_188
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33806ccafb759d843b902631cdf33184
+      internalID: 390421411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_189
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310bad34408f5b645bbb3e12ca6e1943
+      internalID: 433746134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_190
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6d2f26e3c342544ab07914a863a590
+      internalID: -1560280265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_191
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee3b95910dfc6647902a868090fd2b6
+      internalID: -305253465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_192
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57e4bd72e0b5f64894198cc744ad9d9
+      internalID: -1856799898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_193
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf97be2cd0f09b43a8156e6a3bb7baa
+      internalID: -1002857327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_194
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd118a45cdd8644ea01bb98ecff38a9
+      internalID: -2063962049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_195
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1b3cde784dc4f409a53284513fa78a
+      internalID: -1082253216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_196
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c3b313f8cfb8942a8f9ba81562699f
+      internalID: -97891253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_197
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ae51d547ef8ec4eabe2fc569fe82e8
+      internalID: -1151631407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_198
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e85818378a21e4e874af7ac9f322e5
+      internalID: 659855055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_199
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ff4cb9a8d97b942adbe08aa602e745
+      internalID: 1276813840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7161153ed602bb743981bda926902bdd
+      internalID: -111394277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_201
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b16484dff63ea4faa9c4f000773fa8
+      internalID: -1131380348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_202
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb32c7f21562ef43b30e973244b30cb
+      internalID: -1967419792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_203
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b82370c35627bf4ba812e98b092489b
+      internalID: 290631799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_204
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b67ac0b1e43bf846955f1d9d7bee04a
+      internalID: -1973568077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_205
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1657c97490b6c741ba3c60fb68d12ad
+      internalID: -605016232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_206
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd62b5c224d6d3647ae1fcad37fa7f83
+      internalID: 652508814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_207
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00236d3fc01c4dc4ca14fd74162cfdbb
+      internalID: 399910929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_208
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f9b414c4afaed439828bdf50b29cc8
+      internalID: -249047230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_209
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b286f92889dabac419da4d0422301ae7
+      internalID: -1291638736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_210
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd52e108ac45d24093efbd7b38c724c
+      internalID: -1064461629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_211
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b19da6f02940c14286fb33149782da3
+      internalID: -327967564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_212
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e3214f1ec2e70498d09c4d131c77be
+      internalID: -389196849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_213
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c09ca9ecf9744409e062bb56e804d9
+      internalID: -2095189964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_214
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db372085224f2234cb3bc9a28a92841d
+      internalID: 136280015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_215
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b185ceff7ce90141b4318b8ed945a30
+      internalID: 218289103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_216
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166f4022dfa15c7499ea239e9c75429f
+      internalID: -25697924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_217
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69d5d7efb66a584182226f0747ad833
+      internalID: 238235508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_218
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fef083a1bf2e847b43302c07a6bb1c
+      internalID: 1769150375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_219
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7052bc10d9bba942a6049a57afbae5b
+      internalID: -2104655284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af160c1fa9d1d3b468904e76b7963e1f
+      internalID: 1351760717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_221
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a7891ceac58db41b76b5035c09d979
+      internalID: -1833168405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_222
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c80c93c89ead384e939fa113c21d1b8
+      internalID: 1163805606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_223
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd9d21b7bdab0749bc06c3577082c86
+      internalID: 554895835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_224
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae1ee886bdee654ebff86abbc5125af
+      internalID: 349502021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_225
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c934ece9af78c5b4fa129d29531ee804
+      internalID: 610907976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_226
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa8f277c35e5b746a778c6792864d0e
+      internalID: -831016623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_227
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c9dcdf739cf8b49afaad8ded9eea4e
+      internalID: 1291813674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_228
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5d92d6b0ddd8a41bd88e97fe524592
+      internalID: -1394423323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_229
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543f3753546400949b5d0ea205d5684f
+      internalID: -1863796551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_230
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7cdd2585cc1e04aa1a6a2bf13f03ee
+      internalID: 198893200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_231
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787074dec9767cb4d82335ce197a2de1
+      internalID: 363640975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_232
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a8d8b94a3a8b54eb75f9078a83b095
+      internalID: 15687150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_233
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c792995305354a40877ff269314adcd
+      internalID: 250850092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_234
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418e596b79e1f064f94fae9853cc9618
+      internalID: 1534239101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_235
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a4c0fb18b39ec45b2d577d666f9c5d
+      internalID: 1159205901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_236
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac7556057c7bc04f9bb224c0beaec77
+      internalID: 1707116734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_237
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10312e5fb953e845a7da65c2adfe349
+      internalID: -1011399833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_238
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658271850388efa43add6ebfeb4d506f
+      internalID: 1978549391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nano Banana 2 - Make the background brighter_ like in the second picture_239
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 48
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dce1499dfd2c84e94a5bb1f1d5d37a
+      internalID: 440314564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fb672c0736cf9334ea9cde3a322aa8c5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Nano Banana 2 - Make the background brighter_ like in the second picture_0: 1003912498914847126
+      Nano Banana 2 - Make the background brighter_ like in the second picture_1: -1038760447
+      Nano Banana 2 - Make the background brighter_ like in the second picture_10: -415368162
+      Nano Banana 2 - Make the background brighter_ like in the second picture_100: -2033745410
+      Nano Banana 2 - Make the background brighter_ like in the second picture_101: -1781679554
+      Nano Banana 2 - Make the background brighter_ like in the second picture_102: -765766727
+      Nano Banana 2 - Make the background brighter_ like in the second picture_103: 276191800
+      Nano Banana 2 - Make the background brighter_ like in the second picture_104: 407471134
+      Nano Banana 2 - Make the background brighter_ like in the second picture_105: 1611556875
+      Nano Banana 2 - Make the background brighter_ like in the second picture_106: 537231158
+      Nano Banana 2 - Make the background brighter_ like in the second picture_107: 347000417
+      Nano Banana 2 - Make the background brighter_ like in the second picture_108: -1842098263
+      Nano Banana 2 - Make the background brighter_ like in the second picture_109: 794435849
+      Nano Banana 2 - Make the background brighter_ like in the second picture_11: -1081984190
+      Nano Banana 2 - Make the background brighter_ like in the second picture_110: 158858252
+      Nano Banana 2 - Make the background brighter_ like in the second picture_111: 278187078
+      Nano Banana 2 - Make the background brighter_ like in the second picture_112: -1071445745
+      Nano Banana 2 - Make the background brighter_ like in the second picture_113: 153089430
+      Nano Banana 2 - Make the background brighter_ like in the second picture_114: 1705154219
+      Nano Banana 2 - Make the background brighter_ like in the second picture_115: 2141086610
+      Nano Banana 2 - Make the background brighter_ like in the second picture_116: -1157660856
+      Nano Banana 2 - Make the background brighter_ like in the second picture_117: -282603010
+      Nano Banana 2 - Make the background brighter_ like in the second picture_118: 2020270031
+      Nano Banana 2 - Make the background brighter_ like in the second picture_119: -652837008
+      Nano Banana 2 - Make the background brighter_ like in the second picture_12: -2041221809
+      Nano Banana 2 - Make the background brighter_ like in the second picture_120: -528076276
+      Nano Banana 2 - Make the background brighter_ like in the second picture_121: -687373161
+      Nano Banana 2 - Make the background brighter_ like in the second picture_122: -1320612926
+      Nano Banana 2 - Make the background brighter_ like in the second picture_123: 951831470
+      Nano Banana 2 - Make the background brighter_ like in the second picture_124: -1952107629
+      Nano Banana 2 - Make the background brighter_ like in the second picture_125: 430665665
+      Nano Banana 2 - Make the background brighter_ like in the second picture_126: 1982673908
+      Nano Banana 2 - Make the background brighter_ like in the second picture_127: 1375469882
+      Nano Banana 2 - Make the background brighter_ like in the second picture_128: 779146160
+      Nano Banana 2 - Make the background brighter_ like in the second picture_129: -1120591121
+      Nano Banana 2 - Make the background brighter_ like in the second picture_13: 467572022
+      Nano Banana 2 - Make the background brighter_ like in the second picture_130: 150991536
+      Nano Banana 2 - Make the background brighter_ like in the second picture_131: -1054659649
+      Nano Banana 2 - Make the background brighter_ like in the second picture_132: -1626936109
+      Nano Banana 2 - Make the background brighter_ like in the second picture_133: 2119345150
+      Nano Banana 2 - Make the background brighter_ like in the second picture_134: 161433240
+      Nano Banana 2 - Make the background brighter_ like in the second picture_135: -1681256726
+      Nano Banana 2 - Make the background brighter_ like in the second picture_136: 1609180858
+      Nano Banana 2 - Make the background brighter_ like in the second picture_137: 1390532209
+      Nano Banana 2 - Make the background brighter_ like in the second picture_138: -1615903842
+      Nano Banana 2 - Make the background brighter_ like in the second picture_139: -352949248
+      Nano Banana 2 - Make the background brighter_ like in the second picture_14: 1924686198
+      Nano Banana 2 - Make the background brighter_ like in the second picture_140: -1522127591
+      Nano Banana 2 - Make the background brighter_ like in the second picture_141: 246808357
+      Nano Banana 2 - Make the background brighter_ like in the second picture_142: 1261948898
+      Nano Banana 2 - Make the background brighter_ like in the second picture_143: 952829363
+      Nano Banana 2 - Make the background brighter_ like in the second picture_144: 164088772
+      Nano Banana 2 - Make the background brighter_ like in the second picture_145: -2078829320
+      Nano Banana 2 - Make the background brighter_ like in the second picture_146: -798256764
+      Nano Banana 2 - Make the background brighter_ like in the second picture_147: 2044070904
+      Nano Banana 2 - Make the background brighter_ like in the second picture_148: -2137275162
+      Nano Banana 2 - Make the background brighter_ like in the second picture_149: -1025165303
+      Nano Banana 2 - Make the background brighter_ like in the second picture_15: 1625828902
+      Nano Banana 2 - Make the background brighter_ like in the second picture_150: -2111427918
+      Nano Banana 2 - Make the background brighter_ like in the second picture_151: 848107910
+      Nano Banana 2 - Make the background brighter_ like in the second picture_152: -1512412659
+      Nano Banana 2 - Make the background brighter_ like in the second picture_153: 1912976295
+      Nano Banana 2 - Make the background brighter_ like in the second picture_154: 1699358358
+      Nano Banana 2 - Make the background brighter_ like in the second picture_155: -1224513904
+      Nano Banana 2 - Make the background brighter_ like in the second picture_156: -1031307895
+      Nano Banana 2 - Make the background brighter_ like in the second picture_157: 1356613577
+      Nano Banana 2 - Make the background brighter_ like in the second picture_158: 1636714694
+      Nano Banana 2 - Make the background brighter_ like in the second picture_159: 1960737679
+      Nano Banana 2 - Make the background brighter_ like in the second picture_16: -793621210
+      Nano Banana 2 - Make the background brighter_ like in the second picture_160: -1183428758
+      Nano Banana 2 - Make the background brighter_ like in the second picture_161: 194820855
+      Nano Banana 2 - Make the background brighter_ like in the second picture_162: 1745287085
+      Nano Banana 2 - Make the background brighter_ like in the second picture_163: -734381108
+      Nano Banana 2 - Make the background brighter_ like in the second picture_164: -1348583130
+      Nano Banana 2 - Make the background brighter_ like in the second picture_165: -1203085908
+      Nano Banana 2 - Make the background brighter_ like in the second picture_166: -460019531
+      Nano Banana 2 - Make the background brighter_ like in the second picture_167: 244666369
+      Nano Banana 2 - Make the background brighter_ like in the second picture_168: -1194090186
+      Nano Banana 2 - Make the background brighter_ like in the second picture_169: -768425284
+      Nano Banana 2 - Make the background brighter_ like in the second picture_17: -892716846
+      Nano Banana 2 - Make the background brighter_ like in the second picture_170: 1082921462
+      Nano Banana 2 - Make the background brighter_ like in the second picture_171: -432924251
+      Nano Banana 2 - Make the background brighter_ like in the second picture_172: -48738073
+      Nano Banana 2 - Make the background brighter_ like in the second picture_173: -2029863695
+      Nano Banana 2 - Make the background brighter_ like in the second picture_174: -812681709
+      Nano Banana 2 - Make the background brighter_ like in the second picture_175: -1091695772
+      Nano Banana 2 - Make the background brighter_ like in the second picture_176: 331207171
+      Nano Banana 2 - Make the background brighter_ like in the second picture_177: -2112002001
+      Nano Banana 2 - Make the background brighter_ like in the second picture_178: -240993010
+      Nano Banana 2 - Make the background brighter_ like in the second picture_179: -1582328658
+      Nano Banana 2 - Make the background brighter_ like in the second picture_18: -737770184
+      Nano Banana 2 - Make the background brighter_ like in the second picture_180: -545019998
+      Nano Banana 2 - Make the background brighter_ like in the second picture_181: 1806271740
+      Nano Banana 2 - Make the background brighter_ like in the second picture_182: 1595525554
+      Nano Banana 2 - Make the background brighter_ like in the second picture_183: -1586029567
+      Nano Banana 2 - Make the background brighter_ like in the second picture_184: -749981503
+      Nano Banana 2 - Make the background brighter_ like in the second picture_185: 1047938628
+      Nano Banana 2 - Make the background brighter_ like in the second picture_186: -814538851
+      Nano Banana 2 - Make the background brighter_ like in the second picture_187: 36415344
+      Nano Banana 2 - Make the background brighter_ like in the second picture_188: 390421411
+      Nano Banana 2 - Make the background brighter_ like in the second picture_189: 433746134
+      Nano Banana 2 - Make the background brighter_ like in the second picture_19: 1137723063
+      Nano Banana 2 - Make the background brighter_ like in the second picture_190: -1560280265
+      Nano Banana 2 - Make the background brighter_ like in the second picture_191: -305253465
+      Nano Banana 2 - Make the background brighter_ like in the second picture_192: -1856799898
+      Nano Banana 2 - Make the background brighter_ like in the second picture_193: -1002857327
+      Nano Banana 2 - Make the background brighter_ like in the second picture_194: -2063962049
+      Nano Banana 2 - Make the background brighter_ like in the second picture_195: -1082253216
+      Nano Banana 2 - Make the background brighter_ like in the second picture_196: -97891253
+      Nano Banana 2 - Make the background brighter_ like in the second picture_197: -1151631407
+      Nano Banana 2 - Make the background brighter_ like in the second picture_198: 659855055
+      Nano Banana 2 - Make the background brighter_ like in the second picture_199: 1276813840
+      Nano Banana 2 - Make the background brighter_ like in the second picture_2: 594105188
+      Nano Banana 2 - Make the background brighter_ like in the second picture_20: -1472490693
+      Nano Banana 2 - Make the background brighter_ like in the second picture_200: -111394277
+      Nano Banana 2 - Make the background brighter_ like in the second picture_201: -1131380348
+      Nano Banana 2 - Make the background brighter_ like in the second picture_202: -1967419792
+      Nano Banana 2 - Make the background brighter_ like in the second picture_203: 290631799
+      Nano Banana 2 - Make the background brighter_ like in the second picture_204: -1973568077
+      Nano Banana 2 - Make the background brighter_ like in the second picture_205: -605016232
+      Nano Banana 2 - Make the background brighter_ like in the second picture_206: 652508814
+      Nano Banana 2 - Make the background brighter_ like in the second picture_207: 399910929
+      Nano Banana 2 - Make the background brighter_ like in the second picture_208: -249047230
+      Nano Banana 2 - Make the background brighter_ like in the second picture_209: -1291638736
+      Nano Banana 2 - Make the background brighter_ like in the second picture_21: -734058684
+      Nano Banana 2 - Make the background brighter_ like in the second picture_210: -1064461629
+      Nano Banana 2 - Make the background brighter_ like in the second picture_211: -327967564
+      Nano Banana 2 - Make the background brighter_ like in the second picture_212: -389196849
+      Nano Banana 2 - Make the background brighter_ like in the second picture_213: -2095189964
+      Nano Banana 2 - Make the background brighter_ like in the second picture_214: 136280015
+      Nano Banana 2 - Make the background brighter_ like in the second picture_215: 218289103
+      Nano Banana 2 - Make the background brighter_ like in the second picture_216: -25697924
+      Nano Banana 2 - Make the background brighter_ like in the second picture_217: 238235508
+      Nano Banana 2 - Make the background brighter_ like in the second picture_218: 1769150375
+      Nano Banana 2 - Make the background brighter_ like in the second picture_219: -2104655284
+      Nano Banana 2 - Make the background brighter_ like in the second picture_22: 78909185
+      Nano Banana 2 - Make the background brighter_ like in the second picture_220: 1351760717
+      Nano Banana 2 - Make the background brighter_ like in the second picture_221: -1833168405
+      Nano Banana 2 - Make the background brighter_ like in the second picture_222: 1163805606
+      Nano Banana 2 - Make the background brighter_ like in the second picture_223: 554895835
+      Nano Banana 2 - Make the background brighter_ like in the second picture_224: 349502021
+      Nano Banana 2 - Make the background brighter_ like in the second picture_225: 610907976
+      Nano Banana 2 - Make the background brighter_ like in the second picture_226: -831016623
+      Nano Banana 2 - Make the background brighter_ like in the second picture_227: 1291813674
+      Nano Banana 2 - Make the background brighter_ like in the second picture_228: -1394423323
+      Nano Banana 2 - Make the background brighter_ like in the second picture_229: -1863796551
+      Nano Banana 2 - Make the background brighter_ like in the second picture_23: -981325779
+      Nano Banana 2 - Make the background brighter_ like in the second picture_230: 198893200
+      Nano Banana 2 - Make the background brighter_ like in the second picture_231: 363640975
+      Nano Banana 2 - Make the background brighter_ like in the second picture_232: 15687150
+      Nano Banana 2 - Make the background brighter_ like in the second picture_233: 250850092
+      Nano Banana 2 - Make the background brighter_ like in the second picture_234: 1534239101
+      Nano Banana 2 - Make the background brighter_ like in the second picture_235: 1159205901
+      Nano Banana 2 - Make the background brighter_ like in the second picture_236: 1707116734
+      Nano Banana 2 - Make the background brighter_ like in the second picture_237: -1011399833
+      Nano Banana 2 - Make the background brighter_ like in the second picture_238: 1978549391
+      Nano Banana 2 - Make the background brighter_ like in the second picture_239: 440314564
+      Nano Banana 2 - Make the background brighter_ like in the second picture_24: -1520367678
+      Nano Banana 2 - Make the background brighter_ like in the second picture_25: -922619209
+      Nano Banana 2 - Make the background brighter_ like in the second picture_26: 1636143486
+      Nano Banana 2 - Make the background brighter_ like in the second picture_27: 508094881
+      Nano Banana 2 - Make the background brighter_ like in the second picture_28: 1641376202
+      Nano Banana 2 - Make the background brighter_ like in the second picture_29: -987643937
+      Nano Banana 2 - Make the background brighter_ like in the second picture_3: 51393323
+      Nano Banana 2 - Make the background brighter_ like in the second picture_30: -775521424
+      Nano Banana 2 - Make the background brighter_ like in the second picture_31: 1296853852
+      Nano Banana 2 - Make the background brighter_ like in the second picture_32: -604941898
+      Nano Banana 2 - Make the background brighter_ like in the second picture_33: -2063822819
+      Nano Banana 2 - Make the background brighter_ like in the second picture_34: -318675066
+      Nano Banana 2 - Make the background brighter_ like in the second picture_35: -947761321
+      Nano Banana 2 - Make the background brighter_ like in the second picture_36: -1258868068
+      Nano Banana 2 - Make the background brighter_ like in the second picture_37: -962564108
+      Nano Banana 2 - Make the background brighter_ like in the second picture_38: 1142058593
+      Nano Banana 2 - Make the background brighter_ like in the second picture_39: 1481678129
+      Nano Banana 2 - Make the background brighter_ like in the second picture_4: -1440060111
+      Nano Banana 2 - Make the background brighter_ like in the second picture_40: -716670450
+      Nano Banana 2 - Make the background brighter_ like in the second picture_41: 1459365253
+      Nano Banana 2 - Make the background brighter_ like in the second picture_42: -718039337
+      Nano Banana 2 - Make the background brighter_ like in the second picture_43: 713983608
+      Nano Banana 2 - Make the background brighter_ like in the second picture_44: 404507538
+      Nano Banana 2 - Make the background brighter_ like in the second picture_45: -1125311047
+      Nano Banana 2 - Make the background brighter_ like in the second picture_46: -2076363205
+      Nano Banana 2 - Make the background brighter_ like in the second picture_47: -62848736
+      Nano Banana 2 - Make the background brighter_ like in the second picture_48: -177577293
+      Nano Banana 2 - Make the background brighter_ like in the second picture_49: 1801865717
+      Nano Banana 2 - Make the background brighter_ like in the second picture_5: 715782313
+      Nano Banana 2 - Make the background brighter_ like in the second picture_50: -554874542
+      Nano Banana 2 - Make the background brighter_ like in the second picture_51: -1233016401
+      Nano Banana 2 - Make the background brighter_ like in the second picture_52: -480177861
+      Nano Banana 2 - Make the background brighter_ like in the second picture_53: -1870471000
+      Nano Banana 2 - Make the background brighter_ like in the second picture_54: 1513274676
+      Nano Banana 2 - Make the background brighter_ like in the second picture_55: -678552800
+      Nano Banana 2 - Make the background brighter_ like in the second picture_56: 1194844560
+      Nano Banana 2 - Make the background brighter_ like in the second picture_57: -1520936422
+      Nano Banana 2 - Make the background brighter_ like in the second picture_58: 311395844
+      Nano Banana 2 - Make the background brighter_ like in the second picture_59: -17522917
+      Nano Banana 2 - Make the background brighter_ like in the second picture_6: 1702543088
+      Nano Banana 2 - Make the background brighter_ like in the second picture_60: -1716912364
+      Nano Banana 2 - Make the background brighter_ like in the second picture_61: -639128952
+      Nano Banana 2 - Make the background brighter_ like in the second picture_62: -964502852
+      Nano Banana 2 - Make the background brighter_ like in the second picture_63: -1191785008
+      Nano Banana 2 - Make the background brighter_ like in the second picture_64: 538752735
+      Nano Banana 2 - Make the background brighter_ like in the second picture_65: 1727687590
+      Nano Banana 2 - Make the background brighter_ like in the second picture_66: -1716616708
+      Nano Banana 2 - Make the background brighter_ like in the second picture_67: -1789024407
+      Nano Banana 2 - Make the background brighter_ like in the second picture_68: 2026468149
+      Nano Banana 2 - Make the background brighter_ like in the second picture_69: -2145519551
+      Nano Banana 2 - Make the background brighter_ like in the second picture_7: -787318167
+      Nano Banana 2 - Make the background brighter_ like in the second picture_70: -1456723284
+      Nano Banana 2 - Make the background brighter_ like in the second picture_71: 1686196215
+      Nano Banana 2 - Make the background brighter_ like in the second picture_72: 1000153393
+      Nano Banana 2 - Make the background brighter_ like in the second picture_73: 1509988045
+      Nano Banana 2 - Make the background brighter_ like in the second picture_74: -1361465229
+      Nano Banana 2 - Make the background brighter_ like in the second picture_75: 1464077998
+      Nano Banana 2 - Make the background brighter_ like in the second picture_76: -929208931
+      Nano Banana 2 - Make the background brighter_ like in the second picture_77: -1788871824
+      Nano Banana 2 - Make the background brighter_ like in the second picture_78: -1468027751
+      Nano Banana 2 - Make the background brighter_ like in the second picture_79: 1636842163
+      Nano Banana 2 - Make the background brighter_ like in the second picture_8: 645449714
+      Nano Banana 2 - Make the background brighter_ like in the second picture_80: -2056139393
+      Nano Banana 2 - Make the background brighter_ like in the second picture_81: -235355827
+      Nano Banana 2 - Make the background brighter_ like in the second picture_82: -1067112741
+      Nano Banana 2 - Make the background brighter_ like in the second picture_83: -1684359055
+      Nano Banana 2 - Make the background brighter_ like in the second picture_84: 215435702
+      Nano Banana 2 - Make the background brighter_ like in the second picture_85: -1702902094
+      Nano Banana 2 - Make the background brighter_ like in the second picture_86: 384064892
+      Nano Banana 2 - Make the background brighter_ like in the second picture_87: 1001452060
+      Nano Banana 2 - Make the background brighter_ like in the second picture_88: -823769684
+      Nano Banana 2 - Make the background brighter_ like in the second picture_89: -1719720545
+      Nano Banana 2 - Make the background brighter_ like in the second picture_9: -1434270060
+      Nano Banana 2 - Make the background brighter_ like in the second picture_90: -1890291086
+      Nano Banana 2 - Make the background brighter_ like in the second picture_91: 1988028821
+      Nano Banana 2 - Make the background brighter_ like in the second picture_92: -877894154
+      Nano Banana 2 - Make the background brighter_ like in the second picture_93: 1641419777
+      Nano Banana 2 - Make the background brighter_ like in the second picture_94: 1454577826
+      Nano Banana 2 - Make the background brighter_ like in the second picture_95: 1100345172
+      Nano Banana 2 - Make the background brighter_ like in the second picture_96: 2013635028
+      Nano Banana 2 - Make the background brighter_ like in the second picture_97: -598008157
+      Nano Banana 2 - Make the background brighter_ like in the second picture_98: -971090013
+      Nano Banana 2 - Make the background brighter_ like in the second picture_99: 1748842896
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
