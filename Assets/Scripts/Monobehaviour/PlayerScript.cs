@@ -7,7 +7,7 @@ public class PlayerScript : MonoBehaviour
 {
     Animator Animator;
     Rigidbody2D rb;
-    const float MoveSpeed = 10f;
+    const float MoveSpeed = 9f;
     Vector2 CurrentRespawnPoint;
     /// <summary>
     /// 0 = Stone;
@@ -17,7 +17,7 @@ public class PlayerScript : MonoBehaviour
     string[] InstrumentNames = new[] { "Stone", "Smoke", "EMP" };
     [SerializeField] GameObject Instrument;
     int CurrentInstrument = 0;
-    int[] InstrumentCount;
+    public int[] InstrumentCount;
 
     private void Awake()
     {

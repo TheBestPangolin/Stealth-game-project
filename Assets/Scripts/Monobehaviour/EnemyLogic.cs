@@ -56,7 +56,7 @@ public class EnemyLogic : MonoBehaviour
             var dynamic = Entity as DynamicEnemy;
             dynamic.GoNext(ConvertLocal3DToWorld2D(MovePointsTransform[CurPoint].localPosition));
         }
-        FOV_Checker = new FOV_Logic(15f, 45f, Walls, Player, () => transform.position, () => LookVector, target => Entity.OnDetect(target), StartChase, SetTarget);
+        FOV_Checker = new FOV_Logic(10f, 45f, Walls, Player, () => transform.position, () => LookVector, target => Entity.OnDetect(target), StartChase, SetTarget);
         StartCoroutine(FOV_Checker.FOV_Coroutine());
     }
 
@@ -72,10 +72,9 @@ public class EnemyLogic : MonoBehaviour
         if (IsDynamic)
         {
             var dynamic = Entity as DynamicEnemy;
-            Vector2 curDest = dynamic.Agent.destination;
             LookVector = dynamic.Agent.desiredVelocity;
             AnimationMethods.ChangeAnimation(Animator, true, LookVector);
-            if ((dynamic.Rigidbody.position - curDest).magnitude < epsilon)
+            if (dynamic.Agent.remainingDistance <= epsilon)
             {
                 if (IsChasing)
                 {

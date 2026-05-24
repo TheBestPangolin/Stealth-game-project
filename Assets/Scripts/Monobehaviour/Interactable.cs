@@ -18,7 +18,15 @@ public class Interactable : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
+            TestHint.DisplayHint?.Invoke("[E] Поговорить");
+        }
+    }
 
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Player"))
+        {
+            TestHint.DisableHint?.Invoke();
         }
     }
 }
