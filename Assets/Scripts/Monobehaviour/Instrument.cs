@@ -22,6 +22,7 @@ public class Instrument : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         var move = EndPosition - rb.position;
         InstrumentAnimator = GetComponentInChildren<Animator>();
+        InstrumentAnimator.SetInteger("NumberOfInstrument", InstrumentIndex);
         var hit = Physics2D.Raycast(rb.position, move, move.magnitude, Walls);
         if (hit)
         {
