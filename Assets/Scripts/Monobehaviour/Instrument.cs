@@ -14,13 +14,14 @@ public class Instrument : MonoBehaviour
     Vector2 Movement;
     private double epsilon = 0.1;
     private bool WorkedOut = false;
+    private Animator InstrumentAnimator;
+    public int InstrumentIndex = -1;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        //DontDestroyOnLoad(gameObject);
         rb = GetComponent<Rigidbody2D>();
         var move = EndPosition - rb.position;
-
+        InstrumentAnimator = GetComponentInChildren<Animator>();
         var hit = Physics2D.Raycast(rb.position, move, move.magnitude, Walls);
         if (hit)
         {

@@ -105,6 +105,7 @@ public class PlayerScript : MonoBehaviour
             
             instrument.EndPosition = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
             instrument.InstrumentName = InstrumentNames[CurrentInstrument];
+            instrument.InstrumentIndex = CurrentInstrument;
         }
     }
 
