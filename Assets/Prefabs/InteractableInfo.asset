@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::InteractableInfo
   Type: 0
   PathToDialogFile: 
-  PickableInstruments: 000000000000000000000000
+  PickableInstruments: 010000000100000001000000
   TeleportLocation: {x: 0, y: 0}
