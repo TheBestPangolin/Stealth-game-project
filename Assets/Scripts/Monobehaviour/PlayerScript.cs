@@ -9,6 +9,7 @@ public class PlayerScript : MonoBehaviour
     Rigidbody2D rb;
     const float MoveSpeed = 9f;
     Vector2 CurrentRespawnPoint;
+    public Action Interact;
     /// <summary>
     /// 0 = Stone;
     /// 1 = Smoke;
@@ -57,6 +58,10 @@ public class PlayerScript : MonoBehaviour
     {
         if (Mouse.current.leftButton.wasPressedThisFrame)
             CheckThrow();
+        if (Keyboard.current.eKey.wasPressedThisFrame
+            && Interact.GetInvocationList().Length > 0)
+            Interact();
+            
     }
 
     /// <summary>
@@ -119,5 +124,18 @@ public class PlayerScript : MonoBehaviour
         transform.position = CurrentRespawnPoint;
         string currentSceneName = SceneManager.GetActiveScene().name;
         SceneManager.LoadScene(currentSceneName);
+    }
+
+    public void PickUp(int[] pickable)
+    {
+        for (var i = 0; i < InstrumentCount.Length; i++)
+        {
+            InstrumentCount[i] += pickable[i];
+        }
+    }
+
+    public void ChangePosition(Vector2 position)
+    {
+        rb.position = position;
     }
 }

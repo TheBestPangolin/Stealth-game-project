@@ -1,7 +1,10 @@
+using System;
 using UnityEngine;
 
 public class Interactable : MonoBehaviour
 {
+
+    [SerializeField] private InteractableInfo Info;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -18,7 +21,45 @@ public class Interactable : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            TestHint.DisplayHint?.Invoke("[E] Поговорить");
+            var player = collision.gameObject.GetComponent<PlayerScript>();
+
+            var hint = "";
+
+            switch (Info.Type)
+            {
+                case 0:
+                    player.Interact += () =>
+                    {
+                        player.PickUp(Info.PickableInstruments);
+                        Destroy(gameObject);
+                    };
+                    hint = "[E] - Подобрать";
+                    break;
+                case 1:
+                    player.Interact += () =>
+                    {
+                        DialogWindow.ReadFileDialogs(Info.PathToDialogFile);
+                    };
+                    hint = "[E] - Поговорить";
+                    break;
+                case 2:
+                    player.Interact += () =>
+                    {
+                        player.PickUp(Info.PickableInstruments);
+                        Destroy(gameObject);
+                    };
+                    hint = "[E] - Помочь";
+                    break;
+                case 3:
+                    player.Interact += () =>
+                    {
+                        player.ChangePosition(Info.TeleportLocation);
+                    };
+                    hint = "[E] - Перейти";
+                    break;
+            }
+
+            TextHint.DisplayHint?.Invoke(hint);
         }
     }
 
@@ -26,7 +67,7 @@ public class Interactable : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            TestHint.DisableHint?.Invoke();
+            TextHint.DisableHint?.Invoke();
         }
     }
 }

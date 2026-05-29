@@ -2,7 +2,7 @@ using System;
 using TMPro;
 using UnityEngine;
 
-public class TestHint : MonoBehaviour
+public class TextHint : MonoBehaviour
 {
     public static Action<string> DisplayHint;
     public static Action DisableHint;
@@ -37,6 +37,7 @@ public class TestHint : MonoBehaviour
     {
         Text.SetText(text);
         Hint_Animator.SetBool("IsShowing", true);
+
     }
     private void HideHint()
     {
