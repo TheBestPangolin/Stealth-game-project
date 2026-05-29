@@ -16,7 +16,7 @@ public class PlayerScript : MonoBehaviour
     /// </summary>
     string[] InstrumentNames = new[] { "Stone", "Smoke", "EMP" };
     [SerializeField] GameObject Instrument;
-    int CurrentInstrument = 0;
+    [SerializeField] int CurrentInstrument = 0;
     public int[] InstrumentCount;
 
     private void Awake()
@@ -93,11 +93,14 @@ public class PlayerScript : MonoBehaviour
 
         if (input.digit3Key.isPressed)
             CurrentInstrument = 2;
+
+        if (input.digit0Key.isPressed)
+            CurrentInstrument = -1;
     }
 
     void CheckThrow()
     {
-        if (InstrumentCount[CurrentInstrument] > 0)
+        if (CurrentInstrument >= 0 && InstrumentCount[CurrentInstrument] > 0)
         {
             InstrumentCount[CurrentInstrument]--;
             var instrumentObject = Instantiate(Instrument, rb.position, Quaternion.LookRotation(Vector3.zero));
@@ -106,6 +109,7 @@ public class PlayerScript : MonoBehaviour
             instrument.EndPosition = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
             instrument.InstrumentName = InstrumentNames[CurrentInstrument];
             instrument.InstrumentIndex = CurrentInstrument;
+            CurrentInstrument = -1;
         }
     }
 

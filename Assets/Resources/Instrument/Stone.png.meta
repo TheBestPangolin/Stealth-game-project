@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 0b6cf9da0758eef419540cbd54861379
+guid: 6ccf4490bdd04f649bc1bb65b6299199
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 375749136298192835
-    second: "ChatGPT Image 26 \u043C\u0430\u044F 2026 \u0433., 22_39_56_0"
+      213: 8399011212269539787
+    second: Stone_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1000
+  spritePixelsToUnits: 650
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "ChatGPT Image 26 \u043C\u0430\u044F 2026 \u0433., 22_39_56_0"
+      name: Stone_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 0
-        width: 1019
-        height: 1019
+        x: 128
+        y: 175
+        width: 510
+        height: 410
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3cfa6b149dde63500800000000000000
-      internalID: 375749136298192835
+      spriteID: bc159db92384f8470800000000000000
+      internalID: 8399011212269539787
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "ChatGPT Image 26 \u043C\u0430\u044F 2026 \u0433., 22_39_56_0": 375749136298192835
+      Stone_0: 8399011212269539787
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
