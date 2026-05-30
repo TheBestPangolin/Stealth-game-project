@@ -73,7 +73,8 @@ public class EnemyLogic : MonoBehaviour
         {
             var dynamic = Entity as DynamicEnemy;
             LookVector = dynamic.Agent.desiredVelocity;
-            AnimationMethods.ChangeAnimation(Animator, true, LookVector);
+            if (!Animator.GetBool("IsShootPlaying"))
+                AnimationMethods.ChangeAnimation(Animator, true, LookVector);
             if (dynamic.Agent.remainingDistance <= epsilon)
             {
                 if (IsChasing)
@@ -104,7 +105,7 @@ public class EnemyLogic : MonoBehaviour
 
     public void OnDetect(Vector2 MovePoint)
     {
-        if (!Entity.IsStunned && !IsChasing)
+        if (!Entity.IsStunned && !IsChasing && Entity is not CameraEnemy)
             Entity.OnDetect(MovePoint);
     }
 

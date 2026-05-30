@@ -17,8 +17,6 @@ public class DialogWindow : MonoBehaviour
 
     private Queue<string> DialogQueue = new Queue<string>();
 
-    private int EtalonLength = "oooooooooooooooooooooooooooooo".Length;
-
     void Start()
     {
         Text = GetComponentInChildren<TMP_Text>();
@@ -65,7 +63,7 @@ public class DialogWindow : MonoBehaviour
 
     private void ReadDialogs(string path)
     {
-        var lines = File.ReadLines(path);
+        var lines = Resources.Load<TextAsset>(path).text.Split("\n");
         foreach (var line in lines)
         {
             DialogQueue.Enqueue(line);

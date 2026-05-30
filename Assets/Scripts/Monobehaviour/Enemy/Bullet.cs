@@ -5,12 +5,18 @@ public class Bullet : MonoBehaviour
     Rigidbody2D rb;
     public Vector2 EndPosition;
     Vector2 Movement;
-    const float MoveSpeed = 20f;
+    const float MoveSpeed = 30f;
+    const float MinRotation = -Mathf.PI / 6;
+    const float MaxRotation = Mathf.PI / 6;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        var randAngle = Random.value * (MaxRotation - MinRotation) + MinRotation;
         rb = GetComponent<Rigidbody2D>();
         Movement = (EndPosition - rb.position).normalized;
+        var x = Movement.x;
+        var y = Movement.y;
+        Movement.Set(Mathf.Cos(randAngle) * x - Mathf.Sin(randAngle) * y, Mathf.Cos(randAngle) * x + Mathf.Sin(randAngle) * y);
     }
 
     // Update is called once per frame

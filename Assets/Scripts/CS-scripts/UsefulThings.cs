@@ -77,6 +77,7 @@ public static class AnimationMethods
         VectorWork.GetFourSidedDirection(directionVector, out var lookDirection);
         var animationName = "Shoot";
         animationName += Enum.GetName(typeof(Directions), lookDirection);
+        animator.SetBool("IsShootPlaying", true);
         animator.Play(animationName);
     }
 }

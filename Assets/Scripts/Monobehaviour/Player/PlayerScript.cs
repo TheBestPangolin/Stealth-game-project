@@ -8,7 +8,7 @@ public class PlayerScript : MonoBehaviour
     Animator Animator;
     Rigidbody2D rb;
     const float MoveSpeed = 9f;
-    Vector2 CurrentRespawnPoint;
+    public Vector2 CurrentRespawnPoint;
     public Action Interact;
     /// <summary>
     /// 0 = Stone;

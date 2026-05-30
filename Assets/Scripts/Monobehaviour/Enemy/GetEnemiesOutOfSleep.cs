@@ -24,7 +24,7 @@ public class GetEnemiesOutOfSleep : MonoBehaviour
     void Shoot()
     {
         var parent = GetComponentInParent<EnemyLogic>();
-        var bulletObj = UnityEngine.Object.Instantiate(Resources.Load<GameObject>("Bullet"), parent.Entity.Rigidbody.position, Quaternion.LookRotation(Vector3.zero));
+        var bulletObj = Instantiate(Resources.Load<GameObject>("Bullet"), parent.Entity.Rigidbody.position, Quaternion.LookRotation(Vector3.zero));
         bulletObj.GetComponent<Bullet>().EndPosition = parent.Target;
     }
 
@@ -32,5 +32,6 @@ public class GetEnemiesOutOfSleep : MonoBehaviour
     {
         var parent = GetComponentInParent<EnemyLogic>();
         (parent.Entity as DynamicEnemy).Agent.isStopped = false;
+        parent.Entity.Animator.SetBool("IsShootPlaying", false);
     }
 }
