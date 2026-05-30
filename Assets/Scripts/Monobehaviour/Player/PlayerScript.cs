@@ -23,9 +23,9 @@ public class PlayerScript : MonoBehaviour
     private void Awake()
     {
         InstrumentCount = new int[InstrumentNames.Length];
-        InstrumentCount[0] = 10;
-        InstrumentCount[1] = 10;
-        InstrumentCount[2] = 10;
+        InstrumentCount[0] = 1;
+        InstrumentCount[1] = 1;
+        InstrumentCount[2] = 1;
         Animator = GetComponentInChildren<Animator>();
         
         rb = GetComponent<Rigidbody2D>();
@@ -135,8 +135,6 @@ public class PlayerScript : MonoBehaviour
     {
         Debug.Log("You Died!");
         transform.position = CurrentRespawnPoint;
-        string currentSceneName = SceneManager.GetActiveScene().name;
-        SceneManager.LoadScene(currentSceneName);
     }
 
     public void PickUp(int[] pickable)

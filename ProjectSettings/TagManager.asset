@@ -6,6 +6,14 @@ TagManager:
   tags:
   - Enemy
   - ToDeleteOnEnter
+  - Respawn1
+  - Respawn2
+  - Respawn3
+  - Respawn4
+  - Respawn5
+  - Respawn6
+  - Respawn7
+  - Respawn8
   layers:
   - Default
   - TransparentFX
