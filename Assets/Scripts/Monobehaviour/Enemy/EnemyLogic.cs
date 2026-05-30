@@ -94,7 +94,7 @@ public class EnemyLogic : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
-            Player.SendMessage("Respawn");
+            collision.gameObject.GetComponent<PlayerScript>().Respawn();
     }
 
     private Vector2 ConvertLocal3DToWorld2D(Vector3 localPosition)

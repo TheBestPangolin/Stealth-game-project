@@ -91,16 +91,28 @@ public class PlayerScript : MonoBehaviour
     {
         var input = Keyboard.current;
         if (input.digit1Key.isPressed)
+        {
             CurrentInstrument = 0;
+            HolsterHint.DisplayHint();
+        }
 
         if (input.digit2Key.isPressed)
+        {
             CurrentInstrument = 1;
+            HolsterHint.DisplayHint();
+        }
 
         if (input.digit3Key.isPressed)
+        {
             CurrentInstrument = 2;
+            HolsterHint.DisplayHint();
+        }
 
         if (input.digit0Key.isPressed)
+        {
             CurrentInstrument = -1;
+            HolsterHint.DisableHint();
+        }
     }
 
     void CheckThrow()
@@ -115,10 +127,11 @@ public class PlayerScript : MonoBehaviour
             instrument.InstrumentName = InstrumentNames[CurrentInstrument];
             instrument.InstrumentIndex = CurrentInstrument;
             CurrentInstrument = -1;
+            HolsterHint.DisableHint();
         }
     }
 
-    void Respawn()
+    public void Respawn()
     {
         Debug.Log("You Died!");
         transform.position = CurrentRespawnPoint;
