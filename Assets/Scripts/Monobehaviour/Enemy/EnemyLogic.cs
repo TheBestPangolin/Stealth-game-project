@@ -49,12 +49,15 @@ public class EnemyLogic : MonoBehaviour
         agent.updateRotation = false;
         agent.updateUpAxis = false;
         agent.acceleration = MoveSpeed * 30;
+        agent.stoppingDistance = 0;
+        agent.autoBraking = false;
         Player = GameObject.FindGameObjectWithTag("Player");
 
         if (IsDynamic)
         {
             var dynamic = Entity as DynamicEnemy;
-            dynamic.GoNext(ConvertLocal3DToWorld2D(MovePointsTransform[CurPoint].localPosition));
+            if (MovePointsTransform.Length > 0)
+                dynamic.GoNext(ConvertLocal3DToWorld2D(MovePointsTransform[CurPoint].localPosition));
         }
         FOV_Checker = new FOV_Logic(10f, 45f, Walls, Player, () => transform.position, () => LookVector, target => Entity.OnDetect(target), StartChase, SetTarget);
         StartCoroutine(FOV_Checker.FOV_Coroutine());
@@ -88,7 +91,8 @@ public class EnemyLogic : MonoBehaviour
                     CurPoint += IsMovingBack ? 1 : -1;
                     IsMovingBack = !IsMovingBack;
                 }
-                dynamic.GoNext(ConvertLocal3DToWorld2D(MovePointsTransform[CurPoint].localPosition));
+                if (MovePointsTransform.Length > 0)
+                    dynamic.GoNext(ConvertLocal3DToWorld2D(MovePointsTransform[CurPoint].localPosition));
             }
         }
     }

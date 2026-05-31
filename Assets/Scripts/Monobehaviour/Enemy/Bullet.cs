@@ -6,8 +6,8 @@ public class Bullet : MonoBehaviour
     public Vector2 EndPosition;
     Vector2 Movement;
     const float MoveSpeed = 30f;
-    const float MinRotation = -Mathf.PI / 6;
-    const float MaxRotation = Mathf.PI / 6;
+    const float MinRotation = -15f;
+    const float MaxRotation = 15f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -16,7 +16,7 @@ public class Bullet : MonoBehaviour
         Movement = (EndPosition - rb.position).normalized;
         var x = Movement.x;
         var y = Movement.y;
-        Movement.Set(Mathf.Cos(randAngle) * x - Mathf.Sin(randAngle) * y, Mathf.Cos(randAngle) * x + Mathf.Sin(randAngle) * y);
+        Movement = Quaternion.Euler(0, 0, randAngle) * Movement;
     }
 
     // Update is called once per frame

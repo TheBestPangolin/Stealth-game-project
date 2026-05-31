@@ -7,8 +7,8 @@ public class PlayerScript : MonoBehaviour
 {
     Animator Animator;
     Rigidbody2D rb;
-    const float MoveSpeed = 9f;
-    public Vector2 CurrentRespawnPoint;
+    const float MoveSpeed = 7f;
+    public Vector2 CurrentRespawnPoint => Player_container.CurrentRespawn;
     public Action Interact;
     /// <summary>
     /// 0 = Stone;
@@ -30,7 +30,7 @@ public class PlayerScript : MonoBehaviour
         
         rb = GetComponent<Rigidbody2D>();
         rb.freezeRotation = true;
-        CurrentRespawnPoint = rb.position;
+        Player_container.CurrentRespawn = rb.position;
     }
 
 
@@ -135,6 +135,8 @@ public class PlayerScript : MonoBehaviour
     {
         Debug.Log("You Died!");
         transform.position = CurrentRespawnPoint;
+        var load = SceneManager.GetActiveScene();
+        SceneManager.LoadScene(load.name);
     }
 
     public void PickUp(int[] pickable)

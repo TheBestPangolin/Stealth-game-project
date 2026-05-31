@@ -7,16 +7,11 @@ public class SoundManager : MonoBehaviour
 
     [SerializeField] private AudioSource soundFXObject;
 
-    private void Awake()
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Awake()
     {
         if (instance == null)
             instance = this;
-    }
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
     }
 
     // Update is called once per frame
@@ -37,23 +32,37 @@ public class SoundManager : MonoBehaviour
 
         audioSource.Play();
 
-        var length = audioClip.length;
+        var length = audioSource.clip.length;
 
         Destroy(audioSource.gameObject, length);
     }
 
-    public void StartPlayingLoopSound(AudioClip audioClip, Transform origin, float volume) => 
-        StartCoroutine(PlaySoundAtLoop(audioClip, origin, volume));
+    public void StartPlayingLoopSound(AudioClip audioClip, Transform origin, float volume)
+    {
+        if (this == null)
+        {
+            Debug.LogError("SoundManager instance is null!");
+            return;
+        }
+        if (!gameObject.activeInHierarchy)
+        {
+            Debug.LogError($"SoundManager gameObject is inactive! Active: {gameObject.activeInHierarchy}");
+        }
+            StartCoroutine(PlaySoundAtLoop(audioClip, origin, volume)); //здесь возникает NullReferenceException
+    }
 
-    public void StopPlayingLoopSound() =>
+    public void StopPlayingLoopSound()
+    {
         StopCoroutine("PlaySoundAtLoop");
+    }
 
     private IEnumerator PlaySoundAtLoop(AudioClip audioClip, Transform origin, float volume)
     {
-        var delay = new WaitForSeconds(audioClip.length);
+        while (true)
+        {
+            PlaySoundFXClip(audioClip, origin, volume);
 
-        PlaySoundFXClip(audioClip, origin, volume);
-
-        yield return delay;
+            yield return new WaitForSeconds(audioClip.length);
+        }
     }
 }

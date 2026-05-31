@@ -26,6 +26,7 @@ public class GetEnemiesOutOfSleep : MonoBehaviour
         var parent = GetComponentInParent<EnemyLogic>();
         var bulletObj = Instantiate(Resources.Load<GameObject>("Bullet"), parent.Entity.Rigidbody.position, Quaternion.LookRotation(Vector3.zero));
         bulletObj.GetComponent<Bullet>().EndPosition = parent.Target;
+        SoundManager.instance.PlaySoundFXClip(Resources.Load<AudioClip>("Sounds/shot"), parent.transform, 1);
     }
 
     void StopShooting()
@@ -33,5 +34,6 @@ public class GetEnemiesOutOfSleep : MonoBehaviour
         var parent = GetComponentInParent<EnemyLogic>();
         (parent.Entity as DynamicEnemy).Agent.isStopped = false;
         parent.Entity.Animator.SetBool("IsShootPlaying", false);
+        SoundManager.instance.PlaySoundFXClip(Resources.Load<AudioClip>("Sounds/reload"), parent.transform, 1);
     }
 }

@@ -25,5 +25,6 @@ public class Buttons : MonoBehaviour
     public void ExitButton()
     {
         Application.Quit();
+        SoundManager.instance.StopPlayingLoopSound();
     }
 }

@@ -21,7 +21,7 @@ public class RespawnPoint : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            collision.gameObject.GetComponent<PlayerScript>().CurrentRespawnPoint = transform.position;
+            Player_container.CurrentRespawn = transform.position;
             foreach(var point in 
                 GameObject.FindGameObjectsWithTag(gameObject.tag)
                 .Select(obj => obj.GetComponent<RespawnPoint>()))
