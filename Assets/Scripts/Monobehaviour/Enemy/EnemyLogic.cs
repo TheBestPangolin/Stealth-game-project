@@ -59,7 +59,7 @@ public class EnemyLogic : MonoBehaviour
             if (MovePointsTransform.Length > 0)
                 dynamic.GoNext(ConvertLocal3DToWorld2D(MovePointsTransform[CurPoint].localPosition));
         }
-        FOV_Checker = new FOV_Logic(10f, 45f, Walls, Player, () => transform.position, () => LookVector, target => Entity.OnDetect(target), StartChase, SetTarget);
+        FOV_Checker = new FOV_Logic(15f, 45f, Walls, Player, () => transform.position, () => LookVector, target => Entity.OnDetect(target), StartChase, SetTarget);
         StartCoroutine(FOV_Checker.FOV_Coroutine());
     }
 

@@ -67,20 +67,24 @@ public class MeleeEnemy : DynamicEnemy
 public class ShootEnemy : DynamicEnemy
 {
 
+    MyTimer Overheat = new MyTimer();
+    bool IsOverheated;
     public ShootEnemy(NavMeshAgent agent, Rigidbody2D rigidbody, Animator animator) : base(agent, rigidbody, animator)
     {
         StunTime = 3;
         Agent.speed = 5f;
+        Overheat.OnElapsed = () => IsOverheated = false;
     }
 
     public override void OnDetect(Vector2 target)
     {
-        if (!IsStunned && !Agent.isStopped)
+        if (!IsStunned && !Agent.isStopped && !IsOverheated)
         {
             Agent.SetDestination(target);
             AnimationMethods.PlayShootAnimation(Animator, Agent.desiredVelocity);
             Agent.isStopped = true;
-            
+            IsOverheated = true;
+            Overheat.Start(1f);
         }
     }
 }

@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 7887497377413787535}
   - component: {fileID: 855066889881715488}
   - component: {fileID: 6886619003665758527}
+  - component: {fileID: 2004058191347200413}
   m_Layer: 6
   m_Name: player_visual
   m_TagString: Untagged
@@ -114,6 +115,18 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &2004058191347200413
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1888213737097385280}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e206dbdd70b3e7449beadda268537f1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AnimationFlags
 --- !u!1 &5727794075284494702
 GameObject:
   m_ObjectHideFlags: 0
@@ -162,6 +175,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
   Instrument: {fileID: 2080137353796009438, guid: ccaa1aa6b3ab71544b7dcfd863111cc6, type: 3}
+  CurrentInstrument: 0
+  InstrumentCount: 
 --- !u!50 &3923500618866832895
 Rigidbody2D:
   serializedVersion: 5

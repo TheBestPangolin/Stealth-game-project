@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class PlayerScript : MonoBehaviour
 {
-    Animator Animator;
+    public Animator Animator;
     Rigidbody2D rb;
     const float MoveSpeed = 7f;
     public Vector2 CurrentRespawnPoint => Player_container.CurrentRespawn;
@@ -31,37 +31,43 @@ public class PlayerScript : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         rb.freezeRotation = true;
         Player_container.CurrentRespawn = rb.position;
+        transform.position = CurrentRespawnPoint;
     }
 
 
     void FixedUpdate()
     {
-        // Логика движения
-        var moveVector = GetMovementVector() * MoveSpeed;
-        var newPos = rb.position + moveVector * Time.fixedDeltaTime;
+        if (!Animator.GetBool("IsDead"))
+        {
+            // Логика движения
+            var moveVector = GetMovementVector() * MoveSpeed;
+            var newPos = rb.position + moveVector * Time.fixedDeltaTime;
 
-        // Логика слежения модельки за курсором мыши
-        var mousePos = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
-        var lookVector = new Vector2(mousePos.x, mousePos.y) - newPos;
+            // Логика слежения модельки за курсором мыши
+            var mousePos = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
+            var lookVector = new Vector2(mousePos.x, mousePos.y) - newPos;
 
-        AnimationMethods.ChangeAnimation(Animator, moveVector != Vector2.zero, lookVector, moveVector);
-        // Передвижение 
-        rb.MovePosition(newPos);
+            AnimationMethods.ChangeAnimation(Animator, moveVector != Vector2.zero, lookVector, moveVector);
+            // Передвижение 
+            rb.MovePosition(newPos);
 
-        // Слежение камеры за игроком
-        Camera.main.transform.position = new Vector3(rb.position.x, rb.position.y, -10);
+            // Слежение камеры за игроком
+            Camera.main.transform.position = new Vector3(rb.position.x, rb.position.y, -10);
 
-        ChangeEquipment();
+            ChangeEquipment();
+        }
     }
 
     private void Update()
     {
-        if (Mouse.current.leftButton.wasPressedThisFrame)
-            CheckThrow();
-        if (Keyboard.current.eKey.wasPressedThisFrame
-            && Interact.GetInvocationList().Length > 0)
-            Interact();
-            
+        if (!Animator.GetBool("IsDead"))
+        {
+            if (Mouse.current.leftButton.wasPressedThisFrame)
+                CheckThrow();
+            if (Keyboard.current.eKey.wasPressedThisFrame
+                && Interact.GetInvocationList().Length > 0)
+                Interact();
+        }
     }
 
     /// <summary>
@@ -133,10 +139,7 @@ public class PlayerScript : MonoBehaviour
 
     public void Respawn()
     {
-        Debug.Log("You Died!");
-        transform.position = CurrentRespawnPoint;
-        var load = SceneManager.GetActiveScene();
-        SceneManager.LoadScene(load.name);
+        Animator.Play("Death");
     }
 
     public void PickUp(int[] pickable)

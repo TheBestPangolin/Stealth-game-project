@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using System.Linq;
 using UnityEngine;
 
@@ -93,5 +94,18 @@ public static class SoundMethods
         {
             enemy.gameObject.GetComponent<EnemyLogic>().OnDetect(from);
         }
+    }
+}
+
+public class MyTimer
+{
+    public Action OnElapsed;
+
+    public void Start(float delay)
+    {
+        var timer = GameObject.Instantiate(Resources.Load<TimerObj>("TimerObj"));
+        timer.OnElapsed += OnElapsed;
+        timer.Delay = delay;
+        timer.StartCoroutine(timer.Wait());
     }
 }
