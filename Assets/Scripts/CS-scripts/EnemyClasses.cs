@@ -54,7 +54,7 @@ public class MeleeEnemy : DynamicEnemy
     public MeleeEnemy(NavMeshAgent agent, Rigidbody2D rigidbody, Animator animator) : base(agent, rigidbody, animator)
     {
         StunTime = 2;
-        Agent.speed = 7f;
+        Agent.speed = 5f;
     }
 
     public override void OnDetect(Vector2 target)

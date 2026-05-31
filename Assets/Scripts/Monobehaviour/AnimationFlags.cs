@@ -27,7 +27,7 @@ public class AnimationFlags : MonoBehaviour
         var parent = GetComponentInParent<EnemyLogic>();
         var bulletObj = Instantiate(Resources.Load<GameObject>("Bullet"), parent.Entity.Rigidbody.position, Quaternion.LookRotation(Vector3.zero));
         bulletObj.GetComponent<Bullet>().EndPosition = parent.Target;
-        SoundManager.instance.PlaySoundFXClip(Resources.Load<AudioClip>("Sounds/shot"), parent.transform, 1);
+        SoundManager.instance.PlaySoundFXClip(Resources.Load<AudioClip>("Sounds/shot"), parent.transform, 0.5f);
     }
 
     void StopShooting()
