@@ -8,7 +8,9 @@ public class Interactable : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        if (Info.Type == 4)
+            foreach (var door in Info.Doors)
+                door.NumbOfSwitches++;
     }
 
     // Update is called once per frame
@@ -56,6 +58,14 @@ public class Interactable : MonoBehaviour
                         player.ChangePosition(Info.TeleportLocation);
                     };
                     hint = "[E] - Перейти";
+                    break;
+                case 4:
+                    player.Interact += () =>
+                    {
+                        foreach (var door in Info.Doors)
+                            door.ActuatedSwitches++;
+                    };
+                    hint = "[E] - Переключить рубильник";
                     break;
             }
 

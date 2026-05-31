@@ -9,6 +9,7 @@ public class InteractableInfo : ScriptableObject
     /// 1 = Живой НПС;
     /// 2 = Полумёртвый НПС;
     /// 3 = Переход;
+    /// 4 = Рубильник
     /// </summary>
     public int Type;
 
@@ -22,4 +23,6 @@ public class InteractableInfo : ScriptableObject
     public int[] PickableInstruments = new int[3];
 
     public Vector2 TeleportLocation;
+
+    public Door[] Doors;
 }
