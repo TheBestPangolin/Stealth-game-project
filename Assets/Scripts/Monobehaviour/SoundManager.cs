@@ -48,7 +48,7 @@ public class SoundManager : MonoBehaviour
         {
             Debug.LogError($"SoundManager gameObject is inactive! Active: {gameObject.activeInHierarchy}");
         }
-            StartCoroutine(PlaySoundAtLoop(audioClip, origin, volume)); //здесь возникает NullReferenceException
+            StartCoroutine(PlaySoundAtLoop(audioClip, origin, volume)); //пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ NullReferenceException
     }
 
     public void StopPlayingLoopSound()
