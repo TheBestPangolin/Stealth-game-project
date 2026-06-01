@@ -100,6 +100,14 @@ public class EnemyLogic : MonoBehaviour
                     dynamic.GoNext(ConvertLocal3DToWorld2D(MovePointsTransform[CurPoint].localPosition));
             }
         }
+        else
+        {
+            if (MovePointsTransform.Length == 0)
+                LookVector = Vector3.right;
+            else
+                LookVector = (Vector2)MovePointsTransform[0].position - Entity.Rigidbody.position;
+            AnimationMethods.ChangeAnimation(Animator, false, LookVector);
+        }
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {

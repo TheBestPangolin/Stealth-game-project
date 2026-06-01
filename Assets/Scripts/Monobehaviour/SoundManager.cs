@@ -6,6 +6,7 @@ public class SoundManager : MonoBehaviour
     public static SoundManager instance;
 
     [SerializeField] private AudioSource soundFXObject;
+    private Coroutine cur;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Awake()
@@ -42,12 +43,12 @@ public class SoundManager : MonoBehaviour
 
     public void StartPlayingLoopSound(AudioClip audioClip, Transform origin, float volume)
     {
-        StartCoroutine(PlaySoundAtLoop(audioClip, origin, volume));
+        cur = StartCoroutine(PlaySoundAtLoop(audioClip, origin, volume));
     }
 
     public void StopPlayingLoopSound()
     {
-        StopCoroutine("PlaySoundAtLoop");
+        StopCoroutine(cur);
     }
 
     private IEnumerator PlaySoundAtLoop(AudioClip audioClip, Transform origin, float volume)
@@ -58,5 +59,37 @@ public class SoundManager : MonoBehaviour
 
             yield return new WaitForSeconds(audioClip.length);
         }
+    }
+
+    private IEnumerator PlaySoundAtLoopWithDestr(AudioClip audioClip, Transform origin, float volume)
+    {
+        while (true)
+        {
+            PlaySoundFXClip(audioClip, origin, volume);
+
+            yield return new WaitForSeconds(audioClip.length);
+        }
+    }
+
+    public void StartPlayingLoopSoundWithDestr(AudioClip audioClip, Transform origin, float volume)
+    {
+        cur = StartCoroutine(PlaySoundAtLoopWithDestr(audioClip, origin, volume));
+    }
+
+    public void PlaySoundFXClipWithDestr(AudioClip audioClip, Transform origin, float volume)
+    {
+        var audioSource = Instantiate(soundFXObject, origin);
+
+        audioSource.transform.localPosition = Vector3.zero;
+
+        audioSource.volume = volume;
+
+        audioSource.clip = audioClip;
+
+        audioSource.Play();
+
+        var length = audioSource.clip.length;
+
+        Destroy(audioSource.gameObject, length);
     }
 }

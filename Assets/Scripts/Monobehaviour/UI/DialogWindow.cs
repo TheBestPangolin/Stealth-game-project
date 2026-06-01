@@ -56,18 +56,19 @@ public class DialogWindow : MonoBehaviour
     {
         SetText(dialog);
         Animator.SetBool("IsShowing", true);
-        hint.fontSize = 22;
+        hint.fontSize = 30;
     }
 
     private void HideDialog()
     {
         Animator.SetBool("IsShowing", false);
         hint.fontSize = 0;
+        Text.SetText("");
     }
 
     private void ReadDialogs(string path)
     {
-        var lines = Resources.Load<TextAsset>(path).text.Split("\n");
+        var lines = Resources.Load<TextAsset>("Dialogs/"+path).text.Split("\n");
         foreach (var line in lines)
         {
             DialogQueue.Enqueue(line);
@@ -78,7 +79,7 @@ public class DialogWindow : MonoBehaviour
     private void SetText(string text)
     {
         Text.SetText(text);
-        Size.anchoredPosition = new Vector2(Size.anchoredPosition.x, -Size.rect.height / 2 - 40);
+        Size.anchoredPosition = new Vector2(Size.anchoredPosition.x, -Size.rect.height / 2 - 75);
         hint.rectTransform.anchoredPosition = new Vector2(Size.anchoredPosition.x, -Size.rect.height - 40 - 30);
     }
 }

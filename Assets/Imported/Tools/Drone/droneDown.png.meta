@@ -1,11 +1,10 @@
 fileFormatVersion: 2
-guid: 4e0b9d19986c0fa4494a64728a726bf6
+guid: 334d353896866d54b83ec478798ef9d7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7143166918398313044
-    second: Nano Banana 2 - 2D game sprite_ pixel art_ transparent background_ size
-      32x32 or 64x64 pixelsGenerat (1)_0
+      213: 8193964038584298730
+    second: droneDown_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -114,14 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Nano Banana 2 - 2D game sprite_ pixel art_ transparent background_ size
-        32x32 or 64x64 pixelsGenerat (1)_0
+      name: droneDown_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 960
-        height: 1099
+        x: 174
+        y: 253
+        width: 612
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cadfb89a88f5edc90800000000000000
-      internalID: -7143166918398313044
+      spriteID: aec642e21eec6b170800000000000000
+      internalID: 8193964038584298730
       vertices: []
       indices: 
       edges: []
@@ -150,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Nano Banana 2 - 2D game sprite_ pixel art_ transparent background_ size 32x32 or 64x64 pixelsGenerat (1)_0: -7143166918398313044
+      droneDown_0: 8193964038584298730
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
