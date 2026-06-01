@@ -9,7 +9,7 @@ public class Buttons : MonoBehaviour
 
     public void PlayButton()
     {
-        SceneManager.LoadScene("Cutscene 1");
+        SceneManager.LoadScene("Cutscene1");
     }
 
     public void ExitButton()

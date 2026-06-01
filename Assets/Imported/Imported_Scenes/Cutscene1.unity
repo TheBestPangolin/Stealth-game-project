@@ -648,6 +648,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TypewriterText
   charactersPerSecond: 20
   startDelay: 0
+  fadeCanvasGroup: {fileID: 99766773}
 --- !u!1 &2010420679
 GameObject:
   m_ObjectHideFlags: 0

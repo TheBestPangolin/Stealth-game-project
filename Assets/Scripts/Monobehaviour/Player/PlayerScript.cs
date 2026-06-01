@@ -7,8 +7,8 @@ using UnityEngine.SceneManagement;
 public class PlayerScript : MonoBehaviour
 {
     public Animator Animator;
-    public LineOfThrowRenderer LineRend;
-    public SpriteRenderer InstrumentRenderer;
+    [SerializeField] public LineOfThrowRenderer LineRend;
+    [SerializeField] public SpriteRenderer InstrumentRenderer;
     Rigidbody2D rb;
     const float MoveSpeed = 7f;
     public Vector2 CurrentRespawnPoint => Player_container.CurrentRespawn;
@@ -36,7 +36,9 @@ public class PlayerScript : MonoBehaviour
         
         rb = GetComponent<Rigidbody2D>();
         rb.freezeRotation = true;
-        Player_container.CurrentRespawn = rb.position;
+        if (Player_container.CurrentRespawn == default)
+            Player_container.CurrentRespawn = rb.position;
+        rb.position = Player_container.CurrentRespawn;
         transform.position = CurrentRespawnPoint;
     }
 

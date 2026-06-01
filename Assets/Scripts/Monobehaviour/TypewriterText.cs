@@ -1,11 +1,17 @@
 using System.Collections;
 using TMPro;
 using UnityEngine;
+using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 public class TypewriterText : MonoBehaviour
 {
     [SerializeField] private float charactersPerSecond = 40f;
     [SerializeField] private float startDelay = 0f;
+
+    [SerializeField] CanvasGroup fadeCanvasGroup;
+
+    Coroutine TypeTextCoroutine;
 
     private TMP_Text textComponent;
     private string fullText;
@@ -18,7 +24,29 @@ public class TypewriterText : MonoBehaviour
 
     private void Start()
     {
-        StartCoroutine(TypeText());
+        StartCoroutine(Fade(1f, 0f, 1f));
+        TypeTextCoroutine = StartCoroutine(TypeText());
+    }
+
+    private void Update()
+    {
+        if (Mouse.current.leftButton.wasPressedThisFrame)
+        {
+            if (textComponent.maxVisibleCharacters == textComponent.textInfo.characterCount)
+            {
+                var name = SceneManager.GetActiveScene().name;
+                var number = int.Parse(name.Substring(name.Length - 1));
+                if (name.EndsWith("6"))
+                    SceneManager.LoadSceneAsync("Main Sketch");
+                else
+                    SceneManager.LoadScene(name.Substring(0, name.Length - 1) + (number + 1).ToString());
+            }
+            else
+            {
+                StopCoroutine(TypeTextCoroutine);
+                textComponent.maxVisibleCharacters = textComponent.textInfo.characterCount;
+            }
+        }
     }
 
     private IEnumerator TypeText()
@@ -39,5 +67,33 @@ public class TypewriterText : MonoBehaviour
             textComponent.maxVisibleCharacters = i;
             yield return new WaitForSeconds(delay);
         }
+    }
+
+    private IEnumerator Fade(float from, float to, float duration)
+    {
+        if (fadeCanvasGroup == null)
+            yield break;
+
+        if (duration <= 0f)
+        {
+            fadeCanvasGroup.alpha = to;
+            yield break;
+        }
+
+        float timer = 0f;
+        fadeCanvasGroup.alpha = from;
+
+        while (timer < duration)
+        {
+            timer += Time.deltaTime;
+            float progress = timer / duration;
+
+            fadeCanvasGroup.alpha = Mathf.Lerp(from, to, progress);
+
+            yield return null;
+        }
+
+        fadeCanvasGroup.alpha = to;
+        yield break;
     }
 }

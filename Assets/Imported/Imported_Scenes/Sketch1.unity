@@ -55988,6 +55988,18 @@ PrefabInstance:
       propertyPath: 'MovePointsTransform.Array.data[3]'
       value: 
       objectReference: {fileID: 298175410}
+    - target: {fileID: 9085546179095195243, guid: f871f7b274f88ce4f81b19ce1080e3d5, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9085546179095195243, guid: f871f7b274f88ce4f81b19ce1080e3d5, type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9085546179095195243, guid: f871f7b274f88ce4f81b19ce1080e3d5, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -148103,10 +148115,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 643627133507460082, guid: cc2f4f7fe75831443bbf82efeb10a903, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 2038248320}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cc2f4f7fe75831443bbf82efeb10a903, type: 3}
 --- !u!1 &1867168583
 GameObject:
@@ -148342,23 +148351,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 3490034832713980535, guid: 24dc4d09f4b76634da1fbc48dafd9ebb, type: 3}
   m_PrefabInstance: {fileID: 1196122054}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &2038248317 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 643627133507460082, guid: cc2f4f7fe75831443bbf82efeb10a903, type: 3}
-  m_PrefabInstance: {fileID: 1779896091}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &2038248320
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2038248317}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6b94a216fa247e74f97c2eef658a8b47, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::LineOfThrowRenderer
 --- !u!1 &2046012879
 GameObject:
   m_ObjectHideFlags: 0
