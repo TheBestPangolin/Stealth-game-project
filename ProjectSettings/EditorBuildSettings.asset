@@ -17,5 +17,26 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Imported/Imported_Scenes/Final.unity
     guid: f44550a77969149b681ebd2725c5e0e2
+  - enabled: 1
+    path: Assets/Imported/Imported_Scenes/Cutscene1.unity
+    guid: d651e3538b1fb472ba3726e3802890d1
+  - enabled: 1
+    path: Assets/Imported/Imported_Scenes/Cutscene2.unity
+    guid: 292a1c4b7e439493f943f9fa4d44cfec
+  - enabled: 1
+    path: Assets/Imported/Imported_Scenes/Cutscene3.unity
+    guid: eac7f37a27a5045b9829290e51effd9c
+  - enabled: 1
+    path: Assets/Imported/Imported_Scenes/Cutscene4.unity
+    guid: 9843a1ea3cb9940d58da8857fb78e311
+  - enabled: 1
+    path: Assets/Imported/Imported_Scenes/Cutscene5.unity
+    guid: 23ec9146f7c7942bbbbb601c6852b4d5
+  - enabled: 1
+    path: Assets/Imported/Imported_Scenes/Cutscene6.unity
+    guid: c5cf151348bcd4b7cb2581808d3dfdd4
+  - enabled: 1
+    path: Assets/Imported/Imported_Scenes/Kanal_Sketch.unity
+    guid: 2bcff8d571bb5494cb51ba261201a847
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

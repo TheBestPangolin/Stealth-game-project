@@ -16,5 +16,4 @@ MonoBehaviour:
   PathToDialogFile: 
   PickableInstruments: 000000000000000000000000
   TeleportLocation: {x: 0, y: 0}
-  Doors: []
   SceneName: 

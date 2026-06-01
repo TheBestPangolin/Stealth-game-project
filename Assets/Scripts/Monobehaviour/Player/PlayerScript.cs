@@ -1,4 +1,5 @@
 using System;
+using System.Linq;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
@@ -6,7 +7,8 @@ using UnityEngine.SceneManagement;
 public class PlayerScript : MonoBehaviour
 {
     public Animator Animator;
-    public int NPCCounter = 0;
+    public LineOfThrowRenderer LineRend;
+    public SpriteRenderer InstrumentRenderer;
     Rigidbody2D rb;
     const float MoveSpeed = 7f;
     public Vector2 CurrentRespawnPoint => Player_container.CurrentRespawn;
@@ -18,11 +20,14 @@ public class PlayerScript : MonoBehaviour
     /// </summary>
     string[] InstrumentNames = new[] { "Stone", "Smoke", "EMP" };
     [SerializeField] GameObject Instrument;
-    [SerializeField] int CurrentInstrument = 0;
+
+    int CurrentInstrument = -1;
     public int[] InstrumentCount;
 
     private void Awake()
     {
+        LineRend = GetComponentInChildren<LineOfThrowRenderer>();
+        InstrumentRenderer = GetComponentsInChildren<SpriteRenderer>().Where(r => r.gameObject.name.StartsWith("InstrumentRend")).First();
         InstrumentCount = new int[InstrumentNames.Length];
         InstrumentCount[0] = 1;
         InstrumentCount[1] = 1;
@@ -38,6 +43,7 @@ public class PlayerScript : MonoBehaviour
 
     void FixedUpdate()
     {
+        LineRend.SetStart(transform.position);
         if (!Animator.GetBool("IsDead"))
         {
             // Логика движения
@@ -46,6 +52,16 @@ public class PlayerScript : MonoBehaviour
 
             // Логика слежения модельки за курсором мыши
             var mousePos = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
+
+            if (CurrentInstrument >= 0)
+            {
+                LineRend.DrawLineOfThrow(mousePos);
+                InstrumentRenderer.sprite = Resources.Load<Sprite>($"Instrument/{InstrumentNames[CurrentInstrument]}");
+                InstrumentRenderer.transform.localPosition = mousePos - transform.position;
+            }
+            else
+                LineRend.StopDrawing();
+
             var lookVector = new Vector2(mousePos.x, mousePos.y) - newPos;
 
             AnimationMethods.ChangeAnimation(Animator, moveVector != Vector2.zero, lookVector, moveVector);
@@ -118,6 +134,8 @@ public class PlayerScript : MonoBehaviour
         {
             CurrentInstrument = -1;
             HolsterHint.DisableHint();
+            LineRend.StopDrawing();
+            InstrumentRenderer.sprite = null;
         }
     }
 
@@ -134,6 +152,8 @@ public class PlayerScript : MonoBehaviour
             instrument.InstrumentIndex = CurrentInstrument;
             CurrentInstrument = -1;
             HolsterHint.DisableHint();
+            LineRend.StopDrawing();
+            InstrumentRenderer.sprite = null;
         }
     }
 
@@ -154,4 +174,6 @@ public class PlayerScript : MonoBehaviour
     {
         rb.position = position;
     }
+
+
 }

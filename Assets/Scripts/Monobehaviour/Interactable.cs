@@ -48,7 +48,7 @@ public class Interactable : MonoBehaviour
                     player.Interact = () =>
                     {
                         player.PickUp(Info.PickableInstruments);
-                        player.NPCCounter++;
+                        Player_container.NPCCounter++;
                         Destroy(gameObject);
                     };
                     hint = "[E] - Помочь";

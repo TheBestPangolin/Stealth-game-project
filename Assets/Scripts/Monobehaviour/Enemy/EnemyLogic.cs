@@ -21,9 +21,9 @@ public class EnemyLogic : MonoBehaviour
     public Vector3 LookVector;
     [SerializeField] float MoveSpeed = 0;
     double StunTime = 0;
-    bool IsChasing = false;
+    public bool IsChasing = false;
     public Vector2 Target;
-    public const float Distance = 15f;
+    public const float Distance = 10f;
     public const float Angle = 45f;
 
     private GameObject Player;
