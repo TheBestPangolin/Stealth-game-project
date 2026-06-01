@@ -59,11 +59,7 @@ public class PlayerScript : MonoBehaviour
 
                 if (CurrentInstrument >= 0)
                 {
-                    var vect = mousePos - transform.position;
-                    var hit = Physics2D.Raycast(rb.position, vect, vect.magnitude, (LayerMask)7);
                     var hitpos = mousePos;
-                    if (hit)
-                        hitpos = hit.point;
                     LineRend.DrawLineOfThrow(hitpos);
                     InstrumentRenderer.sprite = Resources.Load<Sprite>($"Instrument/{InstrumentNames[CurrentInstrument]}");
                     InstrumentRenderer.transform.localPosition = mousePos - transform.position;

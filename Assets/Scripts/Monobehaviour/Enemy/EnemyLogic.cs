@@ -33,7 +33,9 @@ public class EnemyLogic : MonoBehaviour
     {
         Animator = GetComponentInChildren<Animator>();
         StartPoint = new Vector2(transform.position.x, transform.position.y);
-        var agent = GetComponent<NavMeshAgent>();
+        NavMeshAgent agent = null;
+        if (!name.StartsWith("camera"))
+            agent = GetComponent<NavMeshAgent>();
         var rb = GetComponent<Rigidbody2D>();
         if (name.StartsWith("melee"))
         {
@@ -49,11 +51,14 @@ public class EnemyLogic : MonoBehaviour
             Entity = new CameraEnemy(rb, Animator);
         else if (name.StartsWith("laser"))
             Entity = new LaserEnemy(rb, Animator);
-        agent.updateRotation = false;
-        agent.updateUpAxis = false;
-        agent.acceleration = MoveSpeed * 30;
-        agent.stoppingDistance = 0;
-        agent.autoBraking = false;
+        if (!name.StartsWith("camera"))
+        {
+            agent.updateRotation = false;
+            agent.updateUpAxis = false;
+            agent.acceleration = MoveSpeed * 30;
+            agent.stoppingDistance = 0;
+            agent.autoBraking = false;
+        }
         Player = GameObject.FindGameObjectWithTag("Player");
 
         if (IsDynamic)

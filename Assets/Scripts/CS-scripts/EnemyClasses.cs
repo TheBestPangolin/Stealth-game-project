@@ -91,15 +91,22 @@ public class ShootEnemy : DynamicEnemy
 
 public class CameraEnemy : StaticEnemy
 {
-
+    MyTimer Overheat = new MyTimer();
+    bool IsOverheated;
     public CameraEnemy(Rigidbody2D rigidbody, Animator animator) : base(rigidbody, animator)
     {
         StunTime = 3;
+        Overheat.OnElapsed = () => IsOverheated = false;
     }
 
     public override void OnDetect(Vector2 target)
     {
-        SoundMethods.MakeAlarmSound(Rigidbody.position, 30f);
+        if (!IsStunned && !IsOverheated)
+        {
+            SoundMethods.MakeAlarmSound(Rigidbody.position, 30f);
+            IsOverheated = true;
+            Overheat.Start(1f);
+        }
     }
 }
 
