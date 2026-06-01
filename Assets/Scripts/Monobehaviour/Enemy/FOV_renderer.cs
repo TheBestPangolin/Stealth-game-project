@@ -21,8 +21,8 @@ public class FOV_renderer : MonoBehaviour
         CircleRenderer.positionCount = steps + 3;
         CircleRenderer.useWorldSpace = false; // Оставляем false
 
-        CircleRenderer.startColor = Enemy.IsChasing ? Color.green : Color.red;
-        CircleRenderer.endColor = Enemy.IsChasing ? Color.green : Color.red;
+        CircleRenderer.startColor = Enemy.IsSeeing ? Color.green : Color.red;
+        CircleRenderer.endColor = Enemy.IsSeeing ? Color.green : Color.red;
 
         // Угол сектора (например, 90 градусов)
         float sectorAngleDegrees = 90f;

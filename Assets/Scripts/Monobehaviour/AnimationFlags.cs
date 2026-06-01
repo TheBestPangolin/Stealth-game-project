@@ -49,4 +49,10 @@ public class AnimationFlags : MonoBehaviour
         var parent = GetComponentInParent<PlayerScript>();
         parent.Animator.SetBool("IsDead", true);
     }
+
+    void Smoke()
+    {
+
+        SoundManager.instance.PlaySoundFXClip(Resources.Load<AudioClip>("Sounds/Smoke"), transform.parent, Player_container.MasterVolume * Player_container.SoundVolume);
+    }
 }

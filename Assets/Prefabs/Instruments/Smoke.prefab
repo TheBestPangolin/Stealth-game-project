@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4400115066204648084}
   - component: {fileID: 8070792112906736857}
   - component: {fileID: 7681869871237814185}
+  - component: {fileID: 8190534246878345470}
   m_Layer: 7
   m_Name: Circle
   m_TagString: Untagged
@@ -114,6 +115,18 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &8190534246878345470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 486026535112814747}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e206dbdd70b3e7449beadda268537f1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AnimationFlags
 --- !u!1 &2878873235088966682
 GameObject:
   m_ObjectHideFlags: 0
@@ -141,8 +154,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 18.35532, y: 23.38717, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 4, y: 4, z: 4}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 4400115066204648084}
   m_Father: {fileID: 0}
