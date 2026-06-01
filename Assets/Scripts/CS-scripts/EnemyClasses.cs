@@ -53,7 +53,7 @@ public class MeleeEnemy : DynamicEnemy
 {
     public MeleeEnemy(NavMeshAgent agent, Rigidbody2D rigidbody, Animator animator) : base(agent, rigidbody, animator)
     {
-        StunTime = 2;
+        StunTime = 3;
         Agent.speed = 5f;
     }
 

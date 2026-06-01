@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class PlayerScript : MonoBehaviour
 {
     public Animator Animator;
+    public int NPCCounter = 0;
     Rigidbody2D rb;
     const float MoveSpeed = 7f;
     public Vector2 CurrentRespawnPoint => Player_container.CurrentRespawn;

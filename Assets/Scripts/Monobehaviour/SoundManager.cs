@@ -24,6 +24,8 @@ public class SoundManager : MonoBehaviour
     {
         var audioSource = Instantiate(soundFXObject, origin);
 
+        DontDestroyOnLoad(audioSource);
+
         audioSource.transform.localPosition = Vector3.zero;
 
         audioSource.volume = volume;
@@ -39,16 +41,7 @@ public class SoundManager : MonoBehaviour
 
     public void StartPlayingLoopSound(AudioClip audioClip, Transform origin, float volume)
     {
-        if (this == null)
-        {
-            Debug.LogError("SoundManager instance is null!");
-            return;
-        }
-        if (!gameObject.activeInHierarchy)
-        {
-            Debug.LogError($"SoundManager gameObject is inactive! Active: {gameObject.activeInHierarchy}");
-        }
-            StartCoroutine(PlaySoundAtLoop(audioClip, origin, volume)); //����� ��������� NullReferenceException
+        StartCoroutine(PlaySoundAtLoop(audioClip, origin, volume));
     }
 
     public void StopPlayingLoopSound()
