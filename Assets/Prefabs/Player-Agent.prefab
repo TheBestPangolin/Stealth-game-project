@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8511973475776665155}
   - component: {fileID: 2257133206665398756}
+  - component: {fileID: 6397899453283541454}
   m_Layer: 6
   m_Name: LineRend
   m_TagString: Untagged
@@ -142,6 +143,18 @@ LineRenderer:
   m_UseWorldSpace: 1
   m_Loop: 0
   m_ApplyActiveColorSpace: 1
+--- !u!114 &6397899453283541454
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 643627133507460082}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b94a216fa247e74f97c2eef658a8b47, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::LineOfThrowRenderer
 --- !u!1 &1888213737097385280
 GameObject:
   m_ObjectHideFlags: 0
@@ -411,8 +424,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
   Animator: {fileID: 0}
   LineRend: {fileID: 0}
-  InstrumentRenderer: {fileID: 0}
+  InstrumentRenderer: {fileID: 5731146498323599937}
   Instrument: {fileID: 2080137353796009438, guid: ccaa1aa6b3ab71544b7dcfd863111cc6, type: 3}
+  CurrentInstrument: -1
   InstrumentCount: 
 --- !u!50 &3923500618866832895
 Rigidbody2D:

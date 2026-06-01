@@ -27,7 +27,7 @@ public class AnimationFlags : MonoBehaviour
         var parent = GetComponentInParent<EnemyLogic>();
         var bulletObj = Instantiate(Resources.Load<GameObject>("Bullet"), parent.Entity.Rigidbody.position, Quaternion.LookRotation(Vector3.zero));
         bulletObj.GetComponent<Bullet>().EndPosition = parent.Target;
-        SoundManager.instance.PlaySoundFXClip(Resources.Load<AudioClip>("Sounds/shot"), parent.transform, 0.5f);
+        SoundManager.instance.PlaySoundFXClip(Resources.Load<AudioClip>("Sounds/shot"), parent.transform, 0.5f * Player_container.MasterVolume * Player_container.SoundVolume);
     }
 
     void StopShooting()
@@ -35,7 +35,7 @@ public class AnimationFlags : MonoBehaviour
         var parent = GetComponentInParent<EnemyLogic>();
         (parent.Entity as DynamicEnemy).Agent.isStopped = false;
         parent.Entity.Animator.SetBool("IsShootPlaying", false);
-        SoundManager.instance.PlaySoundFXClip(Resources.Load<AudioClip>("Sounds/reload"), parent.transform, 1);
+        SoundManager.instance.PlaySoundFXClip(Resources.Load<AudioClip>("Sounds/reload"), parent.transform, Player_container.MasterVolume * Player_container.SoundVolume);
     }
 
     void Respawn()
@@ -48,5 +48,11 @@ public class AnimationFlags : MonoBehaviour
     {
         var parent = GetComponentInParent<PlayerScript>();
         parent.Animator.SetBool("IsDead", true);
+    }
+
+    void Smoke()
+    {
+
+        SoundManager.instance.PlaySoundFXClip(Resources.Load<AudioClip>("Sounds/Smoke"), transform.parent, Player_container.MasterVolume * Player_container.SoundVolume);
     }
 }

@@ -10,6 +10,7 @@ public class SoundManager : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Awake()
     {
+        DontDestroyOnLoad(gameObject);
         if (instance == null)
             instance = this;
     }

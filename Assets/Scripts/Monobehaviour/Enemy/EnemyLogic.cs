@@ -25,6 +25,7 @@ public class EnemyLogic : MonoBehaviour
     public Vector2 Target;
     public const float Distance = 10f;
     public const float Angle = 45f;
+    public bool IsSeeing;
 
     private GameObject Player;
 
@@ -62,7 +63,8 @@ public class EnemyLogic : MonoBehaviour
                 MovePointsTransform = new[] { transform };
             dynamic.GoNext(ConvertLocal3DToWorld2D(MovePointsTransform[CurPoint].localPosition));
         }
-        FOV_Checker = new FOV_Logic(Distance, Angle, Walls, Player, () => transform.position, () => LookVector, target => Entity.OnDetect(target), StartChase, SetTarget);
+        FOV_Checker = new FOV_Logic(Distance, Angle, Walls, Player, () => transform.position, () => LookVector, 
+            target => Entity.OnDetect(target), StartChase, SetTarget, b => IsSeeing = b);
         StartCoroutine(FOV_Checker.FOV_Coroutine());
     }
 

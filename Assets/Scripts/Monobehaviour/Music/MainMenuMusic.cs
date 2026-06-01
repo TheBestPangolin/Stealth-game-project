@@ -18,7 +18,7 @@ public class MainMenuMusic : MonoBehaviour
             
             if (instance is not null)
             {
-                instance.StartPlayingLoopSound(Resources.Load<AudioClip>("Music/main"), transform.parent, 1);
+                instance.StartPlayingLoopSound(Resources.Load<AudioClip>("Music/main"), transform.parent, Player_container.MasterVolume * Player_container.MusicVolume);
                 IsPlaying = true;
             }
         }

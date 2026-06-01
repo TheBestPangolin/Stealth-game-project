@@ -14,6 +14,7 @@ public class DialogWindow : MonoBehaviour
     private TMP_Text Text;
     private Animator Animator;
     private RectTransform Size;
+    [SerializeField] TMP_Text hint;
 
     private Queue<string> DialogQueue = new Queue<string>();
 
@@ -22,6 +23,7 @@ public class DialogWindow : MonoBehaviour
         Text = GetComponentInChildren<TMP_Text>();
         Animator = GetComponent<Animator>();
         Size = GetComponent<RectTransform>();
+        hint.fontSize = 0;
     }
 
     private void OnEnable()
@@ -54,11 +56,13 @@ public class DialogWindow : MonoBehaviour
     {
         SetText(dialog);
         Animator.SetBool("IsShowing", true);
+        hint.fontSize = 22;
     }
 
     private void HideDialog()
     {
         Animator.SetBool("IsShowing", false);
+        hint.fontSize = 0;
     }
 
     private void ReadDialogs(string path)
@@ -75,5 +79,6 @@ public class DialogWindow : MonoBehaviour
     {
         Text.SetText(text);
         Size.anchoredPosition = new Vector2(Size.anchoredPosition.x, -Size.rect.height / 2 - 40);
+        hint.rectTransform.anchoredPosition = new Vector2(Size.anchoredPosition.x, -Size.rect.height - 40 - 30);
     }
 }

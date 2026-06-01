@@ -24,7 +24,10 @@ public class FOV_Logic
     public bool SawLastIteration;
     public Action<Vector2> SetTarget;
 
-    public FOV_Logic(float viewDistance, float viewAngle, LayerMask walls, GameObject player, Func<Vector3> position, Func<Vector3> up, Action<Vector2> onDetect, Action startChase, Action<Vector2> setTarget)
+    private Action<bool> SetIsSeeing;
+
+    public FOV_Logic(float viewDistance, float viewAngle, LayerMask walls, 
+        GameObject player, Func<Vector3> position, Func<Vector3> up, Action<Vector2> onDetect, Action startChase, Action<Vector2> setTarget, Action<bool> setIsSeeing)
     {
         ViewDistance = viewDistance;
         ViewAngle = viewAngle;
@@ -35,6 +38,7 @@ public class FOV_Logic
         OnDetect = onDetect;
         StartChase = startChase;
         SetTarget = setTarget;
+        SetIsSeeing = setIsSeeing;
     }
 
     public IEnumerator FOV_Coroutine()
@@ -51,6 +55,7 @@ public class FOV_Logic
             if (!PauseGame.isPaused && FOV_Check(playerPos, myPos, up))
             {
                 SawLastIteration = true;
+                SetIsSeeing(true);
                 StartChase();
                 OnDetect(playerPos);
                 SetTarget(playerPos);
@@ -58,6 +63,7 @@ public class FOV_Logic
             else
             {
                 SawLastIteration = false;
+                SetIsSeeing(false);
             }
         }
     }
