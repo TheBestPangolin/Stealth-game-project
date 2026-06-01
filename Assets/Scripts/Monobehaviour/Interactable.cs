@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 
 public class Interactable : MonoBehaviour
@@ -30,7 +29,7 @@ public class Interactable : MonoBehaviour
             switch (Info.Type)
             {
                 case 0:
-                    player.Interact += () =>
+                    player.Interact = () =>
                     {
                         player.PickUp(Info.PickableInstruments);
                         Destroy(gameObject);
@@ -38,14 +37,14 @@ public class Interactable : MonoBehaviour
                     hint = "[E] - Подобрать";
                     break;
                 case 1:
-                    player.Interact += () =>
+                    player.Interact = () =>
                     {
                         DialogWindow.ReadFileDialogs(Info.PathToDialogFile);
                     };
                     hint = "[E] - Поговорить";
                     break;
                 case 2:
-                    player.Interact += () =>
+                    player.Interact = () =>
                     {
                         player.PickUp(Info.PickableInstruments);
                         Destroy(gameObject);
@@ -53,14 +52,14 @@ public class Interactable : MonoBehaviour
                     hint = "[E] - Помочь";
                     break;
                 case 3:
-                    player.Interact += () =>
+                    player.Interact = () =>
                     {
                         player.ChangePosition(Info.TeleportLocation);
                     };
                     hint = "[E] - Перейти";
                     break;
                 case 4:
-                    player.Interact += () =>
+                    player.Interact = () =>
                     {
                         foreach (var door in Info.Doors)
                             door.ActuatedSwitches++;
@@ -68,7 +67,7 @@ public class Interactable : MonoBehaviour
                     hint = "[E] - Переключить рубильник";
                     break;
             }
-
+            
             TextHint.DisplayHint?.Invoke(hint);
         }
     }
