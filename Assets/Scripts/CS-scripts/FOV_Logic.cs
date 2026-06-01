@@ -69,8 +69,7 @@ public class FOV_Logic
         var hit = Physics2D.Raycast(myPos, direction, distance, Walls, -10, 50);
         return (distance <= ViewDistance
                     && Vector2.Angle(up, direction) < ViewAngle
-                    && hit.collider == null)
-                    || distance <= 5f;
+                    && hit.collider == null);
     }
 
 }

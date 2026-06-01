@@ -18,11 +18,13 @@ public class EnemyLogic : MonoBehaviour
     private double epsilon = 0.1;
     private FOV_Logic FOV_Checker;
     public LayerMask Walls = 7;
-    private Vector3 LookVector;
+    public Vector3 LookVector;
     [SerializeField] float MoveSpeed = 0;
     double StunTime = 0;
     bool IsChasing = false;
     public Vector2 Target;
+    public const float Distance = 15f;
+    public const float Angle = 45f;
 
     private GameObject Player;
 
@@ -56,10 +58,11 @@ public class EnemyLogic : MonoBehaviour
         if (IsDynamic)
         {
             var dynamic = Entity as DynamicEnemy;
-            if (MovePointsTransform.Length > 0)
-                dynamic.GoNext(ConvertLocal3DToWorld2D(MovePointsTransform[CurPoint].localPosition));
+            if (MovePointsTransform.Length == 0)
+                MovePointsTransform = new[] { transform };
+            dynamic.GoNext(ConvertLocal3DToWorld2D(MovePointsTransform[CurPoint].localPosition));
         }
-        FOV_Checker = new FOV_Logic(15f, 45f, Walls, Player, () => transform.position, () => LookVector, target => Entity.OnDetect(target), StartChase, SetTarget);
+        FOV_Checker = new FOV_Logic(Distance, Angle, Walls, Player, () => transform.position, () => LookVector, target => Entity.OnDetect(target), StartChase, SetTarget);
         StartCoroutine(FOV_Checker.FOV_Coroutine());
     }
 
@@ -77,7 +80,7 @@ public class EnemyLogic : MonoBehaviour
             var dynamic = Entity as DynamicEnemy;
             LookVector = dynamic.Agent.desiredVelocity;
             if (!Animator.GetBool("IsShootPlaying"))
-                AnimationMethods.ChangeAnimation(Animator, true, LookVector);
+                AnimationMethods.ChangeAnimation(Animator, MovePointsTransform.Length > 1 || IsChasing, LookVector);
             if (dynamic.Agent.remainingDistance <= epsilon)
             {
                 if (IsChasing)

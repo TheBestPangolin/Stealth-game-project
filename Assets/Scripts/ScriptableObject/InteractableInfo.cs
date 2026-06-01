@@ -10,6 +10,8 @@ public class InteractableInfo : ScriptableObject
     /// 2 = Полумёртвый НПС;
     /// 3 = Переход;
     /// 4 = Рубильник
+    /// 5 = переход на сцену
+    /// 6 = ключ
     /// </summary>
     public int Type;
 
@@ -24,5 +26,5 @@ public class InteractableInfo : ScriptableObject
 
     public Vector2 TeleportLocation;
 
-    public Door[] Doors;
+    public string SceneName;
 }

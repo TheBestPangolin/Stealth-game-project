@@ -1,14 +1,15 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Interactable : MonoBehaviour
 {
-
+    [SerializeField] public Door[] Doors;
     [SerializeField] private InteractableInfo Info;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        if (Info.Type == 4)
-            foreach (var door in Info.Doors)
+        if (Info.Type == 4 || Info.Type == 6)
+            foreach (var door in Doors)
                 door.NumbOfSwitches++;
     }
 
@@ -32,7 +33,7 @@ public class Interactable : MonoBehaviour
                     player.Interact = () =>
                     {
                         player.PickUp(Info.PickableInstruments);
-                        Destroy(gameObject);
+                        Destroy(transform.parent.gameObject);
                     };
                     hint = "[E] - Подобрать";
                     break;
@@ -47,6 +48,7 @@ public class Interactable : MonoBehaviour
                     player.Interact = () =>
                     {
                         player.PickUp(Info.PickableInstruments);
+                        player.NPCCounter++;
                         Destroy(gameObject);
                     };
                     hint = "[E] - Помочь";
@@ -61,10 +63,26 @@ public class Interactable : MonoBehaviour
                 case 4:
                     player.Interact = () =>
                     {
-                        foreach (var door in Info.Doors)
+                        foreach (var door in Doors)
                             door.ActuatedSwitches++;
                     };
                     hint = "[E] - Переключить рубильник";
+                    break;
+                case 5:
+                    player.Interact = () =>
+                    {
+                        SceneManager.LoadScene(Info.SceneName);
+                    };
+                    hint = "[E] - Перейти";
+                    break;
+                case 6:
+                    player.Interact = () =>
+                    {
+                        foreach (var door in Doors)
+                            door.ActuatedSwitches++;
+                        Destroy(transform.parent.gameObject);
+                    };
+                    hint = "[E] - Подобрать";
                     break;
             }
             
