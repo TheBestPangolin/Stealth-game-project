@@ -18,7 +18,7 @@ public class MainLevelMusic : MonoBehaviour
 
             if (instance is not null)
             {
-                instance.StartPlayingLoopSound(Resources.Load<AudioClip>("Music/mainlvl"), transform.parent, Player_container.MasterVolume * Player_container.MusicVolume);
+                instance.StartPlayingLoopSound(Resources.Load<AudioClip>("Music/mainlvl"), transform.parent, Player_container.MasterVolume * Player_container.MusicVolume * 1.25f);
                 IsPlaying = true;
             }
         }
