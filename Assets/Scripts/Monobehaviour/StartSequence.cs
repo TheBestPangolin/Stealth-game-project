@@ -7,8 +7,8 @@ public class StartSequence : MonoBehaviour
     {
         foreach (var obj in GameObject.FindGameObjectsWithTag("Enemy"))
         {
-            obj.transform.localScale = new Vector3(5, 5, 5);
+            obj.transform.localScale = new Vector3(6, 6, 6);
         }
-        GameObject.FindGameObjectWithTag("Player").transform.localScale = new Vector3(5, 5, 5);
+        GameObject.FindGameObjectWithTag("Player").transform.localScale = new Vector3(6, 6, 6);
     }
 }
