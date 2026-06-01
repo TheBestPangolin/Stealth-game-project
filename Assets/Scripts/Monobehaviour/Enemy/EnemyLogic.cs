@@ -146,7 +146,7 @@ public class EnemyLogic : MonoBehaviour
         if (Entity is MeleeEnemy)
         {
             var temp = Entity as MeleeEnemy;
-            temp.Agent.speed = MoveSpeed * 1.75f;
+            temp.Agent.speed = MoveSpeed * 1.5f;
         }
     }
 

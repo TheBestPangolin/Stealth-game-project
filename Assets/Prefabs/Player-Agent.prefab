@@ -91,8 +91,8 @@ LineRenderer:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
-        time: 0.18156251
-        value: 0.018867493
+        time: 0.18993959
+        value: 0.050315857
         inSlope: 0
         outSlope: 0
         tangentMode: 0
@@ -410,9 +410,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
   Animator: {fileID: 0}
-  NPCCounter: 0
+  LineRend: {fileID: 0}
+  InstrumentRenderer: {fileID: 0}
   Instrument: {fileID: 2080137353796009438, guid: ccaa1aa6b3ab71544b7dcfd863111cc6, type: 3}
-  CurrentInstrument: 0
   InstrumentCount: 
 --- !u!50 &3923500618866832895
 Rigidbody2D:
@@ -475,6 +475,6 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.26, y: -0.1}
+  m_Offset: {x: 0, y: -0.1}
   m_Size: {x: 0.32, y: 0.36}
   m_Direction: 0

@@ -1,8 +1,5 @@
 using System.Linq;
-using Unity.VisualScripting;
 using UnityEngine;
-using static UnityEditor.PlayerSettings;
-using static UnityEditor.ShaderGraph.Internal.KeywordDependentCollection;
 
 public class Instrument : MonoBehaviour
 {

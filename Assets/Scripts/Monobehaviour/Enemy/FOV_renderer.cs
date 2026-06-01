@@ -13,7 +13,7 @@ public class FOV_renderer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        DrawCircleSector(32, EnemyLogic.Distance, Enemy.LookVector);
+        DrawCircleSector(32, EnemyLogic.Distance / transform.parent.localScale.x, Enemy.LookVector);
     }
 
     void DrawCircleSector(int steps, float radius, Vector2 lookVector)

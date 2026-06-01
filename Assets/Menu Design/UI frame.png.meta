@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 664ed934de6af0641a1df2e1acfdb2ea
+guid: 184f3be50ff10dc42b48fd8982bd33ba
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 477844717683327468
-    second: "ChatGPT Image 28 \u043C\u0430\u044F 2026 \u0433., 20_02_17_0"
+      213: -7193164924684390461
+    second: UI frame_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "ChatGPT Image 28 \u043C\u0430\u044F 2026 \u0433., 20_02_17_0"
+      name: UI frame_0
       rect:
         serializedVersion: 2
-        x: 75
-        y: 54
-        width: 1435
-        height: 953
+        x: 77
+        y: 212
+        width: 1384
+        height: 610
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 300, y: 300, z: 300, w: 300}
+      border: {x: 127, y: 131, z: 127, w: 131}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ce1cf4f2d35a1a600800000000000000
-      internalID: 477844717683327468
+      spriteID: 3cf236dac9ebc2c90800000000000000
+      internalID: -7193164924684390461
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e3d9a9d3127efb4c863b8db71008981
+    spriteID: 5970b216e51f82f428890b3d4a101681
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "ChatGPT Image 28 \u043C\u0430\u044F 2026 \u0433., 20_02_17_0": 477844717683327468
+      UI frame_0: -7193164924684390461
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

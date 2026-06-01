@@ -21,7 +21,7 @@ public class PlayerScript : MonoBehaviour
     string[] InstrumentNames = new[] { "Stone", "Smoke", "EMP" };
     [SerializeField] GameObject Instrument;
 
-    int CurrentInstrument = -1;
+    public int CurrentInstrument = -1;
     public int[] InstrumentCount;
 
     private void Awake()
@@ -55,7 +55,12 @@ public class PlayerScript : MonoBehaviour
 
             if (CurrentInstrument >= 0)
             {
-                LineRend.DrawLineOfThrow(mousePos);
+                var vect = mousePos - transform.position;
+                var hit = Physics2D.Raycast(rb.position, vect, vect.magnitude, 7);
+                var hitpos = mousePos;
+                if (hit)
+                    hitpos = hit.point;
+                LineRend.DrawLineOfThrow(hitpos);
                 InstrumentRenderer.sprite = Resources.Load<Sprite>($"Instrument/{InstrumentNames[CurrentInstrument]}");
                 InstrumentRenderer.transform.localPosition = mousePos - transform.position;
             }
