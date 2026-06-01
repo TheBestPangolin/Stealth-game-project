@@ -794,9 +794,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a8820647fefec7488bc7ef5107b1b8d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Buttons
-  firstCutsceneSceneName: Cutscene1
-  fadeCanvasGroup: {fileID: 0}
-  fadeOutDuration: 1
 --- !u!1 &1582746834
 GameObject:
   m_ObjectHideFlags: 0
@@ -1156,6 +1153,7 @@ GameObject:
   - component: {fileID: 2141955322}
   - component: {fileID: 2141955321}
   - component: {fileID: 2141955323}
+  - component: {fileID: 2141955324}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -1242,6 +1240,18 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &2141955324
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2141955319}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5bdeb45df9af1b4b82d8c95692ae579, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
 --- !u!1001 &3642429667213157765
 PrefabInstance:
   m_ObjectHideFlags: 0

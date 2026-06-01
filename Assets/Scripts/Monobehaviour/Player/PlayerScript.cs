@@ -43,46 +43,49 @@ public class PlayerScript : MonoBehaviour
 
     void FixedUpdate()
     {
-        LineRend.SetStart(transform.position);
-        if (!Animator.GetBool("IsDead"))
+        if (!PauseGame.isPaused)
         {
-            // Логика движения
-            var moveVector = GetMovementVector() * MoveSpeed;
-            var newPos = rb.position + moveVector * Time.fixedDeltaTime;
-
-            // Логика слежения модельки за курсором мыши
-            var mousePos = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
-
-            if (CurrentInstrument >= 0)
+            LineRend.SetStart(transform.position);
+            if (!Animator.GetBool("IsDead"))
             {
-                var vect = mousePos - transform.position;
-                var hit = Physics2D.Raycast(rb.position, vect, vect.magnitude, 7);
-                var hitpos = mousePos;
-                if (hit)
-                    hitpos = hit.point;
-                LineRend.DrawLineOfThrow(hitpos);
-                InstrumentRenderer.sprite = Resources.Load<Sprite>($"Instrument/{InstrumentNames[CurrentInstrument]}");
-                InstrumentRenderer.transform.localPosition = mousePos - transform.position;
+                // Логика движения
+                var moveVector = GetMovementVector() * MoveSpeed;
+                var newPos = rb.position + moveVector * Time.fixedDeltaTime;
+
+                // Логика слежения модельки за курсором мыши
+                var mousePos = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
+
+                if (CurrentInstrument >= 0)
+                {
+                    var vect = mousePos - transform.position;
+                    var hit = Physics2D.Raycast(rb.position, vect, vect.magnitude, 7);
+                    var hitpos = mousePos;
+                    if (hit)
+                        hitpos = hit.point;
+                    LineRend.DrawLineOfThrow(hitpos);
+                    InstrumentRenderer.sprite = Resources.Load<Sprite>($"Instrument/{InstrumentNames[CurrentInstrument]}");
+                    InstrumentRenderer.transform.localPosition = mousePos - transform.position;
+                }
+                else
+                    LineRend.StopDrawing();
+
+                var lookVector = new Vector2(mousePos.x, mousePos.y) - newPos;
+
+                AnimationMethods.ChangeAnimation(Animator, moveVector != Vector2.zero, lookVector, moveVector);
+                // Передвижение 
+                rb.MovePosition(newPos);
+
+                // Слежение камеры за игроком
+                Camera.main.transform.position = new Vector3(rb.position.x, rb.position.y, -10);
+
+                ChangeEquipment();
             }
-            else
-                LineRend.StopDrawing();
-
-            var lookVector = new Vector2(mousePos.x, mousePos.y) - newPos;
-
-            AnimationMethods.ChangeAnimation(Animator, moveVector != Vector2.zero, lookVector, moveVector);
-            // Передвижение 
-            rb.MovePosition(newPos);
-
-            // Слежение камеры за игроком
-            Camera.main.transform.position = new Vector3(rb.position.x, rb.position.y, -10);
-
-            ChangeEquipment();
         }
     }
 
     private void Update()
     {
-        if (!Animator.GetBool("IsDead"))
+        if (!Animator.GetBool("IsDead") && !PauseGame.isPaused)
         {
             if (Mouse.current.leftButton.wasPressedThisFrame)
                 CheckThrow();

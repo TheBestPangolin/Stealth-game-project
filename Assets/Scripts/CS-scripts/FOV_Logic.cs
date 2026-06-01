@@ -48,7 +48,7 @@ public class FOV_Logic
             var playerPos = Player.transform.position;
             var myPos = Position();
             var up = Up();
-            if (FOV_Check(playerPos, myPos, up))
+            if (!PauseGame.isPaused && FOV_Check(playerPos, myPos, up))
             {
                 SawLastIteration = true;
                 StartChase();
