@@ -59,7 +59,7 @@ public class PlayerScript : MonoBehaviour
 
                 if (CurrentInstrument >= 0)
                 {
-                    var vect = mousePos - transform.position;
+                    var vect = - mousePos + transform.position;
                     var hit = Physics2D.Raycast(rb.position, vect, vect.magnitude, 7);
                     var hitpos = mousePos;
                     if (hit)
