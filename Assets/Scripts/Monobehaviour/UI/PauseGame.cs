@@ -49,6 +49,12 @@ public class PauseGame : MonoBehaviour
     public void ReturnToMain()
     {
         Time.timeScale = 1;
+        Menu.SetActive(false);
+        isPaused = false;
+        HideSettings();
+        Player_container.MusicVolume = 1.0f;
+        Player_container.MasterVolume = 1.0f;
+        Player_container.SoundVolume = 1.0f;
         SceneManager.LoadScene("Main-Menu");
     }
 

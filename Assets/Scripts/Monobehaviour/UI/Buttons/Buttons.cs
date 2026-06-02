@@ -17,6 +17,7 @@ public class Buttons : MonoBehaviour
     public void PlayButton()
     {
         SceneManager.LoadScene("Cutscene1");
+        Player_container.SetDefault();
     }
 
     public void ExitButton()
