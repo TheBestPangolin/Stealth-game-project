@@ -74,9 +74,8 @@ public class DialogWindow : MonoBehaviour
         {
             var lines = Resources.Load<TextAsset>("Dialogs/" + path).text.Split("\n");
             foreach (var line in lines)
-            {
-                DialogQueue.Enqueue(line);
-            }
+                if (line.Length > 0)
+                    DialogQueue.Enqueue(line);
             ShowDialog(DialogQueue.Dequeue());
         }
     }
