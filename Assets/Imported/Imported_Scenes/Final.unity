@@ -14754,7 +14754,7 @@ TilemapRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: -1251235681
-  m_SortingLayer: 10
+  m_SortingLayer: 11
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
@@ -14939,7 +14939,7 @@ TilemapRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 1921735841
-  m_SortingLayer: 9
+  m_SortingLayer: 10
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
@@ -30594,7 +30594,7 @@ TilemapRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: -322401449
-  m_SortingLayer: 8
+  m_SortingLayer: 9
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
@@ -55955,15 +55955,15 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1965982345}
     m_Modifications:
     - target: {fileID: 2810334694789996741, guid: e5c3b1d6bfd79ea46a240bf53013c524, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 491.5637
+      value: 230.56369
       objectReference: {fileID: 0}
     - target: {fileID: 2810334694789996741, guid: e5c3b1d6bfd79ea46a240bf53013c524, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 284.71
+      value: 218.70999
       objectReference: {fileID: 0}
     - target: {fileID: 2810334694789996741, guid: e5c3b1d6bfd79ea46a240bf53013c524, type: 3}
       propertyPath: m_LocalPosition.z
@@ -55975,15 +55975,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2810334694789996741, guid: e5c3b1d6bfd79ea46a240bf53013c524, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 2810334694789996741, guid: e5c3b1d6bfd79ea46a240bf53013c524, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 2810334694789996741, guid: e5c3b1d6bfd79ea46a240bf53013c524, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 2810334694789996741, guid: e5c3b1d6bfd79ea46a240bf53013c524, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -56010,6 +56010,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e5c3b1d6bfd79ea46a240bf53013c524, type: 3}
+--- !u!4 &1952719028 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2810334694789996741, guid: e5c3b1d6bfd79ea46a240bf53013c524, type: 3}
+  m_PrefabInstance: {fileID: 1952719027}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1965982343
 GameObject:
   m_ObjectHideFlags: 0
@@ -56021,7 +56026,7 @@ GameObject:
   - component: {fileID: 1965982345}
   - component: {fileID: 1965982344}
   m_Layer: 0
-  m_Name: Grid for lvl 1
+  m_Name: RobotBasement
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -56060,6 +56065,7 @@ Transform:
   - {fileID: 1115512235}
   - {fileID: 720823962}
   - {fileID: 1152984311}
+  - {fileID: 1952719028}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2066920809
@@ -56141,7 +56147,7 @@ TilemapRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 1737175793
-  m_SortingLayer: 7
+  m_SortingLayer: 8
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
@@ -67045,4 +67051,3 @@ SceneRoots:
   m_Roots:
   - {fileID: 138661637}
   - {fileID: 1965982345}
-  - {fileID: 1952719027}
