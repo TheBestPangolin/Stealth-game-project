@@ -85,6 +85,9 @@ TagManager:
   - name: street furniture
     uniqueID: 348651591
     locked: 0
+  - name: player
+    uniqueID: 3833015813
+    locked: 0
   - name: above all
     uniqueID: 1737175793
     locked: 0
