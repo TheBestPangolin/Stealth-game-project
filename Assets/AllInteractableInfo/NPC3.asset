@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: NPC3
   m_EditorClassIdentifier: Assembly-CSharp::InteractableInfo
   Type: 1
-  PathToDialogFile: 
+  PathToDialogFile: npc3
   PickableInstruments: 010000000000000001000000
   TeleportLocation: {x: 0, y: 0}
   SceneName: 
