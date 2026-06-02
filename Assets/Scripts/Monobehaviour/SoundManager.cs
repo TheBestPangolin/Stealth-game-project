@@ -104,7 +104,7 @@ public class SoundManager : MonoBehaviour
 
     public void ChangeVolume(float volume)
     {
-        if (curLoopObj is not null)
+        if (curLoopObj != default)
             curLoopObj.GetComponent<AudioSource>().volume = volume;
     }
 }

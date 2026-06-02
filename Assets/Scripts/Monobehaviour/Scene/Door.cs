@@ -9,7 +9,7 @@ public class Door : MonoBehaviour
     [SerializeField] public GameObject InteractableOnDestroy;
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
@@ -26,3 +26,4 @@ public class Door : MonoBehaviour
         }
     }
 }
+
