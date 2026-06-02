@@ -7,14 +7,17 @@ public class SoundManager : MonoBehaviour
 
     [SerializeField] private AudioSource soundFXObject;
     private Coroutine cur;
-    [SerializeField] public GameObject curLoopObj;
+    public GameObject curLoopObj;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Awake()
     {
-        DontDestroyOnLoad(gameObject);
         if (instance == null)
             instance = this;
+        else
+            Destroy(gameObject);
+        DontDestroyOnLoad(gameObject);
+        
     }
 
     // Update is called once per frame

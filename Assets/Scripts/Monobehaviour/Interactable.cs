@@ -60,7 +60,7 @@ public class Interactable : MonoBehaviour
                     player.Interact = () =>
                     {
                         player.ChangePosition(Info.TeleportLocation);
-                        Destroy(transform.parent.gameObject);
+                        Destroy(gameObject);
                     };
                     hint = "[E] - Перейти";
                     break;
@@ -105,8 +105,11 @@ public class Interactable : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D collision)
     {
+        
         if (collision.CompareTag("Player"))
         {
+            var player = collision.gameObject.GetComponent<PlayerScript>();
+            player.Interact = null;
             TextHint.DisableHint?.Invoke();
         }
     }

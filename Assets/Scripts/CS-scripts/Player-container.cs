@@ -12,4 +12,14 @@ public static class Player_container
     public static int[] InstrumentCount = new int[3];
 
     public static int cardsCounter = 0;
+
+    public static void SetDefault()
+    {
+        CurrentRespawn = default;
+        NPCCounter = 0;
+
+        InstrumentCount = new int[3];
+
+        cardsCounter = 0;
+    }
 }
