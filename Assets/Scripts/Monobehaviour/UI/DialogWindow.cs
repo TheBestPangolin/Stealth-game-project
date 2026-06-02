@@ -54,8 +54,10 @@ public class DialogWindow : MonoBehaviour
 
     private void ShowDialog(string dialog)
     {
-        SetText(dialog);
+        var timer = new MyTimer();
+        timer.OnElapsed = () => SetText(dialog);
         Animator.SetBool("IsShowing", true);
+        timer.Start(0.5f);
         hint.fontSize = 30;
     }
 
