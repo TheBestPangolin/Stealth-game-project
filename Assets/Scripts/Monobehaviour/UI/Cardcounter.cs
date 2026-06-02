@@ -18,7 +18,7 @@ public class Cardcounter : MonoBehaviour
     {
         if (collision.tag == "Player")
         {
-            cardCounterHint.DisplayHint(Player_container.cardsCounter.ToString() + "/3");
+            cardCounterHint.DisplayHint?.Invoke(Player_container.cardsCounter.ToString() + "/3");
         }
     }
 
@@ -26,7 +26,7 @@ public class Cardcounter : MonoBehaviour
     {
         if (collision.tag == "Player")
         {
-            cardCounterHint.DisableHint();
+            cardCounterHint.DisableHint?.Invoke();
         }
     }
 }
