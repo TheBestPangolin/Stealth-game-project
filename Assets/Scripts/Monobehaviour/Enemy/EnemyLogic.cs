@@ -1,3 +1,4 @@
+using System.Linq;
 using UnityEngine;
 using UnityEngine.AI;
 
@@ -27,6 +28,7 @@ public class EnemyLogic : MonoBehaviour
 
     private void Awake()
     {
+        MovePointsTransform = MovePointsTransform.Where(x => x != null).ToArray();
         Animator = GetComponentInChildren<Animator>();
         StartPoint = new Vector2(transform.position.x, transform.position.y);
         NavMeshAgent agent = null;
