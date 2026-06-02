@@ -13,4 +13,20 @@ public class Cardcounter : MonoBehaviour
     {
         
     }
+
+    private void OnTriggerStay2D(Collider2D collision)
+    {
+        if (collision.tag == "Player")
+        {
+            cardCounterHint.DisplayHint(Player_container.cardsCounter.ToString() + "/3");
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.tag == "Player")
+        {
+            cardCounterHint.DisableHint();
+        }
+    }
 }

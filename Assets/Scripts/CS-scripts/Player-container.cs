@@ -10,4 +10,6 @@ public static class Player_container
     public static float MusicVolume = 1.0f;
 
     public static int[] InstrumentCount = new int[3];
+
+    public static int cardsCounter = 0;
 }

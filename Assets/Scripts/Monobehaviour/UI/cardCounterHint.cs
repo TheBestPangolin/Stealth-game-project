@@ -1,6 +1,7 @@
 using System;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 public class cardCounterHint : MonoBehaviour
 {
@@ -8,11 +9,13 @@ public class cardCounterHint : MonoBehaviour
     public static Action DisableHint;
     private Animator Hint_Animator;
     private TMP_Text Text;
+    [SerializeField] GameObject cardimage;
 
     void Start()
     {
         Hint_Animator = GetComponent<Animator>();
         Text = GetComponentInChildren<TMP_Text>();
+        cardimage.SetActive(false);
     }
 
     // Update is called once per frame
@@ -37,10 +40,12 @@ public class cardCounterHint : MonoBehaviour
     {
         Text.SetText(text);
         Hint_Animator.SetBool("IsShowing", true);
+        cardimage.SetActive(true);
 
     }
     private void HideHint()
     {
         Hint_Animator.SetBool("IsShowing", false);
+        cardimage.SetActive(false);
     }
 }

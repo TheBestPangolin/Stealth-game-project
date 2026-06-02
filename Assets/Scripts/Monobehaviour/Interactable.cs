@@ -69,6 +69,7 @@ public class Interactable : MonoBehaviour
                     {
                         foreach (var door in Doors)
                             door.ActuatedSwitches++;
+                        
                     };
                     hint = "[E] - Переключить рубильник";
                     break;
@@ -84,6 +85,7 @@ public class Interactable : MonoBehaviour
                     {
                         foreach (var door in Doors)
                             door.ActuatedSwitches++;
+                        Player_container.cardsCounter++;
                         Destroy(transform.parent.gameObject);
                     };
                     hint = "[E] - Подобрать";
