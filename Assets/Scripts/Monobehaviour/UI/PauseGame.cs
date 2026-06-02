@@ -47,6 +47,7 @@ public class PauseGame : MonoBehaviour
 
     public void ReturnToMain()
     {
+        Time.timeScale = 1;
         SceneManager.LoadScene("Main-Menu");
     }
 
@@ -65,5 +66,10 @@ public class PauseGame : MonoBehaviour
         Player_container.MasterVolume = sliders[2].value;
         SoundManager.instance?.ChangeVolume(sliders[1].value * sliders[2].value);
         Settings.SetActive(false);
+    }
+
+    public void Quit()
+    {
+        Application.Quit();
     }
 }

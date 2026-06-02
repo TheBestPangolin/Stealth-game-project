@@ -43,6 +43,7 @@ public class Interactable : MonoBehaviour
                         DialogWindow.ReadFileDialogs(Info.PathToDialogFile);
                         player.PickUp(Info.PickableInstruments);
                         Player_container.NPCCounter++;
+                        Destroy(gameObject);
                     };
                     hint = "[E] - Поговорить";
                     break;
