@@ -68,12 +68,15 @@ public class DialogWindow : MonoBehaviour
 
     private void ReadDialogs(string path)
     {
-        var lines = Resources.Load<TextAsset>("Dialogs/"+path).text.Split("\n");
-        foreach (var line in lines)
+        if (DialogQueue.Count == 0)
         {
-            DialogQueue.Enqueue(line);
+            var lines = Resources.Load<TextAsset>("Dialogs/" + path).text.Split("\n");
+            foreach (var line in lines)
+            {
+                DialogQueue.Enqueue(line);
+            }
+            ShowDialog(DialogQueue.Dequeue());
         }
-        ShowDialog(DialogQueue.Dequeue());
     }
 
     private void SetText(string text)

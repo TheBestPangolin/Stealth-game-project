@@ -28,9 +28,6 @@ public class PlayerScript : MonoBehaviour
     {
         LineRend = GetComponentInChildren<LineOfThrowRenderer>();
         InstrumentRenderer = GetComponentsInChildren<SpriteRenderer>().Where(r => r.gameObject.name.StartsWith("InstrumentRend")).First();
-        InstrumentCount[0] = 1;
-        InstrumentCount[1] = 1;
-        InstrumentCount[2] = 1;
         Animator = GetComponentInChildren<Animator>();
         
         rb = GetComponent<Rigidbody2D>();
@@ -116,19 +113,19 @@ public class PlayerScript : MonoBehaviour
     void ChangeEquipment()
     {
         var input = Keyboard.current;
-        if (input.digit1Key.isPressed)
+        if (input.digit1Key.isPressed && InstrumentCount[0] > 0)
         {
             CurrentInstrument = 0;
             HolsterHint.DisplayHint();
         }
 
-        if (input.digit2Key.isPressed)
+        if (input.digit2Key.isPressed && InstrumentCount[1] > 0)
         {
             CurrentInstrument = 1;
             HolsterHint.DisplayHint();
         }
 
-        if (input.digit3Key.isPressed)
+        if (input.digit3Key.isPressed && InstrumentCount[2] > 0)
         {
             CurrentInstrument = 2;
             HolsterHint.DisplayHint();

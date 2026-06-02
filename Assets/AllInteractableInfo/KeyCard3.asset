@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 252d4dfb5930b9546bfc99faaffcf559, type: 3}
   m_Name: KeyCard3
   m_EditorClassIdentifier: Assembly-CSharp::InteractableInfo
-  Type: 0
+  Type: 6
   PathToDialogFile: 
   PickableInstruments: 000000000000000000000000
   TeleportLocation: {x: 0, y: 0}

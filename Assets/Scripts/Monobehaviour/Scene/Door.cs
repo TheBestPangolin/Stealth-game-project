@@ -7,6 +7,7 @@ public class Door : MonoBehaviour
     [SerializeField] public EnemyLogic[] Enemies;
 
     [SerializeField] public GameObject InteractableOnDestroy;
+    bool iscreated;
     void Start()
     {
 
@@ -21,8 +22,11 @@ public class Door : MonoBehaviour
                 Destroy(enemy.gameObject);
             if (InteractableOnDestroy == default)
                 Destroy(gameObject);
-            else
+            else if (!iscreated)
+            {
                 Instantiate(InteractableOnDestroy);
+                iscreated = true;
+            }
         }
     }
 }
