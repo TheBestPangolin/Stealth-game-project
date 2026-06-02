@@ -53,7 +53,7 @@ public class TypewriterText : MonoBehaviour
                 if (SceneManager.GetActiveScene().name.EndsWith('d'))
                     SceneManager.LoadScene("Main-Menu");
                 else
-                    SceneManager.LoadScene("Final_cutscene_" + (Player_container.NPCCounter >= 2 ? "good" : "bad"));
+                    SceneManager.LoadScene("Final_cutscene_" + (Player_container.NPCCounter >= 3 ? "good" : "bad"));
                 
             }
             else
