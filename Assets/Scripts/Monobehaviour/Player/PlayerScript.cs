@@ -22,13 +22,12 @@ public class PlayerScript : MonoBehaviour
     [SerializeField] GameObject Instrument;
 
     public int CurrentInstrument = -1;
-    public int[] InstrumentCount;
+    public int[] InstrumentCount => Player_container.InstrumentCount;
 
     private void Awake()
     {
         LineRend = GetComponentInChildren<LineOfThrowRenderer>();
         InstrumentRenderer = GetComponentsInChildren<SpriteRenderer>().Where(r => r.gameObject.name.StartsWith("InstrumentRend")).First();
-        InstrumentCount = new int[InstrumentNames.Length];
         InstrumentCount[0] = 1;
         InstrumentCount[1] = 1;
         InstrumentCount[2] = 1;
