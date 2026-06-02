@@ -88,6 +88,13 @@ public class Interactable : MonoBehaviour
                     };
                     hint = "[E] - Подобрать";
                     break;
+                case 7:
+                    player.Interact = () =>
+                    {
+                        SceneManager.LoadScene(Info.SceneName);
+                    };
+                    hint = "[E] - Спасти человечество";
+                    break;
             }
             
             TextHint.DisplayHint?.Invoke(hint);

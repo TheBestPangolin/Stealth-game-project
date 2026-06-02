@@ -12,6 +12,7 @@ public class InteractableInfo : ScriptableObject
     /// 4 = Рубильник
     /// 5 = переход на сцену
     /// 6 = ключ
+    /// 7 = конец
     /// </summary>
     public int Type;
 
