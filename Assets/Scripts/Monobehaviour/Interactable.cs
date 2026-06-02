@@ -41,6 +41,7 @@ public class Interactable : MonoBehaviour
                     player.Interact = () =>
                     {
                         DialogWindow.ReadFileDialogs(Info.PathToDialogFile);
+                        player.PickUp(Info.PickableInstruments);
                     };
                     hint = "[E] - Поговорить";
                     break;
@@ -57,6 +58,7 @@ public class Interactable : MonoBehaviour
                     player.Interact = () =>
                     {
                         player.ChangePosition(Info.TeleportLocation);
+                        Destroy(gameObject);
                     };
                     hint = "[E] - Перейти";
                     break;
