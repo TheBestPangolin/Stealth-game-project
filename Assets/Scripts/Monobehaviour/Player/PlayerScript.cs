@@ -38,7 +38,6 @@ public class PlayerScript : MonoBehaviour
         if (Player_container.CurrentRespawn == default)
             Player_container.CurrentRespawn = rb.position;
         rb.position = Player_container.CurrentRespawn;
-        transform.position = CurrentRespawnPoint;
     }
 
 

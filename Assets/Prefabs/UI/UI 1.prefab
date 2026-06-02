@@ -2373,7 +2373,7 @@ GameObject:
   - component: {fileID: 8750053472170383650}
   m_Layer: 5
   m_Name: Chosen
-  m_TagString: Untagged
+  m_TagString: Chosen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
