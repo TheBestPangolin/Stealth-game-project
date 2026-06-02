@@ -4193,6 +4193,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a8820647fefec7488bc7ef5107b1b8d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Buttons
+  Settings: {fileID: 0}
+  sliders: []
 --- !u!114 &6663851839678409138
 MonoBehaviour:
   m_ObjectHideFlags: 0

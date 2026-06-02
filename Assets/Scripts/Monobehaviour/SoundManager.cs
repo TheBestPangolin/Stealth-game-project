@@ -95,8 +95,16 @@ public class SoundManager : MonoBehaviour
 
         audioSource.Play();
 
+        curLoopObj = audioSource.gameObject;
+
         var length = audioSource.clip.length;
 
         Destroy(audioSource.gameObject, length);
+    }
+
+    public void ChangeVolume(float volume)
+    {
+        if (curLoopObj is not null)
+            curLoopObj.GetComponent<AudioSource>().volume = volume;
     }
 }
