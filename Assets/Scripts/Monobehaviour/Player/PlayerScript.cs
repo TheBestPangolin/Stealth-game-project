@@ -83,7 +83,10 @@ public class PlayerScript : MonoBehaviour
             if (Mouse.current.leftButton.wasPressedThisFrame)
                 CheckThrow();
             if (Keyboard.current.eKey.wasPressedThisFrame)
+            {
                 Interact?.Invoke();
+                Interact = null;
+            }
         }
     }
 
