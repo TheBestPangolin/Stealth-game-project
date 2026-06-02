@@ -32,7 +32,7 @@ public class TypewriterText : MonoBehaviour
     {
         if (Mouse.current.leftButton.wasPressedThisFrame)
         {
-            if (textComponent.maxVisibleCharacters == textComponent.textInfo.characterCount)
+            if (textComponent.maxVisibleCharacters == textComponent.textInfo.characterCount && !SceneManager.GetActiveScene().name.StartsWith("Final"))
             {
                 var name = SceneManager.GetActiveScene().name;
                 var number = int.Parse(name.Substring(name.Length - 1));
@@ -41,10 +41,19 @@ public class TypewriterText : MonoBehaviour
                 else
                     SceneManager.LoadScene(name.Substring(0, name.Length - 1) + (number + 1).ToString());
             }
+            if (textComponent.maxVisibleCharacters == textComponent.textInfo.characterCount && SceneManager.GetActiveScene().name.StartsWith("Final"))
+            {
+                if (SceneManager.GetActiveScene().name.EndsWith('d'))
+                    SceneManager.LoadScene("Main-Menu");
+                else
+                    SceneManager.LoadScene("Final_cutscene_" + (Player_container.NPCCounter >= 2 ? "good" : "bad"));
+                
+            }
             else
             {
                 StopCoroutine(TypeTextCoroutine);
                 textComponent.maxVisibleCharacters = textComponent.textInfo.characterCount;
+                return;
             }
         }
     }

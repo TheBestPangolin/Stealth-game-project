@@ -84,7 +84,7 @@ public class EnemyLogic : MonoBehaviour
             LookVector = dynamic.Agent.desiredVelocity;
             if (!Animator.GetBool("IsShootPlaying"))
                 AnimationMethods.ChangeAnimation(Animator, MovePointsTransform.Length > 1 || IsChasing, LookVector);
-            if (dynamic.Agent.remainingDistance <= epsilon)
+            if (dynamic.Agent.remainingDistance <= epsilon || dynamic.Agent.pathStatus != NavMeshPathStatus.PathComplete)
             {
                 if (IsChasing)
                 {

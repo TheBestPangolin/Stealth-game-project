@@ -1,6 +1,8 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
-public class MainLevelMusic : MonoBehaviour
+public class endMusic : MonoBehaviour
 {
     private bool IsPlaying = false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -18,8 +20,7 @@ public class MainLevelMusic : MonoBehaviour
 
             if (instance is not null)
             {
-                instance.StopPlayingLoopSound();
-                instance.StartPlayingLoopSoundWithDestr(Resources.Load<AudioClip>("Music/mainlvl"), transform.parent, Player_container.MasterVolume * Player_container.MusicVolume * 1.25f);
+                instance.StartPlayingLoopSound(Resources.Load<AudioClip>("Music/Ending"), transform.parent, Player_container.MasterVolume * Player_container.MusicVolume);
                 IsPlaying = true;
             }
         }
