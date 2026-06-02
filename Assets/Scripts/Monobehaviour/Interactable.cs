@@ -60,7 +60,7 @@ public class Interactable : MonoBehaviour
                     player.Interact = () =>
                     {
                         player.ChangePosition(Info.TeleportLocation);
-                        Destroy(gameObject);
+                        Destroy(transform.parent.gameObject);
                     };
                     hint = "[E] - Перейти";
                     break;

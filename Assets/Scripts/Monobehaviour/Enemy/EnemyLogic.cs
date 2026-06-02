@@ -47,7 +47,7 @@ public class EnemyLogic : MonoBehaviour
         }
         else if (name.StartsWith("camera"))
             Entity = new CameraEnemy(rb, Animator);
-        else if (name.StartsWith("laser"))
+        else if (name.StartsWith("mannequin"))
             Entity = new LaserEnemy(rb, Animator);
         if (!name.StartsWith("camera"))
         {
@@ -67,7 +67,8 @@ public class EnemyLogic : MonoBehaviour
             dynamic.GoNext(ConvertLocal3DToWorld2D(MovePointsTransform[CurPoint].localPosition));
         }
         FOV_Checker = new FOV_Logic(Distance, Angle, Walls, Player, () => transform.position, () => LookVector, 
-            target => Entity.OnDetect(target), StartChase, SetTarget, b => IsSeeing = b);
+            Entity is LaserEnemy ? target => LookVector = target - Entity.Rigidbody.position : target => Entity.OnDetect(target), 
+            StartChase, SetTarget, b => IsSeeing = b);
         StartCoroutine(FOV_Checker.FOV_Coroutine());
     }
 
@@ -106,7 +107,10 @@ public class EnemyLogic : MonoBehaviour
         else
         {
             if (MovePointsTransform.Length == 0)
-                LookVector = Vector3.right;
+            {
+                if (!IsSeeing || Entity is not LaserEnemy)
+                    LookVector = Vector3.right;
+            }
             else
                 LookVector = (Vector2)MovePointsTransform[0].position - Entity.Rigidbody.position;
             AnimationMethods.ChangeAnimation(Animator, false, LookVector);

@@ -41,7 +41,9 @@ public class AnimationFlags : MonoBehaviour
     void Respawn()
     {
         var load = SceneManager.GetActiveScene();
-        SceneManager.LoadScene(load.name);
+        var parent = GetComponentInParent<PlayerScript>();
+        parent.rb.position = Player_container.CurrentRespawn;
+        parent.Animator.SetBool("IsDead", false);
     }
 
     void SetDead()

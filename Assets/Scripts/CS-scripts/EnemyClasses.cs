@@ -120,5 +120,6 @@ public class LaserEnemy : StaticEnemy
 
     public override void OnDetect(Vector2 target)
     {
+
     }
 }

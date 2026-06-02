@@ -9,7 +9,7 @@ public class PlayerScript : MonoBehaviour
     public Animator Animator;
     [SerializeField] public LineOfThrowRenderer LineRend;
     [SerializeField] public SpriteRenderer InstrumentRenderer;
-    Rigidbody2D rb;
+    public Rigidbody2D rb;
     const float MoveSpeed = 7f;
     public Vector2 CurrentRespawnPoint => Player_container.CurrentRespawn;
     public Action Interact;

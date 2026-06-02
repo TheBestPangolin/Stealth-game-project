@@ -42,6 +42,7 @@ public class PauseGame : MonoBehaviour
     {
         Time.timeScale = 1; // Возобновление игры
         Menu.SetActive(false); // Скрыть панель
+        isPaused = false;
         HideSettings();
     }
 
