@@ -63,6 +63,7 @@ public class PauseGame : MonoBehaviour
         Player_container.SoundVolume = sliders[0].value;
         Player_container.MusicVolume = sliders[1].value;
         Player_container.MasterVolume = sliders[2].value;
+        SoundManager.instance?.ChangeVolume(sliders[1].value * sliders[2].value);
         Settings.SetActive(false);
     }
 }

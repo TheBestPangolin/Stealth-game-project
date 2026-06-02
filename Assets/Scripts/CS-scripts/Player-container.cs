@@ -8,4 +8,6 @@ public static class Player_container
     public static float MasterVolume = 1.0f;
     public static float SoundVolume = 1.0f;
     public static float MusicVolume = 1.0f;
+
+    public static int[] InstrumentCount = new int[3];
 }

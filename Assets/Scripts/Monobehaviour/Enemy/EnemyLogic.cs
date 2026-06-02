@@ -1,9 +1,6 @@
 using System.Linq;
-using System.Threading;
-using UnityEditor.Animations;
 using UnityEngine;
 using UnityEngine.AI;
-using static UnityEngine.GraphicsBuffer;
 
 public class EnemyLogic : MonoBehaviour
 {
@@ -31,6 +28,7 @@ public class EnemyLogic : MonoBehaviour
 
     private void Awake()
     {
+        MovePointsTransform = MovePointsTransform.Where(x => x != null).ToArray();
         Animator = GetComponentInChildren<Animator>();
         StartPoint = new Vector2(transform.position.x, transform.position.y);
         NavMeshAgent agent = null;
@@ -88,7 +86,7 @@ public class EnemyLogic : MonoBehaviour
             LookVector = dynamic.Agent.desiredVelocity;
             if (!Animator.GetBool("IsShootPlaying"))
                 AnimationMethods.ChangeAnimation(Animator, MovePointsTransform.Length > 1 || IsChasing, LookVector);
-            if (dynamic.Agent.remainingDistance <= epsilon)
+            if (dynamic.Agent.remainingDistance <= epsilon || dynamic.Agent.pathStatus != NavMeshPathStatus.PathComplete)
             {
                 if (IsChasing)
                 {

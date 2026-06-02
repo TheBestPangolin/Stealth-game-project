@@ -7,6 +7,7 @@ public class SoundManager : MonoBehaviour
 
     [SerializeField] private AudioSource soundFXObject;
     private Coroutine cur;
+    [SerializeField] public GameObject curLoopObj;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Awake()
@@ -36,6 +37,8 @@ public class SoundManager : MonoBehaviour
 
         audioSource.Play();
 
+        curLoopObj = audioSource.gameObject;
+
         var length = audioSource.clip.length;
 
         Destroy(audioSource.gameObject, length);
@@ -48,7 +51,11 @@ public class SoundManager : MonoBehaviour
 
     public void StopPlayingLoopSound()
     {
-        StopCoroutine(cur);
+        if (cur is not null)
+        {
+            StopCoroutine(cur);
+            Destroy(curLoopObj);
+        }
     }
 
     private IEnumerator PlaySoundAtLoop(AudioClip audioClip, Transform origin, float volume)
@@ -88,8 +95,16 @@ public class SoundManager : MonoBehaviour
 
         audioSource.Play();
 
+        curLoopObj = audioSource.gameObject;
+
         var length = audioSource.clip.length;
 
         Destroy(audioSource.gameObject, length);
+    }
+
+    public void ChangeVolume(float volume)
+    {
+        if (curLoopObj is not null)
+            curLoopObj.GetComponent<AudioSource>().volume = volume;
     }
 }

@@ -59,7 +59,7 @@ LineRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -6011625621783420070, guid: 0015d5d487e6b4c51b6be43a47511ed9, type: 3}
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -427,7 +427,6 @@ MonoBehaviour:
   InstrumentRenderer: {fileID: 5731146498323599937}
   Instrument: {fileID: 2080137353796009438, guid: ccaa1aa6b3ab71544b7dcfd863111cc6, type: 3}
   CurrentInstrument: -1
-  InstrumentCount: 
 --- !u!50 &3923500618866832895
 Rigidbody2D:
   serializedVersion: 5

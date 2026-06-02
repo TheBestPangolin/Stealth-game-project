@@ -4,6 +4,7 @@ public class Door : MonoBehaviour
 {
     public int NumbOfSwitches = 0;
     public int ActuatedSwitches = 0;
+    [SerializeField] public EnemyLogic[] Enemies;
     void Start()
     {
         
@@ -13,6 +14,10 @@ public class Door : MonoBehaviour
     void Update()
     {
         if (NumbOfSwitches == ActuatedSwitches)
+        {
+            foreach (EnemyLogic enemy in Enemies)
+                Destroy(enemy.gameObject);
             Destroy(gameObject);
+        }
     }
 }

@@ -13,6 +13,8 @@ public class TypewriterText : MonoBehaviour
 
     Coroutine TypeTextCoroutine;
 
+    GameObject loadtext;
+
     private TMP_Text textComponent;
     private string fullText;
 
@@ -24,6 +26,8 @@ public class TypewriterText : MonoBehaviour
 
     private void Start()
     {
+        loadtext = GameObject.FindGameObjectWithTag("Chosen");
+        loadtext?.SetActive(false);
         StartCoroutine(Fade(1f, 0f, 1f));
         TypeTextCoroutine = StartCoroutine(TypeText());
     }
@@ -32,19 +36,31 @@ public class TypewriterText : MonoBehaviour
     {
         if (Mouse.current.leftButton.wasPressedThisFrame)
         {
-            if (textComponent.maxVisibleCharacters == textComponent.textInfo.characterCount)
+            if (textComponent.maxVisibleCharacters == textComponent.textInfo.characterCount && !SceneManager.GetActiveScene().name.StartsWith("Final"))
             {
                 var name = SceneManager.GetActiveScene().name;
                 var number = int.Parse(name.Substring(name.Length - 1));
                 if (name.EndsWith("6"))
+                {
+                    loadtext.SetActive(true);
                     SceneManager.LoadSceneAsync("Main Sketch");
+                }
                 else
                     SceneManager.LoadScene(name.Substring(0, name.Length - 1) + (number + 1).ToString());
+            }
+            if (textComponent.maxVisibleCharacters == textComponent.textInfo.characterCount && SceneManager.GetActiveScene().name.StartsWith("Final"))
+            {
+                if (SceneManager.GetActiveScene().name.EndsWith('d'))
+                    SceneManager.LoadScene("Main-Menu");
+                else
+                    SceneManager.LoadScene("Final_cutscene_" + (Player_container.NPCCounter >= 2 ? "good" : "bad"));
+                
             }
             else
             {
                 StopCoroutine(TypeTextCoroutine);
                 textComponent.maxVisibleCharacters = textComponent.textInfo.characterCount;
+                return;
             }
         }
     }
